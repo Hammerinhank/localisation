@@ -1,8 +1,8 @@
-Date : 7 juin 2026 à 10:00
-Localisation : 5 Rue Robert Lindet
+Date : 7 juin 2026 à 14:00
+Localisation : 55 Rue Olivier de Serres
 75015 Paris
 France
-Latitude :48.83388933936934
-Longitude : 2.295461347242651
-Altitude : 68,409707660086
+Latitude :48.83403890753196
+Longitude : 2.29544256808329
+Altitude : 53,2287388260469
 Code postal : 75015
