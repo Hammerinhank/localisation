@@ -1,8 +1,9 @@
-Date : 9 juin 2026 à 16:00
-Localisation : 27 Rue Vaugelas
-75015 Paris
+Date : 9 juin 2026 à 18:00
+Localisation : Hôpital Broca
+3 Rue Corvisart
+75013 Paris
 France
-Latitude :48.83348169620839
-Longitude : 2.293562513718099
-Altitude : 41,0697329619366
-Code postal : 75015
+Latitude :48.83428215323981
+Longitude : 2.346310522249697
+Altitude : 43,6909004211426
+Code postal : 75013
