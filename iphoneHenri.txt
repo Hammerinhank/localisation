@@ -1,8 +1,8 @@
-Date : 9 juin 2026 à 14:00
-Localisation : 5 Rue Robert Lindet
+Date : 9 juin 2026 à 16:00
+Localisation : 27 Rue Vaugelas
 75015 Paris
 France
-Latitude :48.83389449830509
-Longitude : 2.295457360520514
-Altitude : 64,0843805075062
+Latitude :48.83348169620839
+Longitude : 2.293562513718099
+Altitude : 41,0697329619366
 Code postal : 75015
