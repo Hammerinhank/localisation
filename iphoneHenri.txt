@@ -1,8 +1,9 @@
-Date : 10 juin 2026 à 10:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 10 juin 2026 à 12:00
+Localisation : Hôpital Broca
+3 Rue Corvisart
+75013 Paris
 France
-Latitude :48.83393762939389
-Longitude : 2.295539820369703
-Altitude : 57,1764653256349
-Code postal : 75015
+Latitude :48.83420128436057
+Longitude : 2.34633687174331
+Altitude : 0
+Code postal : 75013
