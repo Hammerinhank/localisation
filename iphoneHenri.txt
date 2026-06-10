@@ -1,9 +1,8 @@
-Date : 10 juin 2026 à 18:00
-Localisation : Montparnasse–Bienvenüe
-75 Boulevard du Montparnasse
-75006 Paris
+Date : 10 juin 2026 à 19:00
+Localisation : 5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.84357861666667
-Longitude : 2.3249925
-Altitude : 49
-Code postal : 75006
+Latitude :48.83393722588325
+Longitude : 2.295538749381142
+Altitude : 57,17715578584
+Code postal : 75015
