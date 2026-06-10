@@ -1,8 +1,9 @@
-Date : 10 juin 2026 à 19:00
-Localisation : 5 Rue Robert Lindet
+Date : 10 juin 2026 à 20:00
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83393722588325
-Longitude : 2.295538749381142
-Altitude : 57,17715578584
+Latitude :48.83384056741289
+Longitude : 2.295202123203611
+Altitude : 52,1658454894026
 Code postal : 75015
