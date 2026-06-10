@@ -1,9 +1,9 @@
-Date : 10 juin 2026 à 17:00
-Localisation : Hôpital Broca
-56 Rue Pascal
-75013 Paris
+Date : 10 juin 2026 à 18:00
+Localisation : Montparnasse–Bienvenüe
+75 Boulevard du Montparnasse
+75006 Paris
 France
-Latitude :48.83423004755854
-Longitude : 2.347416775186931
-Altitude : 38,8771987038557
-Code postal : 75013
+Latitude :48.84357861666667
+Longitude : 2.3249925
+Altitude : 49
+Code postal : 75006
