@@ -1,9 +1,9 @@
-Date : 11 juin 2026 à 10:00
+Date : 11 juin 2026 à 11:00
 Localisation : Hôpital Broca
 3 Rue Corvisart
 75013 Paris
 France
-Latitude :48.83424684903503
-Longitude : 2.346300120825415
-Altitude : 44,9543672076123
+Latitude :48.83428215323981
+Longitude : 2.346310522249697
+Altitude : 44,8105598528662
 Code postal : 75013
