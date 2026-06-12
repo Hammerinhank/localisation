@@ -1,8 +1,8 @@
-Date : 12 juin 2026 à 16:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 12 juin 2026 à 17:00
+Localisation : 62 Boulevard Arago
+75013 Paris
 France
-Latitude :48.83394154798246
-Longitude : 2.295560447793134
-Altitude : 56,4274361979049
-Code postal : 75015
+Latitude :48.83499546150095
+Longitude : 2.34361170502895
+Altitude : 44,4307894010191
+Code postal : 75013
