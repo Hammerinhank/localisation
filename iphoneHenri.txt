@@ -1,8 +1,9 @@
-Date : 12 juin 2026 à 17:00
-Localisation : 62 Boulevard Arago
+Date : 12 juin 2026 à 18:00
+Localisation : Hôpital Broca
+5 Rue Corvisart
 75013 Paris
 France
-Latitude :48.83499546150095
-Longitude : 2.34361170502895
-Altitude : 44,4307894010191
+Latitude :48.83418591004479
+Longitude : 2.346339262869905
+Altitude : 45,1304624130891
 Code postal : 75013
