@@ -1,8 +1,8 @@
-Date : 12 juin 2026 à 10:00
+Date : 12 juin 2026 à 11:00
 Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83392148115543
-Longitude : 2.295475723986631
-Altitude : 51,4087945710734
+Latitude :48.83389777223398
+Longitude : 2.295471037625848
+Altitude : 66,3384171430396
 Code postal : 75015
