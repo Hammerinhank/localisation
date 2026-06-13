@@ -1,9 +1,8 @@
-Date : 13 juin 2026 à 11:00
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
-75015 Paris
+Date : 13 juin 2026 à 12:00
+Localisation : 87 Rue Pascal
+75013 Paris
 France
-Latitude :48.83377496443757
-Longitude : 2.295194082810182
-Altitude : 68,649352609697
-Code postal : 75015
+Latitude :48.83348321790108
+Longitude : 2.347318512947717
+Altitude : 38,38738203137
+Code postal : 75013
