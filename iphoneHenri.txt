@@ -4,6 +4,6 @@ Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
 Latitude :48.83388333373273
-Longitude : 2.295465897361766
-Altitude : 67,1005191641982
+Longitude : 1.295465897361766
+Altitude : 66,1005191641982
 Code postal : 75015
