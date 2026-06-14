@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juin 2026 à 11:00
-Localisation : Hôpital Broca
-3 Rue Corvisart
-75013 Paris
+Date : 14 juin 2026 à 12:00
+Localisation : 96 Boulevard Arago
+75014 Paris
 France
-Latitude :48.83426562636619
-Longitude : 2.346420458923509
-Altitude : 46,392520403862
-Code postal : 75013
+Latitude :48.83466138333333
+Longitude : 2.337448333333334
+Altitude : 45
+Code postal : 75014
