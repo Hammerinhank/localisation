@@ -5,5 +5,5 @@ Localisation : 5 Rue Robert Lindet
 France
 Latitude :48.83388333373273
 Longitude : 2.295465897361766
-Altitude : 68,1005191641982
+Altitude : 67,1005191641982
 Code postal : 75015
