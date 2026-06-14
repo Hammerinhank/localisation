@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juin 2026 à 12:00
-Localisation : 96 Boulevard Arago
-75014 Paris
+Date : 14 juin 2026 à 13:01
+Localisation : 5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.83466138333333
-Longitude : 2.337448333333334
-Altitude : 45
-Code postal : 75014
+Latitude :48.83390525904323
+Longitude : 2.295493186325864
+Altitude : 68,1005191641982
+Code postal : 75015
