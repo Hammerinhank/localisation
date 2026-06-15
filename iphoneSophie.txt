@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 juin 2026 à 13:00
-Localisation : Hôpital Test
-3 Rue Corvisart
-75013 Paris
+Date : 15 juin 2026 à 09:19
+Localisation : 1 Rue Robert Lindet
+75015 Paris
 France
-Latitude :49.83
-Longitude : 3.34
-Altitude : 100
-Code postal : 75013
+Latitude :48.83387435845297
+Longitude : 2.295342480770993
+Altitude : 57,839760783372
+Code postal : 75015
