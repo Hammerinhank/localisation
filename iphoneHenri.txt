@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 15 juin 2026 à 16:00
-Localisation : Parc Georges Brassens
-75015 Paris
+Date : 15 juin 2026 à 17:00
+Localisation : Hôpital Broca
+3 Rue Corvisart
+75013 Paris
 France
-Latitude :48.83219264311815
-Longitude : 2.299179774954312
-Altitude : 55,3988873896464
-Code postal : 75015
+Latitude :48.83428085688318
+Longitude : 2.346307086820302
+Altitude : 42,0275848776962
+Code postal : 75013
