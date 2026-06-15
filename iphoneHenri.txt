@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 15 juin 2026 à 15:46
+Date : 15 juin 2026 à 16:00
 Localisation : Parc Georges Brassens
 75015 Paris
 France
-Latitude :48.8325944738577
-Longitude : 2.29968020278767
-Altitude : 49,9930963076105
+Latitude :48.83219264311815
+Longitude : 2.299179774954312
+Altitude : 55,3988873896464
 Code postal : 75015
