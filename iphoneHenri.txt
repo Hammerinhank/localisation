@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 16 juin 2026 à 14:08
-Localisation : 68 Rue de Vouillé
+Date : 16 juin 2026 à 14:11
+Localisation : 3 Rue de l'Armorique
 75015 Paris
 France
-Latitude :48.83365967914563
-Longitude : 2.308852333263525
-Altitude : 45
+Latitude :48.84005833333334
+Longitude : 2.31488805
+Altitude : 59
 Code postal : 75015
