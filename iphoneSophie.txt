@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 juin 2026 à 12:30
-Localisation : Parc Georges Brassens
-104 Rue Brancion
+Date : 17 juin 2026 à 14:30
+Localisation : 21 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83152215217929
-Longitude : 2.300834811324606
-Altitude : 55,6050071716309
+Latitude :48.83312859920296
+Longitude : 2.296690672703118
+Altitude : 56,3970603942871
 Code postal : 75015
