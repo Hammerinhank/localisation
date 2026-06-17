@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 juin 2026 à 14:30
-Localisation : 21 Rue Robert Lindet
+Date : 17 juin 2026 à 16:30
+Localisation : 1 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83312859920296
-Longitude : 2.296690672703118
-Altitude : 56,3970603942871
+Latitude :48.83382523926007
+Longitude : 2.295375240829775
+Altitude : 56,3560782399756
 Code postal : 75015
