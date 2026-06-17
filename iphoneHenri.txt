@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 juin 2026 à 12:00
+Date : 17 juin 2026 à 13:00
 Localisation : Parc Georges Brassens
-Esplanade Silvia Monfort
 75015 Paris
 France
-Latitude :48.8314507047437
-Longitude : 2.300557279104747
-Altitude : 49,663607740909
+Latitude :48.83169159329819
+Longitude : 2.301176084401552
+Altitude : 46,174451482778
 Code postal : 75015
