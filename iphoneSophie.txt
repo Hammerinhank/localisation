@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 17 juin 2026 à 10:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
+Date : 17 juin 2026 à 12:30
+Localisation : Parc Georges Brassens
+104 Rue Brancion
 75015 Paris
 France
-Latitude :48.83382665284766
-Longitude : 2.295134882740133
-Altitude : 54,1884859724206
+Latitude :48.83152215217929
+Longitude : 2.300834811324606
+Altitude : 55,6050071716309
 Code postal : 75015
