@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 17 juin 2026 à 11:00
-Localisation : 62 Rue Dutot
+Date : 17 juin 2026 à 12:00
+Localisation : Parc Georges Brassens
+Esplanade Silvia Monfort
 75015 Paris
 France
-Latitude :48.8383875
-Longitude : 2.30846805
-Altitude : 58
+Latitude :48.8314507047437
+Longitude : 2.300557279104747
+Altitude : 49,663607740909
 Code postal : 75015
