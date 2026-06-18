@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 juin 2026 à 15:00
-Localisation : 29 Rue de la Santé
-75013 Paris
+Date : 18 juin 2026 à 17:00
+Localisation : 73 Rue Dutot
+75015 Paris
 France
-Latitude :48.83604203598343
-Longitude : 2.34257377943353
-Altitude : 47,654357420417
-Code postal : 75013
+Latitude :48.83728326794383
+Longitude : 2.307448372235804
+Altitude : 45
+Code postal : 75015
