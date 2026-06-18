@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 juin 2026 à 11:00
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
+Date : 18 juin 2026 à 12:00
+Localisation : Parc Georges Brassens
 75015 Paris
 France
-Latitude :48.83382563043968
-Longitude : 2.295305152998584
-Altitude : 44,907146891428
+Latitude :48.8315380873893
+Longitude : 2.300554698504224
+Altitude : 53,1323114419356
 Code postal : 75015
