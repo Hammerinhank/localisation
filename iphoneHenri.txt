@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 juin 2026 à 07:00
-Localisation : 5 Rue Robert Lindet
+Date : 18 juin 2026 à 08:00
+Localisation : 51 Rue Olivier de Serres
 75015 Paris
 France
-Latitude :48.83390556995368
-Longitude : 2.295482539585525
-Altitude : 59,033964859324
+Latitude :48.83408204827055
+Longitude : 2.295672920204296
+Altitude : 49,5853358259843
 Code postal : 75015
