@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 juin 2026 à 14:00
-Localisation : Hôpital Broca
-3 Rue Corvisart
+Date : 18 juin 2026 à 15:00
+Localisation : 29 Rue de la Santé
 75013 Paris
 France
-Latitude :48.83422363657764
-Longitude : 2.346255614380444
-Altitude : 42,6419627629445
+Latitude :48.83604203598343
+Longitude : 2.34257377943353
+Altitude : 47,654357420417
 Code postal : 75013
