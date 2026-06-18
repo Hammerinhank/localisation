@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 juin 2026 à 12:00
-Localisation : Parc Georges Brassens
+Date : 18 juin 2026 à 13:00
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.8315380873893
-Longitude : 2.300554698504224
-Altitude : 53,1323114419356
+Latitude :48.83393009035498
+Longitude : 2.29553222702473
+Altitude : 50,9193485854978
 Code postal : 75015
