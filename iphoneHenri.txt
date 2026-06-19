@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juin 2026 à 14:00
-Localisation : 80 Rue Olivier de Serres
-75015 Paris
+Date : 19 juin 2026 à 15:00
+Localisation : 15e Arr.
+Paris
 France
-Latitude :48.83321833617026
-Longitude : 2.293723073042632
-Altitude : 55,1789563872117
-Code postal : 75015
+Latitude :48.83253014637431
+Longitude : 2.295734480556014
+Altitude : 50,7993838296563
+Code postal : 
