@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juin 2026 à 15:00
-Localisation : 15e Arr.
-Paris
+Date : 19 juin 2026 à 16:00
+Localisation : Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.83253014637431
-Longitude : 2.295734480556014
-Altitude : 50,7993838296563
-Code postal : 
+Latitude :48.83374389951289
+Longitude : 2.295518921600831
+Altitude : 49,8693423048766
+Code postal : 75015
