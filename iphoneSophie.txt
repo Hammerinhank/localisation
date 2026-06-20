@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juin 2026 à 14:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
+Date : 20 juin 2026 à 16:30
+Localisation : 1 Rue des Morillons
 75015 Paris
 France
-Latitude :48.83379435324431
-Longitude : 2.295208120900665
-Altitude : 53,2965816618843
+Latitude :48.83452074933074
+Longitude : 2.29580491704477
+Altitude : 48,6934471130371
 Code postal : 75015
