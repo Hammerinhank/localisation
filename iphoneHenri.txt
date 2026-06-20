@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juin 2026 à 14:00
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
+Date : 20 juin 2026 à 15:00
+Localisation : 23 Rue Alain Chartier
 75015 Paris
 France
-Latitude :48.8337796308904
-Longitude : 2.295200497906209
-Altitude : 66,1556447433979
+Latitude :48.83783791717917
+Longitude : 2.296145017052142
+Altitude : 0
 Code postal : 75015
