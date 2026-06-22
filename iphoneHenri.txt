@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juin 2026 à 22:00
-Localisation : 356 Rue de Vaugirard
+Date : 22 juin 2026 à 23:00
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83562014195107
-Longitude : 2.292665322587393
-Altitude : 37,6834234476913
+Latitude :48.83392376708682
+Longitude : 2.295505267364145
+Altitude : 0
 Code postal : 75015
