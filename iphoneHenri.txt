@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juin 2026 à 11:00
-Localisation : 5 Rue Robert Lindet
+Date : 23 juin 2026 à 12:00
+Localisation : 84 Rue de Dantzig
 75015 Paris
 France
-Latitude :48.8338986178637
-Longitude : 2.295456441871221
-Altitude : 51,7130087281398
+Latitude :48.83024805
+Longitude : 2.295891666666667
+Altitude : 54
 Code postal : 75015
