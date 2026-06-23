@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juin 2026 à 22:30
-Localisation : 27 Rue Leriche
+Date : 23 juin 2026 à 09:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83460910680797
-Longitude : 2.295549319760718
-Altitude : 50,848266695225
+Latitude :48.83381855800575
+Longitude : 2.295220115207188
+Altitude : 56,449337927389
 Code postal : 75015
