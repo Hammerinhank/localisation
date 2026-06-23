@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 juin 2026 à 12:30
-Localisation : 5 Avenue Armand Rousseau
-75012 Paris
+Date : 23 juin 2026 à 14:30
+Localisation : Rue Jules Vanzuppe
+94200 Ivry-sur-Seine
 France
-Latitude :48.83558009358281
-Longitude : 2.408600775655914
-Altitude : 48,9528382873535
-Code postal : 75012
+Latitude :48.81920674978991
+Longitude : 2.394656099239849
+Altitude : 0
+Code postal : 94200
