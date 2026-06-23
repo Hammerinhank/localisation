@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juin 2026 à 14:00
-Localisation : 18 Ccal Quais d'Ivry
-94200 Ivry-sur-Seine
+Date : 23 juin 2026 à 15:00
+Localisation : Boulevard Périphérique Intérieur
+75013 Paris
 France
-Latitude :48.81891521778654
-Longitude : 2.394506380009427
-Altitude : 38,0578453242329
-Code postal : 94200
+Latitude :48.82384138333333
+Longitude : 2.382597783333333
+Altitude : 45
+Code postal : 75013
