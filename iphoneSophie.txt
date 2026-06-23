@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 23 juin 2026 à 14:30
-Localisation : Rue Jules Vanzuppe
-94200 Ivry-sur-Seine
+Date : 23 juin 2026 à 16:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.81920674978991
-Longitude : 2.394656099239849
-Altitude : 0
-Code postal : 94200
+Latitude :48.83382009397643
+Longitude : 2.295227000071207
+Altitude : 56,8950898119135
+Code postal : 75015
