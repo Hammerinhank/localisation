@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 23 juin 2026 à 18:31
-Localisation : 30 Rue de Dantzig
+Date : 23 juin 2026 à 20:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83376495011314
-Longitude : 2.298975773927909
-Altitude : 53,4987362497995
+Latitude :48.83382011048661
+Longitude : 2.295226986946002
+Altitude : 56,8950898119135
 Code postal : 75015
