@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juin 2026 à 16:00
-Localisation : 5 Rue Robert Lindet
+Date : 23 juin 2026 à 17:00
+Localisation : 26 Rue Vaugelas
 75015 Paris
 France
-Latitude :48.83387212213821
-Longitude : 2.295430531260541
-Altitude : 68,7196788187719
+Latitude :48.83442870820613
+Longitude : 2.293252438246135
+Altitude : 46,2011263619777
 Code postal : 75015
