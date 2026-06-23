@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juin 2026 à 12:00
-Localisation : 84 Rue de Dantzig
-75015 Paris
+Date : 23 juin 2026 à 13:00
+Localisation : 18 Centre Commercial Ivry Grand Ciel
+94200 Ivry-sur-Seine
 France
-Latitude :48.83024805
-Longitude : 2.295891666666667
-Altitude : 54
-Code postal : 75015
+Latitude :48.81913428471175
+Longitude : 2.395511699833132
+Altitude : 35,2878453242329
+Code postal : 94200
