@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juin 2026 à 13:00
-Localisation : 18 Centre Commercial Ivry Grand Ciel
+Date : 23 juin 2026 à 14:00
+Localisation : 18 Ccal Quais d'Ivry
 94200 Ivry-sur-Seine
 France
-Latitude :48.81913428471175
-Longitude : 2.395511699833132
-Altitude : 35,2878453242329
+Latitude :48.81891521778654
+Longitude : 2.394506380009427
+Altitude : 38,0578453242329
 Code postal : 94200
