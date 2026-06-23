@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juin 2026 à 23:00
-Localisation : 42 bis Rue du Théâtre
+Date : 24 juin 2026 à 00:00
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.84870279653865
-Longitude : 2.288163064650898
-Altitude : 30,9362306497165
+Latitude :48.83395576525857
+Longitude : 2.295529994519377
+Altitude : 60,8873740646521
 Code postal : 75015
