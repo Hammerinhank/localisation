@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 25 juin 2026 à 09:30
-Localisation : 29–33 Rue Olivier de Serres
+Date : 25 juin 2026 à 10:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83522432842796
-Longitude : 2.296403981365921
-Altitude : 46,2763182604907
+Latitude :48.83383529486563
+Longitude : 2.295268357815465
+Altitude : 60,838458694624
 Code postal : 75015
