@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 25 juin 2026 à 11:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 25 juin 2026 à 12:00
+Localisation : Boulevard du Montparnasse
+75014 Paris
 France
-Latitude :48.83392449325566
-Longitude : 2.295515581313032
-Altitude : 58,0359844939823
-Code postal : 75015
+Latitude :48.84287861666667
+Longitude : 2.326929166666666
+Altitude : 50
+Code postal : 75014
