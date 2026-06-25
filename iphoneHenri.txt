@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 25 juin 2026 à 17:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 25 juin 2026 à 19:00
+Localisation : 6 Avenue Vavin
+75006 Paris
 France
-Latitude :48.83392449325566
-Longitude : 2.295515581313032
-Altitude : 70,1129645984264
-Code postal : 75015
+Latitude :48.84391813433755
+Longitude : 2.332264811911573
+Altitude : 46,6694728489781
+Code postal : 75006
