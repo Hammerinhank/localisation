@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 26 juin 2026 à 15:00
-Localisation : 4 Rue Charrière
+Date : 26 juin 2026 à 16:00
+Localisation : Ecole élémentaire Saint-Bernard
+31 Rue St-Bernard
 75011 Paris
 France
-Latitude :48.85329259848632
-Longitude : 2.38160434793833
-Altitude : 30,1493709421158
+Latitude :48.85278517450323
+Longitude : 2.380897160924635
+Altitude : 37,3407452329993
 Code postal : 75011
