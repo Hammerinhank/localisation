@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 26 juin 2026 à 16:00
-Localisation : Ecole élémentaire Saint-Bernard
-31 Rue St-Bernard
-75011 Paris
+Date : 26 juin 2026 à 17:00
+Localisation : Cimetière du Père-Lachaise
+Avenue Latérale du Nord
+75020 Paris
 France
-Latitude :48.85278517450323
-Longitude : 2.380897160924635
-Altitude : 37,3407452329993
-Code postal : 75011
+Latitude :48.86088114823996
+Longitude : 2.391023472435656
+Altitude : 65,8786121197528
+Code postal : 75020
