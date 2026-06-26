@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 26 juin 2026 à 19:00
-Localisation : 12 Cour Debille
-75011 Paris
+Date : 26 juin 2026 à 20:00
+Localisation : 49 Avenue Ledru-Rollin
+75012 Paris
 France
-Latitude :48.85593338742144
-Longitude : 2.37942759854928
-Altitude : 38,7367670228772
-Code postal : 75011
+Latitude :48.84817445000001
+Longitude : 2.371722216666667
+Altitude : 35
+Code postal : 75012
