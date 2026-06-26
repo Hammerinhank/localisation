@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 juin 2026 à 16:30
-Localisation : Cimetière du Père-Lachaise
-Avenue Latérale du Nord
-75020 Paris
+Date : 26 juin 2026 à 18:33
+Localisation : 12 Cour Debille
+75011 Paris
 France
-Latitude :48.86091532190224
-Longitude : 2.390939053150258
-Altitude : 66,9521751403809
-Code postal : 75020
+Latitude :48.85596086243192
+Longitude : 2.379518552142773
+Altitude : 39,0085678460492
+Code postal : 75011
