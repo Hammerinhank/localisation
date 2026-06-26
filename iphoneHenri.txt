@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 26 juin 2026 à 13:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 26 juin 2026 à 14:00
+Localisation : 2 Place d'Aligre
+75012 Paris
 France
-Latitude :48.83392449325566
-Longitude : 2.295515581313032
-Altitude : 65,0619287268059
-Code postal : 75015
+Latitude :48.84881215903489
+Longitude : 2.377529059576115
+Altitude : 31
+Code postal : 75012
