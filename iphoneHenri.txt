@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 26 juin 2026 à 12:00
-Localisation : 1 Impasse de la Santé
-75013 Paris
+Date : 26 juin 2026 à 13:00
+Localisation : 5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.83655888333333
-Longitude : 2.342968616666667
-Altitude : 44
-Code postal : 75013
+Latitude :48.83392449325566
+Longitude : 2.295515581313032
+Altitude : 65,0619287268059
+Code postal : 75015
