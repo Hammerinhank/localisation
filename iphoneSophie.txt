@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 26 juin 2026 à 20:30
-Localisation : 2 Rue Marmontel
+Date : 26 juin 2026 à 22:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.8373817457341
-Longitude : 2.300894949587342
-Altitude : 46,5369529724121
+Latitude :48.83381363081146
+Longitude : 2.295238953405029
+Altitude : 57,938864877036
 Code postal : 75015
