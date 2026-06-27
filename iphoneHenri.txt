@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juin 2026 à 12:00
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-59–69 Rue Olivier de Serres
+Date : 27 juin 2026 à 13:00
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83386293576356
-Longitude : 2.295097199836692
-Altitude : 51,6170559103446
+Latitude :48.83396725766508
+Longitude : 2.295552850162005
+Altitude : 68,9065906262735
 Code postal : 75015
