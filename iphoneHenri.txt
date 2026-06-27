@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juin 2026 à 11:00
-Localisation : 9 Avenue Vavin
-75006 Paris
+Date : 27 juin 2026 à 12:00
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+59–69 Rue Olivier de Serres
+75015 Paris
 France
-Latitude :48.84385984444378
-Longitude : 2.332284464334198
-Altitude : 47,0180463763995
-Code postal : 75006
+Latitude :48.83386293576356
+Longitude : 2.295097199836692
+Altitude : 51,6170559103446
+Code postal : 75015
