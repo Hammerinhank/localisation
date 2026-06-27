@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 27 juin 2026 à 16:30
+Date : 27 juin 2026 à 18:30
 Localisation : 6 Avenue Vavin
 75006 Paris
 France
-Latitude :48.84392442860251
-Longitude : 2.332280802162292
-Altitude : 50,5692460639363
+Latitude :48.84391712509381
+Longitude : 2.332271551369134
+Altitude : 50,5215611128144
 Code postal : 75006
