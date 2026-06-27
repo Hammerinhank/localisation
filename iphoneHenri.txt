@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juin 2026 à 10:00
-Localisation : 11 Avenue Vavin
+Date : 27 juin 2026 à 11:00
+Localisation : 9 Avenue Vavin
 75006 Paris
 France
-Latitude :48.84380445
-Longitude : 2.332187216666667
-Altitude : 76
+Latitude :48.84385984444378
+Longitude : 2.332284464334198
+Altitude : 47,0180463763995
 Code postal : 75006
