@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juin 2026 à 14:00
-Localisation : 101 Rue de Vaugirard
+Date : 27 juin 2026 à 15:00
+Localisation : Notre-Dame des Champs
+18 Rue Stanislas
 75006 Paris
 France
-Latitude :48.84564806637309
-Longitude : 2.322047416707212
-Altitude : 42
+Latitude :48.84353309478275
+Longitude : 2.327256509628873
+Altitude : 49,2674041697053
 Code postal : 75006
