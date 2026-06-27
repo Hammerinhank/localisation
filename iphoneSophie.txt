@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 27 juin 2026 à 18:30
-Localisation : 6 Avenue Vavin
-75006 Paris
+Date : 27 juin 2026 à 20:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.84391712509381
-Longitude : 2.332271551369134
-Altitude : 50,5215611128144
-Code postal : 75006
+Latitude :48.83380840682684
+Longitude : 2.295264755491161
+Altitude : 57,6728386970519
+Code postal : 75015
