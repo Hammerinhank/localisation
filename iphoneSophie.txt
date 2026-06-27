@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 27 juin 2026 à 10:32
-Localisation : 6 Avenue Vavin
-75006 Paris
+Date : 27 juin 2026 à 12:30
+Localisation : 70 Rue Olivier de Serres
+75015 Paris
 France
-Latitude :48.84391708634066
-Longitude : 2.3322877792419
-Altitude : 50,5326488845618
-Code postal : 75006
+Latitude :48.83352169099092
+Longitude : 2.294739694383531
+Altitude : 53,7615542839997
+Code postal : 75015
