@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juin 2026 à 13:00
-Localisation : Parc de Sceaux
+Date : 29 juin 2026 à 14:00
+Localisation : 6 Rue du Docteur Berger
 92330 Sceaux
 France
-Latitude :48.77131224375894
-Longitude : 2.302762959461723
-Altitude : 80,0769542179151
+Latitude :48.77681234355462
+Longitude : 2.295693728376854
+Altitude : 98,6496934216549
 Code postal : 92330
