@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juin 2026 à 15:00
-Localisation : Jardin de la Ménagerie
-70 Rue Houdan
-92330 Sceaux
+Date : 29 juin 2026 à 16:00
+Localisation : 42 Avenue du Général Leclerc
+92340 Bourg-la-Reine
 France
-Latitude :48.7774178425554
-Longitude : 2.295441751824989
-Altitude : 100,338227931958
-Code postal : 92330
+Latitude :48.78378278333333
+Longitude : 2.317087216666667
+Altitude : 58
+Code postal : 92340
