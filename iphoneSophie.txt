@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 29 juin 2026 à 10:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
-75015 Paris
+Date : 29 juin 2026 à 12:30
+Localisation : Parc de Sceaux
+92330 Sceaux
 France
-Latitude :48.8338027634131
-Longitude : 2.295257287795509
-Altitude : 58,1263781825123
-Code postal : 75015
+Latitude :48.77128721835474
+Longitude : 2.302716032117129
+Altitude : 0
+Code postal : 92330
