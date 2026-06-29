@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 29 juin 2026 à 12:30
-Localisation : Parc de Sceaux
+Date : 29 juin 2026 à 14:30
+Localisation : 3 Rue du Docteur Berger
 92330 Sceaux
 France
-Latitude :48.77128721835474
-Longitude : 2.302716032117129
-Altitude : 0
+Latitude :48.77692940417536
+Longitude : 2.295776977361103
+Altitude : 98,6618605732576
 Code postal : 92330
