@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juin 2026 à 16:00
-Localisation : 42 Avenue du Général Leclerc
-92340 Bourg-la-Reine
+Date : 29 juin 2026 à 17:00
+Localisation : 5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.78378278333333
-Longitude : 2.317087216666667
-Altitude : 58
-Code postal : 92340
+Latitude :48.83394280750322
+Longitude : 2.295564979725973
+Altitude : 67,3229369214418
+Code postal : 75015
