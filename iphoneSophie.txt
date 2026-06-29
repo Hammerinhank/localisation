@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 29 juin 2026 à 14:30
-Localisation : 3 Rue du Docteur Berger
-92330 Sceaux
+Date : 29 juin 2026 à 16:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.77692940417536
-Longitude : 2.295776977361103
-Altitude : 98,6618605732576
-Code postal : 92330
+Latitude :48.83380280571006
+Longitude : 2.295257250335003
+Altitude : 58,1260691920338
+Code postal : 75015
