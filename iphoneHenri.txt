@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juin 2026 à 14:00
-Localisation : 6 Rue du Docteur Berger
+Date : 29 juin 2026 à 15:00
+Localisation : Jardin de la Ménagerie
+70 Rue Houdan
 92330 Sceaux
 France
-Latitude :48.77681234355462
-Longitude : 2.295693728376854
-Altitude : 98,6496934216549
+Latitude :48.7774178425554
+Longitude : 2.295441751824989
+Altitude : 100,338227931958
 Code postal : 92330
