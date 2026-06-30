@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 30 juin 2026 à 17:00
-Localisation : 3 Rue Robert Lindet
-75015 Paris
+Date : 30 juin 2026 à 19:00
+Localisation : Paris
+Paris
 France
-Latitude :48.83395226573788
-Longitude : 2.295283378516788
-Altitude : 51,526445287716
-Code postal : 75015
+Latitude :48.83529549516238
+Longitude : 2.294434502900342
+Altitude : 0
+Code postal : 
