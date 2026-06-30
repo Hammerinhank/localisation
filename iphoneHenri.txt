@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 30 juin 2026 à 16:00
-Localisation : 21 Rue Gerbert
+Date : 30 juin 2026 à 17:00
+Localisation : 3 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.8389639567224
-Longitude : 2.299078868080672
-Altitude : 40,2238141566438
+Latitude :48.83395226573788
+Longitude : 2.295283378516788
+Altitude : 51,526445287716
 Code postal : 75015
