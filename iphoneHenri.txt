@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 30 juin 2026 à 08:00
-Localisation : 5 Rue Paul Delmet
-75015 Paris
+Date : 30 juin 2026 à 09:00
+Localisation : Paris
+Paris
 France
-Latitude :48.83398138165604
-Longitude : 2.294920665089283
-Altitude : 51,5575061691925
-Code postal : 75015
+Latitude :48.83254220648448
+Longitude : 2.296446317149766
+Altitude : 49,692903586138
+Code postal : 
