@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 1 juil. 2026 à 11:00
-Localisation : Terminal 2A
-93290 Tremblay-en-France
+Date : 1 juil. 2026 à 12:01
+Localisation : Paris
+Paris
 France
-Latitude :49.00340586766148
-Longitude : 2.564916863957198
-Altitude : 104,398678481296
-Code postal : 93290
+Latitude :48.8829138927488
+Longitude : 2.372393892992626
+Altitude : 0
+Code postal : 
