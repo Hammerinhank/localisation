@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 1 juil. 2026 à 12:30
-Localisation : 70–100 Boulevard Jourdan
-75014 Paris
+Date : 1 juil. 2026 à 14:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.82270919591578
-Longitude : 2.328045307509017
-Altitude : 61,1396797997362
-Code postal : 75014
+Latitude :48.83379763089746
+Longitude : 2.295216238711798
+Altitude : 50,0346768618473
+Code postal : 75015
