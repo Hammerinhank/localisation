@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 1 juil. 2026 à 10:32
-Localisation : Terminal 2C
-93290 Tremblay-en-France
+Date : 1 juil. 2026 à 12:30
+Localisation : 70–100 Boulevard Jourdan
+75014 Paris
 France
-Latitude :49.00313958475358
-Longitude : 2.566434617382159
-Altitude : 106,132778167725
-Code postal : 93290
+Latitude :48.82270919591578
+Longitude : 2.328045307509017
+Altitude : 61,1396797997362
+Code postal : 75014
