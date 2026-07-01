@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 1 juil. 2026 à 09:30
-Localisation : 1 Rue Robert Lindet
-75015 Paris
+Date : 1 juil. 2026 à 10:32
+Localisation : Terminal 2C
+93290 Tremblay-en-France
 France
-Latitude :48.83383521063401
-Longitude : 2.295331732838121
-Altitude : 52,3199729919434
-Code postal : 75015
+Latitude :49.00313958475358
+Longitude : 2.566434617382159
+Altitude : 106,132778167725
+Code postal : 93290
