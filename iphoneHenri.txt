@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 2 juil. 2026 à 13:00
+Date : 2 juil. 2026 à 14:00
 Localisation : Orly 4
-Avenue Sud
 91550 Paray-Vieille-Poste
 France
-Latitude :48.72779030722808
-Longitude : 2.365535612120284
-Altitude : 87,4865360566754
+Latitude :48.72781829224533
+Longitude : 2.365611680990205
+Altitude : 90,0269689976812
 Code postal : 91550
