@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 2 juil. 2026 à 15:00
-Localisation : Rue des Tulipes
-94240 L'Haÿ-les-Roses
+Date : 2 juil. 2026 à 16:00
+Localisation : 346 Rue de Vaugirard
+75015 Paris
 France
-Latitude :48.77679910752598
-Longitude : 2.353861967839564
-Altitude : 91,5427237965976
-Code postal : 94240
+Latitude :48.83647049567664
+Longitude : 2.294548476680947
+Altitude : 37,4107216683485
+Code postal : 75015
