@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 2 juil. 2026 à 13:30
+Date : 2 juil. 2026 à 14:30
 Localisation : Orly 4
 91550 Paray-Vieille-Poste
 France
-Latitude :48.72765485124515
-Longitude : 2.365285490711802
-Altitude : 0
+Latitude :48.72811100161277
+Longitude : 2.36661254623314
+Altitude : 86,5178320264852
 Code postal : 91550
