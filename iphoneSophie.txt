@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 2 juil. 2026 à 10:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
-75015 Paris
+Date : 2 juil. 2026 à 11:30
+Localisation : IMM Institut   Montsouris  
+75014 Paris
 France
-Latitude :48.83375946679621
-Longitude : 2.295235481947635
-Altitude : 52,1364402770996
-Code postal : 75015
+Latitude :48.8217155247431
+Longitude : 2.333228362532688
+Altitude : 79,4537620544434
+Code postal : 75014
