@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 3 juil. 2026 à 20:30
-Localisation : 23 Rue Eugène Gibez
-75015 Paris
+Date : 3 juil. 2026 à 22:30
+Localisation : Paris
+Paris
 France
-Latitude :48.83501609694486
-Longitude : 2.29604025131446
+Latitude :48.83692037659092
+Longitude : 2.297003716922896
 Altitude : 0
-Code postal : 75015
+Code postal : 
