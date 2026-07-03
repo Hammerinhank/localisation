@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 3 juil. 2026 à 23:00
+Date : 4 juil. 2026 à 00:00
 Localisation : 15e Arr.
 Paris
 France
-Latitude :48.83751665555566
-Longitude : 2.295197041192551
+Latitude :48.83803831557805
+Longitude : 2.295054948499367
 Altitude : 0
 Code postal : 
