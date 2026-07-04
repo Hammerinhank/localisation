@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 4 juil. 2026 à 06:00
+Date : 4 juil. 2026 à 07:00
 Localisation : 1 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.8338809667886
-Longitude : 2.295352617340373
-Altitude : 48,6756524300225
+Latitude :48.83388099303679
+Longitude : 2.295352925162202
+Altitude : 48,7404825187601
 Code postal : 75015
