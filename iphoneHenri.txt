@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 4 juil. 2026 à 16:12
-Localisation : 31 Rue des Morillons
+Date : 4 juil. 2026 à 17:00
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83355491698249
-Longitude : 2.298629275345848
-Altitude : 53,2558523021678
+Latitude :48.83381117783492
+Longitude : 2.295251479904205
+Altitude : 51,8909323526657
 Code postal : 75015
