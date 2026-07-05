@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 5 juil. 2026 à 10:30
+Date : 5 juil. 2026 à 11:30
 Localisation : École nationale supérieure des arts appliqués et des métiers d'art
 65 Rue Olivier de Serres
 75015 Paris
 France
-Latitude :48.83356868794194
-Longitude : 2.295083281377021
-Altitude : 63,4282493591309
+Latitude :48.83367587779939
+Longitude : 2.295126457971688
+Altitude : 52,3514060974121
 Code postal : 75015
