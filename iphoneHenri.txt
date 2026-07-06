@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 12:00
-Localisation : Cathédrale Notre-Dame de Chartres
-29 Cloître Notre Dame
+Date : 6 juil. 2026 à 13:00
+Localisation : 4 Rue Gabriel Péri
 28000 Chartres
 France
-Latitude :48.44746786246791
-Longitude : 1.487273463016257
-Altitude : 157,710500060749
+Latitude :48.4443737698184
+Longitude : 1.483017003706647
+Altitude : 159,148965675595
 Code postal : 28000
