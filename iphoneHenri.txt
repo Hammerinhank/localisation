@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 11:00
-Localisation : L'Océane
-78660 Ablis
+Date : 6 juil. 2026 à 12:00
+Localisation : Cathédrale Notre-Dame de Chartres
+29 Cloître Notre Dame
+28000 Chartres
 France
-Latitude :48.52609528333334
-Longitude : 1.833070283333333
-Altitude : 143
-Code postal : 78660
+Latitude :48.44746786246791
+Longitude : 1.487273463016257
+Altitude : 157,710500060749
+Code postal : 28000
