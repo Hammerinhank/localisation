@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 21:00
-Localisation : 3 Place du Centre
+Date : 6 juil. 2026 à 22:00
+Localisation : Rue des Anciennes Écoles
 22430 Erquy
 France
-Latitude :48.62873281871077
-Longitude : -2.464256192947295
-Altitude : 13,4182170913221
+Latitude :48.62845008847134
+Longitude : -2.464408229938781
+Altitude : 0
 Code postal : 22430
