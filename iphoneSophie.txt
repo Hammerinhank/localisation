@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 juil. 2026 à 11:32
-Localisation : 22 Place des Épars
+Date : 6 juil. 2026 à 12:33
+Localisation : 4 Rue Gabriel Péri
 28000 Chartres
 France
-Latitude :48.44443148430462
-Longitude : 1.483160099061923
-Altitude : 165,4401512146
+Latitude :48.44435856827455
+Longitude : 1.482868561346395
+Altitude : 156,223171234131
 Code postal : 28000
