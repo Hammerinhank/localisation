@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 20:00
-Localisation : 11 Rue Clémenceau
+Date : 6 juil. 2026 à 21:00
+Localisation : 3 Place du Centre
 22430 Erquy
 France
-Latitude :48.62938257441728
-Longitude : -2.465176474131323
-Altitude : 9,55231222962843
+Latitude :48.62873281871077
+Longitude : -2.464256192947295
+Altitude : 13,4182170913221
 Code postal : 22430
