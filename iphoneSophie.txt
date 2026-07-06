@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 juil. 2026 à 14:30
-Localisation : L'Océane
-72400 Cherré-Au
+Date : 6 juil. 2026 à 15:42
+Localisation : Saint-Berthevin
+Saint-Berthevin
 France
-Latitude :48.14221473415209
-Longitude : 0.6622172053909509
-Altitude : 78,0315818786621
-Code postal : 72400
+Latitude :48.08713310206173
+Longitude : -0.8794818099347479
+Altitude : 0
+Code postal : 
