@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 juil. 2026 à 09:30
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 6 juil. 2026 à 10:30
+Localisation : A 6
+94260 Fresnes
 France
-Latitude :48.83395973303705
-Longitude : 2.295425251285268
-Altitude : 58,1525402389207
-Code postal : 75015
+Latitude :48.75733188823681
+Longitude : 2.335403580220728
+Altitude : 87,1995506286621
+Code postal : 94260
