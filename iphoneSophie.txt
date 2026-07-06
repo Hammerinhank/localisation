@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 juil. 2026 à 13:30
-Localisation : Place des Épars
-28000 Chartres
+Date : 6 juil. 2026 à 14:30
+Localisation : L'Océane
+72400 Cherré-Au
 France
-Latitude :48.44431480497238
-Longitude : 1.483536109388079
-Altitude : 156,583583831787
-Code postal : 28000
+Latitude :48.14221473415209
+Longitude : 0.6622172053909509
+Altitude : 78,0315818786621
+Code postal : 72400
