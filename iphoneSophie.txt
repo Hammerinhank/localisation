@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 juil. 2026 à 15:42
-Localisation : Saint-Berthevin
-Saint-Berthevin
+Date : 6 juil. 2026 à 16:30
+Localisation : N 12
+35290 Quédillac
 France
-Latitude :48.08713310206173
-Longitude : -0.8794818099347479
-Altitude : 0
-Code postal : 
+Latitude :48.23429207787684
+Longitude : -2.121831849219391
+Altitude : 89,9635887145996
+Code postal : 35290
