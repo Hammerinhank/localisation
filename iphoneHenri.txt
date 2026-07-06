@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 13:00
-Localisation : 4 Rue Gabriel Péri
-28000 Chartres
+Date : 6 juil. 2026 à 14:00
+Localisation : L'Océane
+28630 Mignières
 France
-Latitude :48.4443737698184
-Longitude : 1.483017003706647
-Altitude : 159,148965675595
-Code postal : 28000
+Latitude :48.35413
+Longitude : 1.427681383333333
+Altitude : 161
+Code postal : 28630
