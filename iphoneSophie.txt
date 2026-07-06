@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 juil. 2026 à 16:30
-Localisation : N 12
-35290 Quédillac
+Date : 6 juil. 2026 à 17:31
+Localisation : 21 Boulevard de la Mer
+22430 Erquy
 France
-Latitude :48.23429207787684
-Longitude : -2.121831849219391
-Altitude : 89,9635887145996
-Code postal : 35290
+Latitude :48.63362526973241
+Longitude : -2.466144295804295
+Altitude : 10,6664387920655
+Code postal : 22430
