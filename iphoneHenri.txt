@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 17:00
-Localisation : D 791
-22400 Lamballe-Armor
+Date : 6 juil. 2026 à 18:00
+Localisation : 21 Boulevard de la Mer
+22430 Erquy
 France
-Latitude :48.50356471666667
-Longitude : -2.519887216666667
-Altitude : 114
-Code postal : 22400
+Latitude :48.63363762321619
+Longitude : -2.466124497322695
+Altitude : 33,0655756246896
+Code postal : 22430
