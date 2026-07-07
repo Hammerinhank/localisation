@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 7 juil. 2026 à 16:30
-Localisation : 31 Rue de Plaine Garenne
+Date : 7 juil. 2026 à 17:30
+Localisation : 33 Rue de Plaine Garenne
 22430 Erquy
 France
-Latitude :48.64208350012952
-Longitude : -2.465969481506193
-Altitude : 53,7276649475098
+Latitude :48.64193823603868
+Longitude : -2.465575289072361
+Altitude : 54,8442563147887
 Code postal : 22430
