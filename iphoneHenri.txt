@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 juil. 2026 à 22:00
-Localisation : Rue des Anciennes Écoles
+Date : 7 juil. 2026 à 07:00
+Localisation : Le Quai
 22430 Erquy
 France
-Latitude :48.62845008847134
-Longitude : -2.464408229938781
-Altitude : 0
+Latitude :48.63659647733103
+Longitude : -2.477574567924092
+Altitude : 8,37106562916543
 Code postal : 22430
