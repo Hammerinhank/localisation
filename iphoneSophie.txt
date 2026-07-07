@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 7 juil. 2026 à 12:30
-Localisation : Forêt Départementale Du Cap
-37–39 Rue du Four à Boulets
+Date : 7 juil. 2026 à 16:30
+Localisation : 31 Rue de Plaine Garenne
 22430 Erquy
 France
-Latitude :48.64104218135211
-Longitude : -2.482459616844805
-Altitude : 52,784122467041
+Latitude :48.64208350012952
+Longitude : -2.465969481506193
+Altitude : 53,7276649475098
 Code postal : 22430
