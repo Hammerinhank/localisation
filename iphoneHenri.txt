@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 07:00
+Date : 7 juil. 2026 à 08:00
 Localisation : Le Quai
 22430 Erquy
 France
-Latitude :48.63659647733103
-Longitude : -2.477574567924092
-Altitude : 8,37106562916543
+Latitude :48.63698923979818
+Longitude : -2.480201651019239
+Altitude : 0
 Code postal : 22430
