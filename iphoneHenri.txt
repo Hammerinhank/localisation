@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 12:00
-Localisation : 9 Rue du Four à Boulets
+Date : 7 juil. 2026 à 13:00
+Localisation : Forêt Départementale Du Cap
 22430 Erquy
 France
-Latitude :48.63959332248433
-Longitude : -2.467735036635602
-Altitude : 50,816420272924
+Latitude :48.64422273486665
+Longitude : -2.483016061474302
+Altitude : 42,6311706379626
 Code postal : 22430
