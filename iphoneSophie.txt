@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 7 juil. 2026 à 11:30
-Localisation : 21 Boulevard de la Mer
+Date : 7 juil. 2026 à 12:30
+Localisation : Forêt Départementale Du Cap
+37–39 Rue du Four à Boulets
 22430 Erquy
 France
-Latitude :48.63358602789106
-Longitude : -2.466186573666915
-Altitude : 11,9086333717196
+Latitude :48.64104218135211
+Longitude : -2.482459616844805
+Altitude : 52,784122467041
 Code postal : 22430
