@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 15:00
-Localisation : 22430
+Date : 7 juil. 2026 à 16:00
+Localisation : 17 Rue de Plaine Garenne
 22430 Erquy
 France
-Latitude :48.64628030935914
-Longitude : -2.472156500627186
-Altitude : 34,6823683959524
+Latitude :48.64181258559921
+Longitude : -2.467828403672307
+Altitude : 56,1994038401172
 Code postal : 22430
