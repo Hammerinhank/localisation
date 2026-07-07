@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 13:00
-Localisation : Forêt Départementale Du Cap
-22430 Erquy
+Date : 7 juil. 2026 à 14:00
+Localisation : Golfe de Saint-Malo
+Erquy
 France
-Latitude :48.64422273486665
-Longitude : -2.483016061474302
-Altitude : 42,6311706379626
-Code postal : 22430
+Latitude :48.64640028382076
+Longitude : -2.472195495140892
+Altitude : 3,88101821672171
+Code postal : 
