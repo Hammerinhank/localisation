@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 21:00
-Localisation : 4 Rue Clémenceau
+Date : 7 juil. 2026 à 22:00
+Localisation : 4 Boulevard de la Mer
 22430 Erquy
 France
-Latitude :48.62913650770365
-Longitude : -2.466449609632547
-Altitude : 10,4730909087429
+Latitude :48.62898886526174
+Longitude : -2.470099905513491
+Altitude : 6,30265195159387
 Code postal : 22430
