@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 17:00
-Localisation : 31 Rue de Plaine Garenne
+Date : 7 juil. 2026 à 18:00
+Localisation : 21 Boulevard de la Mer
 22430 Erquy
 France
-Latitude :48.64208653969306
-Longitude : -2.465956961540391
-Altitude : 54,3438246051164
+Latitude :48.63352654781644
+Longitude : -2.46623125322488
+Altitude : 10,3416041454117
 Code postal : 22430
