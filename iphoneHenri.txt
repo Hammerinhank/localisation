@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 7 juil. 2026 à 11:00
-Localisation : 21 Boulevard de la Mer
+Date : 7 juil. 2026 à 12:00
+Localisation : 9 Rue du Four à Boulets
 22430 Erquy
 France
-Latitude :48.63352669494725
-Longitude : -2.466232851838125
-Altitude : 8,53252093457799
+Latitude :48.63959332248433
+Longitude : -2.467735036635602
+Altitude : 50,816420272924
 Code postal : 22430
