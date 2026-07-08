@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 juil. 2026 à 16:12
-Localisation : 137 Rue St-Michel
+Date : 8 juil. 2026 à 17:00
+Localisation : 117 Rue St-Michel
 22430 Erquy
 France
-Latitude :48.64674477580167
-Longitude : -2.422694209504589
-Altitude : 12,8628797994978
+Latitude :48.64146761612105
+Longitude : -2.424432663599175
+Altitude : 46,9228551732376
 Code postal : 22430
