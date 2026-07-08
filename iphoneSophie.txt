@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 15:30
-Localisation : Plage Saint-Michel et les Montiers
-22430 Fréhel
+Date : 8 juil. 2026 à 16:30
+Localisation : 137 Rue St-Michel
+22430 Erquy
 France
-Latitude :48.6490548402524
-Longitude : -2.427184665577884
-Altitude : 4,35474014282227
+Latitude :48.64674177936056
+Longitude : -2.422635684453219
+Altitude : 0
 Code postal : 22430
