@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 juil. 2026 à 20:00
-Localisation : 13 Rue Clémenceau
+Date : 8 juil. 2026 à 21:00
+Localisation : 14 Rue Foch
 22430 Erquy
 France
-Latitude :48.62925463381378
-Longitude : -2.4652068860989
-Altitude : 42,276166229494
+Latitude :48.6300269592618
+Longitude : -2.465457037423462
+Altitude : 8,65259525373739
 Code postal : 22430
