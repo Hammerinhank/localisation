@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 juil. 2026 à 21:00
-Localisation : 14 Rue Foch
+Date : 8 juil. 2026 à 22:00
+Localisation : 55C Rue Foch
 22430 Erquy
 France
-Latitude :48.6300269592618
-Longitude : -2.465457037423462
-Altitude : 8,65259525373739
+Latitude :48.63363156373897
+Longitude : -2.466014400243921
+Altitude : 10,4895845499727
 Code postal : 22430
