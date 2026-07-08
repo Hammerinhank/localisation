@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 11:31
-Localisation : 16 Rue du Four à Boulets
+Date : 8 juil. 2026 à 12:30
+Localisation : Forêt Départementale Du Cap
 22430 Erquy
 France
-Latitude :48.63982238714495
-Longitude : -2.469640527113092
-Altitude : 72,3164710998535
+Latitude :48.64574144378989
+Longitude : -2.444806581661953
+Altitude : 33,0994911193848
 Code postal : 22430
