@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 juil. 2026 à 14:00
+Date : 8 juil. 2026 à 15:00
 Localisation : Plage Saint-Michel et les Montiers
 22430 Fréhel
 France
-Latitude :48.64909493476277
-Longitude : -2.427095145776126
-Altitude : 2,19726564455777
+Latitude :48.64909602562085
+Longitude : -2.427112749545297
+Altitude : 0
 Code postal : 22430
