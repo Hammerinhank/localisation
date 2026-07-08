@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 09:30
+Date : 8 juil. 2026 à 10:31
 Localisation : 21 Boulevard de la Mer
 22430 Erquy
 France
-Latitude :48.63354523711334
-Longitude : -2.466237917692146
-Altitude : 11,9162870033579
+Latitude :48.63354516188215
+Longitude : -2.466238081496006
+Altitude : 12,2555242164926
 Code postal : 22430
