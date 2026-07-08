@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 17:32
-Localisation : 9 Square de l'Hôtel de Ville
+Date : 8 juil. 2026 à 18:33
+Localisation : 21 Boulevard de la Mer
 22430 Erquy
 France
-Latitude :48.62900737160017
-Longitude : -2.465795445163605
-Altitude : 48,5064125061035
+Latitude :48.63354437383683
+Longitude : -2.466239663359583
+Altitude : 11,8822018860982
 Code postal : 22430
