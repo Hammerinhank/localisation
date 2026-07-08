@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 12:30
-Localisation : Forêt Départementale Du Cap
-22430 Erquy
+Date : 8 juil. 2026 à 13:37
+Localisation : Plage Saint-Michel et les Montiers
+22430 Fréhel
 France
-Latitude :48.64574144378989
-Longitude : -2.444806581661953
-Altitude : 33,0994911193848
+Latitude :48.64905900096089
+Longitude : -2.426752109535093
+Altitude : 0
 Code postal : 22430
