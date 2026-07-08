@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 juil. 2026 à 15:00
-Localisation : Plage Saint-Michel et les Montiers
-22430 Fréhel
+Date : 8 juil. 2026 à 16:12
+Localisation : 137 Rue St-Michel
+22430 Erquy
 France
-Latitude :48.64909602562085
-Longitude : -2.427112749545297
-Altitude : 0
+Latitude :48.64674477580167
+Longitude : -2.422694209504589
+Altitude : 12,8628797994978
 Code postal : 22430
