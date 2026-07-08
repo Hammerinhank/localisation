@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 14:32
+Date : 8 juil. 2026 à 15:30
 Localisation : Plage Saint-Michel et les Montiers
 22430 Fréhel
 France
-Latitude :48.64907779058716
-Longitude : -2.427152473490905
-Altitude : 2,30749893188477
+Latitude :48.6490548402524
+Longitude : -2.427184665577884
+Altitude : 4,35474014282227
 Code postal : 22430
