@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 juil. 2026 à 16:30
-Localisation : 137 Rue St-Michel
+Date : 8 juil. 2026 à 17:32
+Localisation : 9 Square de l'Hôtel de Ville
 22430 Erquy
 France
-Latitude :48.64674177936056
-Longitude : -2.422635684453219
-Altitude : 0
+Latitude :48.62900737160017
+Longitude : -2.465795445163605
+Altitude : 48,5064125061035
 Code postal : 22430
