@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 juil. 2026 à 11:00
-Localisation : 86 Rue du Port
+Date : 8 juil. 2026 à 12:00
+Localisation : Forêt Départementale Du Cap
 22430 Erquy
 France
-Latitude :48.6364355843118
-Longitude : -2.473398480711255
-Altitude : 3,89711614258862
+Latitude :48.64499999625033
+Longitude : -2.458738356584028
+Altitude : 37,8040598081425
 Code postal : 22430
