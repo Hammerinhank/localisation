@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 9 juil. 2026 à 20:30
-Localisation : L'Océane
-28630 Gellainville
+Date : 9 juil. 2026 à 22:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.43135769877342
-Longitude : 1.519127038348125
-Altitude : 154,589786954224
-Code postal : 28630
+Latitude :48.83379787230839
+Longitude : 2.295263500949305
+Altitude : 84,6276915228749
+Code postal : 75015
