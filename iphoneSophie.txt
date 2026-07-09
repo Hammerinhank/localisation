@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 9 juil. 2026 à 16:30
-Localisation : 27 Place Saint-Sauveur
-22100 Dinan
+Date : 9 juil. 2026 à 20:30
+Localisation : L'Océane
+28630 Gellainville
 France
-Latitude :48.45353902787758
-Longitude : -2.0420756097902
-Altitude : 73,6907615661621
-Code postal : 22100
+Latitude :48.43135769877342
+Longitude : 1.519127038348125
+Altitude : 154,589786954224
+Code postal : 28630
