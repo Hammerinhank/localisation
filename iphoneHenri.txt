@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 9 juil. 2026 à 06:00
+Date : 9 juil. 2026 à 07:00
 Localisation : 21 Boulevard de la Mer
 22430 Erquy
 France
-Latitude :48.63352586205185
-Longitude : -2.46623166285669
-Altitude : 9,87601125950428
+Latitude :48.63352586099409
+Longitude : -2.466231673723676
+Altitude : 12,9255525987563
 Code postal : 22430
