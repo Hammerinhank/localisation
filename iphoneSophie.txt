@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 9 juil. 2026 à 10:30
-Localisation : 21 Boulevard de la Mer
-22430 Erquy
+Date : 9 juil. 2026 à 14:30
+Localisation : 2–24 Rue du Quai de Dinan
+22100 Dinan
 France
-Latitude :48.63352965105099
-Longitude : -2.466216247255328
-Altitude : 19,240421295166
-Code postal : 22430
+Latitude :48.45739957137972
+Longitude : -2.037664966290344
+Altitude : 17,1076915228749
+Code postal : 22100
