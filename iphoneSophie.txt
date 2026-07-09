@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 9 juil. 2026 à 14:30
-Localisation : 2–24 Rue du Quai de Dinan
+Date : 9 juil. 2026 à 16:30
+Localisation : 27 Place Saint-Sauveur
 22100 Dinan
 France
-Latitude :48.45739957137972
-Longitude : -2.037664966290344
-Altitude : 17,1076915228749
+Latitude :48.45353902787758
+Longitude : -2.0420756097902
+Altitude : 73,6907615661621
 Code postal : 22100
