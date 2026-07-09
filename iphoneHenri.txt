@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 9 juil. 2026 à 15:00
-Localisation : 2–24 Rue du Quai de Dinan
-22100 Dinan
+Date : 9 juil. 2026 à 16:00
+Localisation : Dinan
+Dinan
 France
-Latitude :48.45733067315293
-Longitude : -2.037732715839238
-Altitude : 10,2419277387719
-Code postal : 22100
+Latitude :48.45070408930105
+Longitude : -2.047186690977081
+Altitude : 77,8194584942772
+Code postal : 
