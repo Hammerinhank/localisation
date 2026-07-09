@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 9 juil. 2026 à 13:00
-Localisation : 2 D 794
-22550 Saint-Pôtan
+Date : 9 juil. 2026 à 14:00
+Localisation : 2–24 Rue du Quai de Dinan
+22100 Dinan
 France
-Latitude :48.53721721666668
-Longitude : -2.297445283333334
-Altitude : 64
-Code postal : 22550
+Latitude :48.45745757330157
+Longitude : -2.037739518765983
+Altitude : 10,5234961509045
+Code postal : 22100
