@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 9 juil. 2026 à 17:00
-Localisation : D 795
-22100 Dinan
+Date : 9 juil. 2026 à 18:00
+Localisation : Autoroute des Estuaires
+35510 Cesson-Sévigné
 France
-Latitude :48.45421243937451
-Longitude : -2.038172705516013
-Altitude : 10,55319474059
-Code postal : 22100
+Latitude :48.13171945000001
+Longitude : -1.574303333333333
+Altitude : 31
+Code postal : 35510
