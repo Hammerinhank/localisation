@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 10 juil. 2026 à 08:00
-Localisation : 1 Rue Robert Lindet
-75015 Paris
+Date : 10 juil. 2026 à 09:00
+Localisation : Gare de Lyon
+Rue de Rambouillet
+75012 Paris
 France
-Latitude :48.83385182567711
-Longitude : 2.295393014089699
-Altitude : 54,7553706167847
-Code postal : 75015
+Latitude :48.84285666666666
+Longitude : 2.37798195
+Altitude : 40
+Code postal : 75012
