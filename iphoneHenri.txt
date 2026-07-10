@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 10 juil. 2026 à 11:00
-Localisation : 10 Rue St-Antoine
-75004 Paris
+Date : 10 juil. 2026 à 12:00
+Localisation : 2 Rue St-Sabin
+75011 Paris
 France
-Latitude :48.85388818246821
-Longitude : 2.367000931862174
-Altitude : 40,3793709421158
-Code postal : 75004
+Latitude :48.85443761665261
+Longitude : 2.371572873778768
+Altitude : 35,6397075587884
+Code postal : 75011
