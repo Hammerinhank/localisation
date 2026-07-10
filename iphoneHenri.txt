@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 10 juil. 2026 à 09:00
-Localisation : Gare de Lyon
-Rue de Rambouillet
-75012 Paris
+Date : 10 juil. 2026 à 10:00
+Localisation : 10 Rue St-Antoine
+75004 Paris
 France
-Latitude :48.84285666666666
-Longitude : 2.37798195
-Altitude : 40
-Code postal : 75012
+Latitude :48.85393432967967
+Longitude : 2.366947810089454
+Altitude : 40,3793709421158
+Code postal : 75004
