@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 10 juil. 2026 à 12:30
-Localisation : 2 Cour Debille
-75011 Paris
+Date : 10 juil. 2026 à 13:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.85615268567534
-Longitude : 2.37947351520441
-Altitude : 39,8934309503384
-Code postal : 75011
+Latitude :48.8338314223218
+Longitude : 2.295263011770192
+Altitude : 53,1184477419974
+Code postal : 75015
