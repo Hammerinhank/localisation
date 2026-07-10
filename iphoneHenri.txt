@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 10 juil. 2026 à 13:00
-Localisation : Montparnasse–Bienvenüe
-71 Boulevard du Montparnasse
-75006 Paris
+Date : 10 juil. 2026 à 14:00
+Localisation : 5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.84374361666667
-Longitude : 2.32464195
-Altitude : 48
-Code postal : 75006
+Latitude :48.83391554644183
+Longitude : 2.295497106455807
+Altitude : 70,0855847748538
+Code postal : 75015
