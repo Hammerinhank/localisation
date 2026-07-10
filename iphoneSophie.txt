@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 10 juil. 2026 à 09:30
-Localisation : Place de la Bastille
+Date : 10 juil. 2026 à 12:30
+Localisation : 2 Cour Debille
 75011 Paris
 France
-Latitude :48.8535164552911
-Longitude : 2.369458917248394
-Altitude : 48,4861717224121
+Latitude :48.85615268567534
+Longitude : 2.37947351520441
+Altitude : 39,8934309503384
 Code postal : 75011
