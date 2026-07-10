@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 10 juil. 2026 à 10:00
+Date : 10 juil. 2026 à 11:00
 Localisation : 10 Rue St-Antoine
 75004 Paris
 France
-Latitude :48.85393432967967
-Longitude : 2.366947810089454
+Latitude :48.85388818246821
+Longitude : 2.367000931862174
 Altitude : 40,3793709421158
 Code postal : 75004
