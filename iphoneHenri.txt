@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 11 juil. 2026 à 20:00
-Localisation : 375 bis Rue de Vaugirard
+Date : 11 juil. 2026 à 21:00
+Localisation : Rue de Vaugirard
 75015 Paris
 France
-Latitude :48.83595494956963
-Longitude : 2.294313466170861
-Altitude : 38,5537931613692
+Latitude :48.8376307972545
+Longitude : 2.296874412731626
+Altitude : 0
 Code postal : 75015
