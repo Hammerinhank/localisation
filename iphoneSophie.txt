@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 11 juil. 2026 à 18:30
-Localisation : 5 Rue Robert Lindet
+Date : 11 juil. 2026 à 20:30
+Localisation : 314 Rue de Vaugirard
 75015 Paris
 France
-Latitude :48.83387365981692
-Longitude : 2.295436534331829
-Altitude : 52,0176345966756
+Latitude :48.83763171520472
+Longitude : 2.29687184815649
+Altitude : 39,5773794555664
 Code postal : 75015
