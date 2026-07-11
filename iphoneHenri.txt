@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 11 juil. 2026 à 21:00
-Localisation : Rue de Vaugirard
-75015 Paris
+Date : 11 juil. 2026 à 22:00
+Localisation : 15e Arr.
+Paris
 France
-Latitude :48.8376307972545
-Longitude : 2.296874412731626
+Latitude :48.83761020152031
+Longitude : 2.296841689402156
 Altitude : 0
-Code postal : 75015
+Code postal : 
