@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 juil. 2026 à 09:30
-Localisation : A 6
-94240 L'Haÿ-les-Roses
+Date : 13 juil. 2026 à 10:30
+Localisation : L'Aquitaine
+45093 Chevilly
 France
-Latitude :48.77702756951703
-Longitude : 2.346091318276565
-Altitude : 96,4792930772528
-Code postal : 94240
+Latitude :48.03404917472239
+Longitude : 1.8400875270672
+Altitude : 122,240751465783
+Code postal : 45093
