@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 juil. 2026 à 12:00
-Localisation : 24 Rue de l'Argonne
-41000 Blois
+Date : 13 juil. 2026 à 13:00
+Localisation : 4 Route du Clouseau
+41700 Sassay
 France
-Latitude :47.59708047718337
-Longitude : 1.345969751545743
-Altitude : 107,226178379558
-Code postal : 41000
+Latitude :47.39299197417698
+Longitude : 1.440633847213322
+Altitude : 116,083048553467
+Code postal : 41700
