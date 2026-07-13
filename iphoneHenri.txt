@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 juil. 2026 à 21:00
+Date : 13 juil. 2026 à 22:00
 Localisation : 4 Route du Clouseau
 41700 Sassay
 France
-Latitude :47.39299276406881
-Longitude : 1.440612921209643
-Altitude : 112,914169718939
+Latitude :47.39299284999671
+Longitude : 1.440610361676448
+Altitude : 112,745046825417
 Code postal : 41700
