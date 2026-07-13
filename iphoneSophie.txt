@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 juil. 2026 à 10:30
-Localisation : L'Aquitaine
-45093 Chevilly
+Date : 13 juil. 2026 à 11:37
+Localisation : 24 Rue de l'Argonne
+41000 Blois
 France
-Latitude :48.03404917472239
-Longitude : 1.8400875270672
-Altitude : 122,240751465783
-Code postal : 45093
+Latitude :47.59709401463321
+Longitude : 1.345961017158602
+Altitude : 119,296332487281
+Code postal : 41000
