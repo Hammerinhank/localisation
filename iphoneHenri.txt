@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 juil. 2026 à 11:00
-Localisation : Petite Beauce
-41000 Saint-Denis-sur-Loire
+Date : 13 juil. 2026 à 12:00
+Localisation : 24 Rue de l'Argonne
+41000 Blois
 France
-Latitude :47.6473775
-Longitude : 1.368716383333333
-Altitude : 100
+Latitude :47.59708047718337
+Longitude : 1.345969751545743
+Altitude : 107,226178379558
 Code postal : 41000
