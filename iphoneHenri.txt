@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 juil. 2026 à 10:00
-Localisation : L'Aquitaine
-78660 Saint-Martin-de-Bréthencourt
+Date : 13 juil. 2026 à 11:00
+Localisation : Petite Beauce
+41000 Saint-Denis-sur-Loire
 France
-Latitude :48.49548611666668
-Longitude : 1.909501383333333
-Altitude : 149
-Code postal : 78660
+Latitude :47.6473775
+Longitude : 1.368716383333333
+Altitude : 100
+Code postal : 41000
