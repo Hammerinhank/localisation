@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 12 juil. 2026 à 22:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
-75015 Paris
+Date : 13 juil. 2026 à 09:30
+Localisation : A 6
+94240 L'Haÿ-les-Roses
 France
-Latitude :48.83380622166288
-Longitude : 2.295212238396032
-Altitude : 53,3360620170046
-Code postal : 75015
+Latitude :48.77702756951703
+Longitude : 2.346091318276565
+Altitude : 96,4792930772528
+Code postal : 94240
