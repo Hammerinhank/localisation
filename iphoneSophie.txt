@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 juil. 2026 à 17:32
+Date : 13 juil. 2026 à 18:30
 Localisation : 4 Route du Clouseau
 41700 Sassay
 France
-Latitude :47.39299209838378
-Longitude : 1.440634580332051
-Altitude : 133,146332487281
+Latitude :47.39299338204897
+Longitude : 1.44061278343003
+Altitude : 129,166332487281
 Code postal : 41700
