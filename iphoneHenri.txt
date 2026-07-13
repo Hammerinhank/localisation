@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 juil. 2026 à 09:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 13 juil. 2026 à 10:00
+Localisation : L'Aquitaine
+78660 Saint-Martin-de-Bréthencourt
 France
-Latitude :48.83390323152915
-Longitude : 2.295574231583984
-Altitude : 51,9882048169383
-Code postal : 75015
+Latitude :48.49548611666668
+Longitude : 1.909501383333333
+Altitude : 149
+Code postal : 78660
