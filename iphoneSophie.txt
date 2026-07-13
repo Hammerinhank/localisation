@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 juil. 2026 à 11:37
-Localisation : 24 Rue de l'Argonne
-41000 Blois
+Date : 13 juil. 2026 à 12:30
+Localisation : 6 Route de Blois
+41700 Cormeray
 France
-Latitude :47.59709401463321
-Longitude : 1.345961017158602
-Altitude : 119,296332487281
-Code postal : 41000
+Latitude :47.48344858034965
+Longitude : 1.412591816681048
+Altitude : 98,5698776198551
+Code postal : 41700
