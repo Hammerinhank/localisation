@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juil. 2026 à 17:00
+Date : 14 juil. 2026 à 18:00
 Localisation : L'Aquitaine
-45520 Gidy
+91640 Briis-sous-Forges
 France
-Latitude :48.01193445000001
-Longitude : 1.845256116666666
-Altitude : 118
-Code postal : 45520
+Latitude :48.61412916666666
+Longitude : 2.119613883333333
+Altitude : 91
+Code postal : 91640
