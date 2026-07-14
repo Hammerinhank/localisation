@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 14 juil. 2026 à 17:30
-Localisation : 2 Chemin du Val Neuvy
-28310 Fresnay-l'Évêque
+Date : 14 juil. 2026 à 18:30
+Localisation : Autoroute du Soleil
+91320 Wissous
 France
-Latitude :48.27043987460748
-Longitude : 1.85545343844201
-Altitude : 131,299061883118
-Code postal : 28310
+Latitude :48.74491904244699
+Longitude : 2.324111662104304
+Altitude : 60,965343776159
+Code postal : 91320
