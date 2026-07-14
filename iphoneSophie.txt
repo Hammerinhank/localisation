@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 14 juil. 2026 à 16:30
-Localisation : 19 Rue Basse d'Ingré
-45000 Orléans
+Date : 14 juil. 2026 à 17:30
+Localisation : 2 Chemin du Val Neuvy
+28310 Fresnay-l'Évêque
 France
-Latitude :47.90481951525422
-Longitude : 1.890561389027362
-Altitude : 0
-Code postal : 45000
+Latitude :48.27043987460748
+Longitude : 1.85545343844201
+Altitude : 131,299061883118
+Code postal : 28310
