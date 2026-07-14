@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juil. 2026 à 12:00
-Localisation : L'Aquitaine
-45380 Chaingy
+Date : 14 juil. 2026 à 13:00
+Localisation : 19 Rue Basse d'Ingré
+45000 Orléans
 France
-Latitude :47.89607916666667
-Longitude : 1.780451116666667
-Altitude : 116
-Code postal : 45380
+Latitude :47.90478322334079
+Longitude : 1.89058588914428
+Altitude : 107,613554242407
+Code postal : 45000
