@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 14 juil. 2026 à 12:30
+Date : 14 juil. 2026 à 13:30
 Localisation : 19 Rue Basse d'Ingré
 45000 Orléans
 France
-Latitude :47.90481510855037
-Longitude : 1.890511556768842
-Altitude : 108,761318206787
+Latitude :47.90484505473896
+Longitude : 1.890594011266542
+Altitude : 108,865980352726
 Code postal : 45000
