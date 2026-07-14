@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juil. 2026 à 16:00
-Localisation : 19 Rue Basse d'Ingré
-45000 Orléans
+Date : 14 juil. 2026 à 17:00
+Localisation : L'Aquitaine
+45520 Gidy
 France
-Latitude :47.904839302765
-Longitude : 1.890704025994289
-Altitude : 106,900022092265
-Code postal : 45000
+Latitude :48.01193445000001
+Longitude : 1.845256116666666
+Altitude : 118
+Code postal : 45520
