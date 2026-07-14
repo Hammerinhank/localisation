@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juil. 2026 à 11:00
-Localisation : 4 Route du Clouseau
-41700 Sassay
+Date : 14 juil. 2026 à 12:00
+Localisation : L'Aquitaine
+45380 Chaingy
 France
-Latitude :47.39294103868788
-Longitude : 1.440825251476994
-Altitude : 114,641552068278
-Code postal : 41700
+Latitude :47.89607916666667
+Longitude : 1.780451116666667
+Altitude : 116
+Code postal : 45380
