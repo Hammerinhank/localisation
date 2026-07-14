@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juil. 2026 à 07:00
-Localisation : D 956
-41700 Le Controis-en-Sologne
+Date : 14 juil. 2026 à 08:00
+Localisation : 4 Route du Clouseau
+41700 Sassay
 France
-Latitude :47.41589583333333
-Longitude : 1.450605283333333
-Altitude : 100
+Latitude :47.39299161167705
+Longitude : 1.440604233640062
+Altitude : 112,826652265191
 Code postal : 41700
