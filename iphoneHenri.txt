@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 juil. 2026 à 15:00
-Localisation : 21 Rue Basse d'Ingré
+Date : 14 juil. 2026 à 16:00
+Localisation : 19 Rue Basse d'Ingré
 45000 Orléans
 France
-Latitude :47.90454819684795
-Longitude : 1.89044044218638
-Altitude : 113,316523190018
+Latitude :47.904839302765
+Longitude : 1.890704025994289
+Altitude : 106,900022092265
 Code postal : 45000
