@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 15 juil. 2026 à 10:00
-Localisation : Hôpital privé de l'Ouest Parisien
-14 Rue Castiglione del Lago
+Date : 15 juil. 2026 à 11:00
+Localisation : Complexe Sportif Jean Guimier
+D 912
 78190 Trappes
 France
-Latitude :48.77837365499595
-Longitude : 1.990023228901618
-Altitude : 170,582853541305
+Latitude :48.78330583333333
+Longitude : 1.993815283333333
+Altitude : 162
 Code postal : 78190
