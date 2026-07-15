@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 15 juil. 2026 à 16:34
-Localisation : 226 Rue de la Convention
+Date : 15 juil. 2026 à 17:30
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83635656477357
-Longitude : 2.299414577575321
-Altitude : 51,7416648864746
+Latitude :48.83395633025359
+Longitude : 2.295496287061136
+Altitude : 50,7390693664551
 Code postal : 75015
