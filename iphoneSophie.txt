@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 15 juil. 2026 à 10:32
-Localisation : Hôpital privé de l'Ouest Parisien
-14 Rue Castiglione del Lago
-78190 Trappes
+Date : 15 juil. 2026 à 11:30
+Localisation : 370 Rue de Vaugirard
+75015 Paris
 France
-Latitude :48.77834775677854
-Longitude : 1.989987635533083
-Altitude : 170,697890502547
-Code postal : 78190
+Latitude :48.83416925561536
+Longitude : 2.290089251475679
+Altitude : 38,670314848423
+Code postal : 75015
