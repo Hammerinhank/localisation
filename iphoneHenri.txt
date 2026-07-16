@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 16 juil. 2026 à 19:00
-Localisation : Rue Alain Chartier
-75015 Paris
+Date : 16 juil. 2026 à 20:00
+Localisation : Paris
+Paris
 France
-Latitude :48.83759309547165
-Longitude : 2.296116481238632
+Latitude :48.83659891791708
+Longitude : 2.295511635557093
 Altitude : 0
-Code postal : 75015
+Code postal : 
