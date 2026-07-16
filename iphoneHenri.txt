@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 16 juil. 2026 à 18:00
-Localisation : 5 Rue Robert Lindet
+Date : 16 juil. 2026 à 19:00
+Localisation : Rue Alain Chartier
 75015 Paris
 France
-Latitude :48.83399942162247
-Longitude : 2.295511617782437
-Altitude : 49,3262702146577
+Latitude :48.83759309547165
+Longitude : 2.296116481238632
+Altitude : 0
 Code postal : 75015
