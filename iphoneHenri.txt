@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 16 juil. 2026 à 14:00
+Date : 16 juil. 2026 à 15:00
 Localisation : Paris
 Paris
 France
-Latitude :48.83206164103156
-Longitude : 2.29628297653986
+Latitude :48.83202388279617
+Longitude : 2.296319996390372
 Altitude : 0
 Code postal : 
