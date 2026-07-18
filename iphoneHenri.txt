@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 juil. 2026 à 13:00
-Localisation : 114 Rue Anselme Rondenay
-94400 Vitry-sur-Seine
+Date : 18 juil. 2026 à 14:00
+Localisation : 5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.77838138333333
-Longitude : 2.396906116666667
-Altitude : 56
-Code postal : 94400
+Latitude :48.83395251704476
+Longitude : 2.295501286277873
+Altitude : 66,9972831895761
+Code postal : 75015
