@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 07:00
-Localisation : 5 Rue Robert Lindet
+Date : 19 juil. 2026 à 08:00
+Localisation : Jardin Saïda
+70 Rue de Dantzig
 75015 Paris
 France
-Latitude :48.83391381133553
-Longitude : 2.295485227479915
-Altitude : 51,414487773985
+Latitude :48.83109916666668
+Longitude : 2.296514716666667
+Altitude : 58
 Code postal : 75015
