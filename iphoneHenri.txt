@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 11:00
-Localisation : N 4
-55500 Stainville
+Date : 19 juil. 2026 à 12:00
+Localisation : 2 Rue Sergent Bobillot
+54000 Nancy
 France
-Latitude :48.64465221666666
-Longitude : 5.195501116666667
-Altitude : 233
-Code postal : 55500
+Latitude :48.68573275483701
+Longitude : 6.16102480894997
+Altitude : 221,200016944806
+Code postal : 54000
