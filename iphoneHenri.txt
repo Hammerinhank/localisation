@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 21:00
-Localisation : 11 Rue des Maréchaux
+Date : 19 juil. 2026 à 22:00
+Localisation : Rue du Cloître
 54000 Nancy
 France
-Latitude :48.69436300891799
-Longitude : 6.181728846659885
-Altitude : 202,672153348681
+Latitude :48.69181618403558
+Longitude : 6.18607340719774
+Altitude : 202,786698155019
 Code postal : 54000
