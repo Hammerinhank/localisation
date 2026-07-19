@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 08:00
-Localisation : Jardin Saïda
-70 Rue de Dantzig
-75015 Paris
+Date : 19 juil. 2026 à 09:00
+Localisation : Autoroute de l'Est
+77260 Sainte-Aulde
 France
-Latitude :48.83109916666668
-Longitude : 2.296514716666667
-Altitude : 58
-Code postal : 75015
+Latitude :49.00940694999999
+Longitude : 3.14549195
+Altitude : 178
+Code postal : 77260
