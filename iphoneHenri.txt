@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 16:00
+Date : 19 juil. 2026 à 17:00
 Localisation : Musée De L'Ecole De Nancy
 38 Rue du Sergent Blandan
 54000 Nancy
 France
-Latitude :48.68053223111936
-Longitude : 6.166229326150324
-Altitude : 235,468829642826
+Latitude :48.6804106340344
+Longitude : 6.166221403812034
+Altitude : 229,868295003244
 Code postal : 54000
