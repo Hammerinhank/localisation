@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 13:30
-Localisation : 47 Rue de Laxou
+Date : 19 juil. 2026 à 14:30
+Localisation : Villa Majorelle
+1 Rue Louis Majorelle
 54000 Nancy
 France
-Latitude :48.68479050647257
-Longitude : 6.161294223296879
-Altitude : 217,637205118178
+Latitude :48.68553935612705
+Longitude : 6.163889345919108
+Altitude : 209,292324066162
 Code postal : 54000
