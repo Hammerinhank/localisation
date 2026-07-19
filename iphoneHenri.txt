@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 09:00
-Localisation : Autoroute de l'Est
-77260 Sainte-Aulde
+Date : 19 juil. 2026 à 10:00
+Localisation : N 44
+51000 Châlons-en-Champagne
 France
-Latitude :49.00940694999999
-Longitude : 3.14549195
-Altitude : 178
-Code postal : 77260
+Latitude :48.96667638333333
+Longitude : 4.38414305
+Altitude : 104
+Code postal : 51000
