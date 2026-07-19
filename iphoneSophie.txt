@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 18:30
-Localisation : Marché central de Nancy
-Allée de la Criée
+Date : 19 juil. 2026 à 20:31
+Localisation : 2 Grande Rue
 54000 Nancy
 France
-Latitude :48.68986041789739
-Longitude : 6.183132774422027
-Altitude : 221,116786956787
+Latitude :48.69435758198438
+Longitude : 6.181830779744391
+Altitude : 202,97327312973
 Code postal : 54000
