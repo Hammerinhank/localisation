@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 11:30
-Localisation : N 4
-54119 Toul
+Date : 19 juil. 2026 à 12:30
+Localisation : 1 Rue Sergent Bobillot
+54000 Nancy
 France
-Latitude :48.64932653964371
-Longitude : 5.86033299565861
-Altitude : 248,3464012146
-Code postal : 54119
+Latitude :48.68571636082667
+Longitude : 6.160916341591846
+Altitude : 220,177205118178
+Code postal : 54000
