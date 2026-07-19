@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 16:30
-Localisation : Musée De L'Ecole De Nancy
-38 Rue du Sergent Blandan
+Date : 19 juil. 2026 à 18:30
+Localisation : Marché central de Nancy
+Allée de la Criée
 54000 Nancy
 France
-Latitude :48.68014864962533
-Longitude : 6.166280146847591
-Altitude : 231,127023248673
+Latitude :48.68986041789739
+Longitude : 6.183132774422027
+Altitude : 221,116786956787
 Code postal : 54000
