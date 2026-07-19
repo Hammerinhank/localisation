@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 10:31
+Date : 19 juil. 2026 à 11:30
 Localisation : N 4
-51300 Thiéblemont-Farémont
+54119 Toul
 France
-Latitude :48.68918959812923
-Longitude : 4.720746047701616
-Altitude : 112,623260498047
-Code postal : 51300
+Latitude :48.64932653964371
+Longitude : 5.86033299565861
+Altitude : 248,3464012146
+Code postal : 54119
