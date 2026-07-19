@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 09:30
-Localisation : Autoroute de l'Est
-51390 Méry-Prémecy
+Date : 19 juil. 2026 à 10:31
+Localisation : N 4
+51300 Thiéblemont-Farémont
 France
-Latitude :49.23688533720489
-Longitude : 3.8706052210218
-Altitude : 220,237396240234
-Code postal : 51390
+Latitude :48.68918959812923
+Longitude : 4.720746047701616
+Altitude : 112,623260498047
+Code postal : 51300
