@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 20:31
-Localisation : 2 Grande Rue
+Date : 19 juil. 2026 à 22:30
+Localisation : 61 Rue Saint-Georges
 54000 Nancy
 France
-Latitude :48.69435758198438
-Longitude : 6.181830779744391
-Altitude : 202,97327312973
+Latitude :48.69189811525321
+Longitude : 6.185444130434671
+Altitude : 200,558132171631
 Code postal : 54000
