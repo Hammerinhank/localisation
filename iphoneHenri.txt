@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 10:00
-Localisation : N 44
-51000 Châlons-en-Champagne
+Date : 19 juil. 2026 à 11:00
+Localisation : N 4
+55500 Stainville
 France
-Latitude :48.96667638333333
-Longitude : 4.38414305
-Altitude : 104
-Code postal : 51000
+Latitude :48.64465221666666
+Longitude : 5.195501116666667
+Altitude : 233
+Code postal : 55500
