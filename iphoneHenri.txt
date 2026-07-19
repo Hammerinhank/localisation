@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 22:00
-Localisation : Rue du Cloître
+Date : 19 juil. 2026 à 23:00
+Localisation : 1 Place Stanislas
 54000 Nancy
 France
-Latitude :48.69181618403558
-Longitude : 6.18607340719774
-Altitude : 202,786698155019
+Latitude :48.69335511410372
+Longitude : 6.183017860374019
+Altitude : 199,996768943431
 Code postal : 54000
