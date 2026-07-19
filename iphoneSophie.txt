@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 15:30
-Localisation : 32 Rue Félix Faure
+Date : 19 juil. 2026 à 16:30
+Localisation : Musée De L'Ecole De Nancy
+38 Rue du Sergent Blandan
 54000 Nancy
 France
-Latitude :48.67809954174767
-Longitude : 6.165603831339724
-Altitude : 235,847560882568
+Latitude :48.68014864962533
+Longitude : 6.166280146847591
+Altitude : 231,127023248673
 Code postal : 54000
