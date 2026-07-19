@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 18 juil. 2026 à 22:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-4 Rue Robert Lindet
-75015 Paris
+Date : 19 juil. 2026 à 09:30
+Localisation : Autoroute de l'Est
+51390 Méry-Prémecy
 France
-Latitude :48.8337973309456
-Longitude : 2.295373032694838
-Altitude : 56,9923481587271
-Code postal : 75015
+Latitude :49.23688533720489
+Longitude : 3.8706052210218
+Altitude : 220,237396240234
+Code postal : 51390
