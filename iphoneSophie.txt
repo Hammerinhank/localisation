@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 14:30
-Localisation : Villa Majorelle
-1 Rue Louis Majorelle
+Date : 19 juil. 2026 à 15:30
+Localisation : 32 Rue Félix Faure
 54000 Nancy
 France
-Latitude :48.68553935612705
-Longitude : 6.163889345919108
-Altitude : 209,292324066162
+Latitude :48.67809954174767
+Longitude : 6.165603831339724
+Altitude : 235,847560882568
 Code postal : 54000
