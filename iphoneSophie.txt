@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 12:30
-Localisation : 1 Rue Sergent Bobillot
+Date : 19 juil. 2026 à 13:30
+Localisation : 47 Rue de Laxou
 54000 Nancy
 France
-Latitude :48.68571636082667
-Longitude : 6.160916341591846
-Altitude : 220,177205118178
+Latitude :48.68479050647257
+Longitude : 6.161294223296879
+Altitude : 217,637205118178
 Code postal : 54000
