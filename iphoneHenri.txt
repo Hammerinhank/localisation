@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 juil. 2026 à 12:00
-Localisation : 2 Rue Sergent Bobillot
+Date : 19 juil. 2026 à 13:00
+Localisation : 1 Rue Sergent Bobillot
 54000 Nancy
 France
-Latitude :48.68573275483701
-Longitude : 6.16102480894997
+Latitude :48.68574565021067
+Longitude : 6.160967728950159
 Altitude : 221,200016944806
 Code postal : 54000
