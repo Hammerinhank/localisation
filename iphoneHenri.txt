@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 09:00
-Localisation : 8 Place Andrè Maginot
+Date : 20 juil. 2026 à 10:00
+Localisation : 1 Rue Léopold Lallement
 54000 Nancy
 France
-Latitude :48.68949146134406
-Longitude : 6.178071038040877
-Altitude : 214,002666903565
+Latitude :48.68937162560096
+Longitude : 6.178570434684389
+Altitude : 206,805201152259
 Code postal : 54000
