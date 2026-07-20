@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 13:31
-Localisation : 1 Rue Gustave Simon
+Date : 20 juil. 2026 à 14:32
+Localisation : 11 Rue Hère
 54000 Nancy
 France
-Latitude :48.69367030014231
-Longitude : 6.181806463046462
-Altitude : 0
+Latitude :48.69353849729488
+Longitude : 6.182850282900985
+Altitude : 203,699334705496
 Code postal : 54000
