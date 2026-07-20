@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 09:30
-Localisation : 8 Place Andrè Maginot
+Date : 20 juil. 2026 à 10:30
+Localisation : 1 Terre Plein St-Epvre
 54000 Nancy
 France
-Latitude :48.68944415118336
-Longitude : 6.178021949096724
-Altitude : 203,291957855225
+Latitude :48.69579099689516
+Longitude : 6.179593153231346
+Altitude : 201,03329092171
 Code postal : 54000
