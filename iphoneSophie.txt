@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 17:31
-Localisation : 6 Avenue Hippolyte Maringer
+Date : 20 juil. 2026 à 18:31
+Localisation : Parc de la Pépinière
+Allée Leon Tonnelier
 54000 Nancy
 France
-Latitude :48.67938628885758
-Longitude : 6.168398808243202
-Altitude : 0
+Latitude :48.69663077979157
+Longitude : 6.183610106613452
+Altitude : 191,545253753662
 Code postal : 54000
