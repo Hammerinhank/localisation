@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 10:30
-Localisation : 1 Terre Plein St-Epvre
+Date : 20 juil. 2026 à 11:34
+Localisation : Porte de la Craffe
 54000 Nancy
 France
-Latitude :48.69579099689516
-Longitude : 6.179593153231346
-Altitude : 201,03329092171
+Latitude :48.69928227543264
+Longitude : 6.177708724253929
+Altitude : 221,709499473684
 Code postal : 54000
