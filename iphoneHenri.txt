@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 22:00
-Localisation : 60 Grande Rue
+Date : 20 juil. 2026 à 23:00
+Localisation : 8 Place Andrè Maginot
 54000 Nancy
 France
-Latitude :48.69637022826605
-Longitude : 6.180404118029158
-Altitude : 201,458671525253
+Latitude :48.68945911147472
+Longitude : 6.178079196583059
+Altitude : 214,002567721436
 Code postal : 54000
