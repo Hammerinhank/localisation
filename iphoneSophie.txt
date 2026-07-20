@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 18:31
-Localisation : Parc de la Pépinière
-Allée Leon Tonnelier
+Date : 20 juil. 2026 à 20:30
+Localisation : 93 Grande Rue
 54000 Nancy
 France
-Latitude :48.69663077979157
-Longitude : 6.183610106613452
-Altitude : 191,545253753662
+Latitude :48.69733304288276
+Longitude : 6.179037268952754
+Altitude : 215,486293792725
 Code postal : 54000
