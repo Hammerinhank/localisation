@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 16:44
+Date : 20 juil. 2026 à 17:31
 Localisation : 6 Avenue Hippolyte Maringer
 54000 Nancy
 France
-Latitude :48.67935589950446
-Longitude : 6.168463861387947
-Altitude : 223,649856567383
+Latitude :48.67938628885758
+Longitude : 6.168398808243202
+Altitude : 0
 Code postal : 54000
