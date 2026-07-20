@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 20:30
-Localisation : 93 Grande Rue
+Date : 20 juil. 2026 à 22:30
+Localisation : 2 Rue Pierre Semard
 54000 Nancy
 France
-Latitude :48.69733304288276
-Longitude : 6.179037268952754
-Altitude : 215,486293792725
+Latitude :48.68936739901503
+Longitude : 6.178146291917638
+Altitude : -1
 Code postal : 54000
