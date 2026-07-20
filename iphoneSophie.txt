@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 12:30
-Localisation : 1 Place Stanislas
+Date : 20 juil. 2026 à 13:31
+Localisation : 1 Rue Gustave Simon
 54000 Nancy
 France
-Latitude :48.69343361396385
-Longitude : 6.182686175893545
-Altitude : 199,369960844517
+Latitude :48.69367030014231
+Longitude : 6.181806463046462
+Altitude : 0
 Code postal : 54000
