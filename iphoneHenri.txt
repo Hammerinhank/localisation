@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 17:00
-Localisation : 6 Avenue Hippolyte Maringer
+Date : 20 juil. 2026 à 18:00
+Localisation : 21 Rue Gambetta
 54000 Nancy
 France
-Latitude :48.67935572908106
-Longitude : 6.168247965915933
-Altitude : 230,204717168815
+Latitude :48.69256275611052
+Longitude : 6.181637577127584
+Altitude : 204,357411287447
 Code postal : 54000
