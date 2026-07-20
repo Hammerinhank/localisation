@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 11:34
-Localisation : Porte de la Craffe
+Date : 20 juil. 2026 à 12:30
+Localisation : 1 Place Stanislas
 54000 Nancy
 France
-Latitude :48.69928227543264
-Longitude : 6.177708724253929
-Altitude : 221,709499473684
+Latitude :48.69343361396385
+Longitude : 6.182686175893545
+Altitude : 199,369960844517
 Code postal : 54000
