@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 04:00
+Date : 20 juil. 2026 à 05:00
 Localisation : 8 Place Andrè Maginot
 54000 Nancy
 France
-Latitude :48.68946243284313
-Longitude : 6.178070365913974
-Altitude : 214,988255462647
+Latitude :48.68946081116795
+Longitude : 6.178073007035597
+Altitude : 0
 Code postal : 54000
