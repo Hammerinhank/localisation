@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 18:00
-Localisation : 21 Rue Gambetta
+Date : 20 juil. 2026 à 19:00
+Localisation : 11 Rue Hère
 54000 Nancy
 France
-Latitude :48.69256275611052
-Longitude : 6.181637577127584
-Altitude : 204,357411287447
+Latitude :48.69355826212661
+Longitude : 6.182935106155912
+Altitude : 203,172897159681
 Code postal : 54000
