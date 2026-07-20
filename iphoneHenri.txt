@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 20:00
-Localisation : 1 bis Rue St-Dizier
+Date : 20 juil. 2026 à 21:00
+Localisation : 93 Grande Rue
 54000 Nancy
 France
-Latitude :48.69256898582868
-Longitude : 6.181254772818257
-Altitude : 203,730317749655
+Latitude :48.69731586304562
+Longitude : 6.179135943863014
+Altitude : 203,472169503338
 Code postal : 54000
