@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 11:00
-Localisation : 8–12 Place St-Epvre
+Date : 20 juil. 2026 à 12:00
+Localisation : 7 Place Stanislas
 54000 Nancy
 France
-Latitude :48.69621612659502
-Longitude : 6.179255356709443
-Altitude : 200,311786146662
+Latitude :48.69359129590499
+Longitude : 6.182691619649302
+Altitude : 199,31146704527
 Code postal : 54000
