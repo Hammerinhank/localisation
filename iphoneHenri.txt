@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 21:00
-Localisation : 93 Grande Rue
+Date : 20 juil. 2026 à 22:00
+Localisation : 60 Grande Rue
 54000 Nancy
 France
-Latitude :48.69731586304562
-Longitude : 6.179135943863014
-Altitude : 203,472169503338
+Latitude :48.69637022826605
+Longitude : 6.180404118029158
+Altitude : 201,458671525253
 Code postal : 54000
