@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 19:00
-Localisation : 11 Rue Hère
+Date : 20 juil. 2026 à 20:00
+Localisation : 1 bis Rue St-Dizier
 54000 Nancy
 France
-Latitude :48.69355826212661
-Longitude : 6.182935106155912
-Altitude : 203,172897159681
+Latitude :48.69256898582868
+Longitude : 6.181254772818257
+Altitude : 203,730317749655
 Code postal : 54000
