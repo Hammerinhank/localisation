@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 12:00
-Localisation : 7 Place Stanislas
+Date : 20 juil. 2026 à 13:00
+Localisation : 3 Place Stanislas
 54000 Nancy
 France
-Latitude :48.69359129590499
-Longitude : 6.182691619649302
-Altitude : 199,31146704527
+Latitude :48.69337670051119
+Longitude : 6.182154249402923
+Altitude : 199,799130416075
 Code postal : 54000
