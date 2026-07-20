@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 20 juil. 2026 à 14:00
-Localisation : 1 Rue Gustave Simon
+Date : 20 juil. 2026 à 15:00
+Localisation : 8 Place Andrè Maginot
 54000 Nancy
 France
-Latitude :48.6938156958139
-Longitude : 6.181797276241191
-Altitude : 204,024672847603
+Latitude :48.68984361666667
+Longitude : 6.177851666666667
+Altitude : 212
 Code postal : 54000
