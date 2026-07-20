@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 juil. 2026 à 22:30
-Localisation : 61 Rue Saint-Georges
+Date : 20 juil. 2026 à 09:30
+Localisation : 8 Place Andrè Maginot
 54000 Nancy
 France
-Latitude :48.69189811525321
-Longitude : 6.185444130434671
-Altitude : 200,558132171631
+Latitude :48.68944415118336
+Longitude : 6.178021949096724
+Altitude : 203,291957855225
 Code postal : 54000
