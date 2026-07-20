@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 14:32
-Localisation : 11 Rue Hère
+Date : 20 juil. 2026 à 15:30
+Localisation : 6 Avenue Hippolyte Maringer
 54000 Nancy
 France
-Latitude :48.69353849729488
-Longitude : 6.182850282900985
-Altitude : 203,699334705496
+Latitude :48.67919543634507
+Longitude : 6.168622718298783
+Altitude : 0
 Code postal : 54000
