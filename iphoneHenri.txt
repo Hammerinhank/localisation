@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 09:00
-Localisation : 8 Place Andrè Maginot
+Date : 21 juil. 2026 à 10:00
+Localisation : 5–11 Rue du Tapis Vert
 54000 Nancy
 France
-Latitude :48.68945983032214
-Longitude : 6.178073362780893
-Altitude : 0
+Latitude :48.69191000000001
+Longitude : 6.192268049999999
+Altitude : 195
 Code postal : 54000
