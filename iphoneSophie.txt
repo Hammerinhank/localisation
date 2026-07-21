@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 juil. 2026 à 20:30
-Localisation : Place du Docteur Maurice Kubler
-67600 Sélestat
+Date : 21 juil. 2026 à 22:30
+Localisation : 5 Rue de Baldenheim
+67600 Baldenheim
 France
-Latitude :48.26003216950915
-Longitude : 7.455521380199587
-Altitude : 176,288729426788
+Latitude :48.2620612919507
+Longitude : 7.498550131247325
+Altitude : 169,195465203375
 Code postal : 67600
