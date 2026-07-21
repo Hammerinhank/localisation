@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 11:00
-Localisation : N 59
-88470 La Voivre
+Date : 21 juil. 2026 à 12:00
+Localisation : 4 Rue de la Mairie
+67750 Scherwiller
 France
-Latitude :48.34574416666666
-Longitude : 6.888294166666665
-Altitude : 305
-Code postal : 88470
+Latitude :48.28668221666667
+Longitude : 7.420956666666665
+Altitude : 191
+Code postal : 67750
