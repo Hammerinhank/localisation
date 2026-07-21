@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 19:00
-Localisation : 5 Rue de Baldenheim
-67600 Baldenheim
+Date : 21 juil. 2026 à 20:00
+Localisation : Place du Docteur Maurice Kubler
+67600 Sélestat
 France
-Latitude :48.26181070248335
-Longitude : 7.498459161491499
-Altitude : 169,232802270617
+Latitude :48.26000368928019
+Longitude : 7.455463726388761
+Altitude : 174,281526447394
 Code postal : 67600
