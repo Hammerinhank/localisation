@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 juil. 2026 à 09:31
-Localisation : 1 Place Stanislas
-54000 Nancy
+Date : 21 juil. 2026 à 10:30
+Localisation : A 33
+54110 Vitrimont
 France
-Latitude :48.69333371586419
-Longitude : 6.182988842504559
-Altitude : 203,639024460549
-Code postal : 54000
+Latitude :48.59070938728267
+Longitude : 6.418563547945707
+Altitude : 272,044460296631
+Code postal : 54110
