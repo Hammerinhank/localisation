@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 juil. 2026 à 14:30
-Localisation : 17 Boulevard François Amey
+Date : 21 juil. 2026 à 15:30
+Localisation : 5 Rue du Babil
 67600 Sélestat
 France
-Latitude :48.26379147362734
-Longitude : 7.463158322505152
-Altitude : 173,172271728516
+Latitude :48.26001864133518
+Longitude : 7.456068400384979
+Altitude : 174,224578857422
 Code postal : 67600
