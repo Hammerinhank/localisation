@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 12:00
-Localisation : 4 Rue de la Mairie
+Date : 21 juil. 2026 à 13:00
+Localisation : 8 Rue de la Mairie
 67750 Scherwiller
 France
-Latitude :48.28668221666667
-Longitude : 7.420956666666665
-Altitude : 191
+Latitude :48.28687856260572
+Longitude : 7.420956802514205
+Altitude : 187,535077703747
 Code postal : 67750
