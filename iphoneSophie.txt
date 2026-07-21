@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 juil. 2026 à 13:32
-Localisation : 2 Rue des Cigognes
-67750 Scherwiller
+Date : 21 juil. 2026 à 14:30
+Localisation : 17 Boulevard François Amey
+67600 Sélestat
 France
-Latitude :48.2853464059325
-Longitude : 7.418792671246629
-Altitude : 188,219464257786
-Code postal : 67750
+Latitude :48.26379147362734
+Longitude : 7.463158322505152
+Altitude : 173,172271728516
+Code postal : 67600
