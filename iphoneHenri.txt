@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 15:00
-Localisation : 42 Rue des Chevaliers
-67600 Sélestat
+Date : 21 juil. 2026 à 16:00
+Localisation : 5 Rue de Baldenheim
+67600 Baldenheim
 France
-Latitude :48.25933678874348
-Longitude : 7.455057711181444
-Altitude : 173,699658404173
+Latitude :48.26210450421766
+Longitude : 7.498545934818952
+Altitude : 168,094796142578
 Code postal : 67600
