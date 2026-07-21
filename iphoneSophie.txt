@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 20 juil. 2026 à 22:30
-Localisation : 2 Rue Pierre Semard
+Date : 21 juil. 2026 à 09:31
+Localisation : 1 Place Stanislas
 54000 Nancy
 France
-Latitude :48.68936739901503
-Longitude : 6.178146291917638
-Altitude : -1
+Latitude :48.69333371586419
+Longitude : 6.182988842504559
+Altitude : 203,639024460549
 Code postal : 54000
