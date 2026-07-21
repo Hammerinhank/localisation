@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 10:00
-Localisation : 5–11 Rue du Tapis Vert
-54000 Nancy
+Date : 21 juil. 2026 à 11:00
+Localisation : N 59
+88470 La Voivre
 France
-Latitude :48.69191000000001
-Longitude : 6.192268049999999
-Altitude : 195
-Code postal : 54000
+Latitude :48.34574416666666
+Longitude : 6.888294166666665
+Altitude : 305
+Code postal : 88470
