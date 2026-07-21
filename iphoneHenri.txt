@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 juil. 2026 à 14:00
-Localisation : D 35
-67750 Scherwiller
+Date : 21 juil. 2026 à 15:00
+Localisation : 42 Rue des Chevaliers
+67600 Sélestat
 France
-Latitude :48.29395378752928
-Longitude : 7.423252040230175
-Altitude : 185,184796142578
-Code postal : 67750
+Latitude :48.25933678874348
+Longitude : 7.455057711181444
+Altitude : 173,699658404173
+Code postal : 67600
