@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 juil. 2026 à 11:30
-Localisation : Forêt Communale d'Urbeis
-D 739
-67220 Urbeis
+Date : 21 juil. 2026 à 12:32
+Localisation : 8 Rue de la Mairie
+67750 Scherwiller
 France
-Latitude :48.3281285428539
-Longitude : 7.191253325061535
-Altitude : 548,08738131728
-Code postal : 67220
+Latitude :48.28685263106009
+Longitude : 7.420946040024155
+Altitude : 185,759464257786
+Code postal : 67750
