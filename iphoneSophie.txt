@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 18:31
-Localisation : Kornmarktstraße 5
-6900 Brégence
+Date : 22 juil. 2026 à 20:30
+Localisation : Gantschierstraße 6
+6780 Schruns
 Autriche
-Latitude :47.50500982354944
-Longitude : 9.74823602811618
-Altitude : 406,385894174076
-Code postal : 6900
+Latitude :47.08195844450038
+Longitude : 9.901562364422118
+Altitude : 666,73120270679
+Code postal : 6780
