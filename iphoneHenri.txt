@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 16:00
-Localisation : B31
-88079 Kressbronn am Bodensee
-Allemagne
-Latitude :47.59713361666666
-Longitude : 9.631654449999999
-Altitude : 457
-Code postal : 88079
+Date : 22 juil. 2026 à 17:00
+Localisation : Autobahn 4
+6912 Hörbranz
+Autriche
+Latitude :47.54508888333334
+Longitude : 9.737902783333334
+Altitude : 410
+Code postal : 6912
