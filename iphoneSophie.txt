@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 16:30
-Localisation : Kemptener Straße 147
-88131 Lindau
-Allemagne
-Latitude :47.57726253543915
-Longitude : 9.711271830161506
-Altitude : 476,320217578672
-Code postal : 88131
+Date : 22 juil. 2026 à 17:31
+Localisation : Kirchstraße 1
+6900 Brégence
+Autriche
+Latitude :47.50234135557172
+Longitude : 9.74707574821389
+Altitude : 405,575894174076
+Code postal : 6900
