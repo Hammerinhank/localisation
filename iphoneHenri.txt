@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 11:00
-Localisation : Place du Docteur Maurice Kubler
+Date : 22 juil. 2026 à 12:00
+Localisation : 17 Rue Westrich
 67600 Sélestat
 France
-Latitude :48.25999793040511
-Longitude : 7.455554606046896
-Altitude : 174,44270502871
+Latitude :48.28235301403576
+Longitude : 7.46185272772055
+Altitude : 174,305162849962
 Code postal : 67600
