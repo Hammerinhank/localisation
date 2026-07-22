@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 juil. 2026 à 22:30
+Date : 22 juil. 2026 à 09:30
 Localisation : 5 Rue de Baldenheim
 67600 Baldenheim
 France
-Latitude :48.2620612919507
-Longitude : 7.498550131247325
-Altitude : 169,195465203375
+Latitude :48.26208825879957
+Longitude : 7.498517208106069
+Altitude : 168,920984934412
 Code postal : 67600
