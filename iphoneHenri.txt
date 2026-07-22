@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 15:00
-Localisation : B31n
-88662 Überlingen
+Date : 22 juil. 2026 à 16:00
+Localisation : B31
+88079 Kressbronn am Bodensee
 Allemagne
-Latitude :47.77687445
-Longitude : 9.184238616666667
-Altitude : 475
-Code postal : 88662
+Latitude :47.59713361666666
+Longitude : 9.631654449999999
+Altitude : 457
+Code postal : 88079
