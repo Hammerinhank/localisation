@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 15:30
-Localisation : B31
-88709 Hagnau am Bodensee
+Date : 22 juil. 2026 à 16:30
+Localisation : Kemptener Straße 147
+88131 Lindau
 Allemagne
-Latitude :47.67831729729443
-Longitude : 9.313374180355401
-Altitude : 422,482387542725
-Code postal : 88709
+Latitude :47.57726253543915
+Longitude : 9.711271830161506
+Altitude : 476,320217578672
+Code postal : 88131
