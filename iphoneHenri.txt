@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 19:00
-Localisation : A14
-6820 Göfis
+Date : 22 juil. 2026 à 20:00
+Localisation : Gantschierstraße 6
+6780 Schruns
 Autriche
-Latitude :47.22770388333333
-Longitude : 9.621029716666667
-Altitude : 491
-Code postal : 6820
+Latitude :47.08206867251435
+Longitude : 9.901497931495317
+Altitude : 667,705579358183
+Code postal : 6780
