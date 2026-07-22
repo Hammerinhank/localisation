@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 17:31
-Localisation : Kirchstraße 1
+Date : 22 juil. 2026 à 18:31
+Localisation : Kornmarktstraße 5
 6900 Brégence
 Autriche
-Latitude :47.50234135557172
-Longitude : 9.74707574821389
-Altitude : 405,575894174076
+Latitude :47.50500982354944
+Longitude : 9.74823602811618
+Altitude : 406,385894174076
 Code postal : 6900
