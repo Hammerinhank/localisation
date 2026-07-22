@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 18:00
-Localisation : Ehregutaplatz 1
-6900 Brégence
+Date : 22 juil. 2026 à 19:00
+Localisation : A14
+6820 Göfis
 Autriche
-Latitude :47.50083803694236
-Longitude : 9.748869366646819
-Altitude : 426,107258080505
-Code postal : 6900
+Latitude :47.22770388333333
+Longitude : 9.621029716666667
+Altitude : 491
+Code postal : 6820
