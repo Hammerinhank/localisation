@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 14:30
+Date : 22 juil. 2026 à 15:30
 Localisation : B31
-78187 Geisingen
+88709 Hagnau am Bodensee
 Allemagne
-Latitude :47.91638585532215
-Longitude : 8.641571498937024
-Altitude : 681,260824760422
-Code postal : 78187
+Latitude :47.67831729729443
+Longitude : 9.313374180355401
+Altitude : 422,482387542725
+Code postal : 88709
