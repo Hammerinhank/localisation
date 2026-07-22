@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 09:30
-Localisation : 5 Rue de Baldenheim
-67600 Baldenheim
+Date : 22 juil. 2026 à 10:30
+Localisation : 7–11 Rue des Veaux
+67600 Sélestat
 France
-Latitude :48.26208825879957
-Longitude : 7.498517208106069
-Altitude : 168,920984934412
+Latitude :48.25835660028149
+Longitude : 7.457447052403324
+Altitude : 171,389251708984
 Code postal : 67600
