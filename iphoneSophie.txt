@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 10:30
-Localisation : 7–11 Rue des Veaux
+Date : 22 juil. 2026 à 11:31
+Localisation : Place du Docteur Maurice Kubler
 67600 Sélestat
 France
-Latitude :48.25835660028149
-Longitude : 7.457447052403324
-Altitude : 171,389251708984
+Latitude :48.2599987807022
+Longitude : 7.455451477271569
+Altitude : 176,248521724415
 Code postal : 67600
