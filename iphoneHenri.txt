@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 12:00
-Localisation : 17 Rue Westrich
-67600 Sélestat
-France
-Latitude :48.28235301403576
-Longitude : 7.46185272772055
-Altitude : 174,305162849962
-Code postal : 67600
+Date : 22 juil. 2026 à 14:00
+Localisation : B31
+79822 Titisee-Neustadt
+Allemagne
+Latitude :47.91556833333334
+Longitude : 8.180085000000002
+Altitude : 846
+Code postal : 79822
