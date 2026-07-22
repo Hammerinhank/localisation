@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 12:30
-Localisation : 3 Allée Westrich
-67600 Sélestat
-France
-Latitude :48.28118360551576
-Longitude : 7.461085917054115
-Altitude : 176,03292406816
-Code postal : 67600
+Date : 22 juil. 2026 à 13:30
+Localisation : Schillerstraße 2
+79102 Fribourg-en-Brisgau
+Allemagne
+Latitude :47.99040856241083
+Longitude : 7.853855888949097
+Altitude : 278,212514503859
+Code postal : 79102
