@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 06:00
+Date : 22 juil. 2026 à 07:00
 Localisation : 5 Rue de Baldenheim
 67600 Baldenheim
 France
-Latitude :48.26201185921716
-Longitude : 7.498555422522517
+Latitude :48.26201185882641
+Longitude : 7.4985554283417
 Altitude : 159,744796142578
 Code postal : 67600
