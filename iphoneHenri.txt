@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 juil. 2026 à 17:00
-Localisation : Autobahn 4
-6912 Hörbranz
+Date : 22 juil. 2026 à 18:00
+Localisation : Ehregutaplatz 1
+6900 Brégence
 Autriche
-Latitude :47.54508888333334
-Longitude : 9.737902783333334
-Altitude : 410
-Code postal : 6912
+Latitude :47.50083803694236
+Longitude : 9.748869366646819
+Altitude : 426,107258080505
+Code postal : 6900
