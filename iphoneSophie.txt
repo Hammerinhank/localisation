@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 juil. 2026 à 11:31
-Localisation : Place du Docteur Maurice Kubler
+Date : 22 juil. 2026 à 12:30
+Localisation : 3 Allée Westrich
 67600 Sélestat
 France
-Latitude :48.2599987807022
-Longitude : 7.455451477271569
-Altitude : 176,248521724415
+Latitude :48.28118360551576
+Longitude : 7.461085917054115
+Altitude : 176,03292406816
 Code postal : 67600
