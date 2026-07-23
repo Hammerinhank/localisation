@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juil. 2026 à 14:00
-Localisation : Silvrettastraße 1
+Date : 23 juil. 2026 à 15:00
+Localisation : Dr Vonbun Weg 3
 6780 Schruns
 Autriche
-Latitude :47.07979438195895
-Longitude : 9.920387260025974
-Altitude : 691,891996601876
+Latitude :47.08034936503793
+Longitude : 9.914376308812196
+Altitude : 678,992583359332
 Code postal : 6780
