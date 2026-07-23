@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 juil. 2026 à 13:37
-Localisation : Silvrettastraße 4
+Date : 23 juil. 2026 à 14:36
+Localisation : Wagenweg 1
 6780 Schruns
 Autriche
-Latitude :47.07990289469948
-Longitude : 9.920003508685989
+Latitude :47.0787444979203
+Longitude : 9.919856253174393
 Altitude : 0
 Code postal : 6780
