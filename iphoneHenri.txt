@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juil. 2026 à 12:00
-Localisation : Gantschierstraße 6
+Date : 23 juil. 2026 à 13:00
+Localisation : Pfarrkirche zum Heiligen Jodok
+Kirchplatz 18–24
 6780 Schruns
 Autriche
-Latitude :47.08200955247738
-Longitude : 9.901661342511352
-Altitude : 0
+Latitude :47.08032394271869
+Longitude : 9.919158294213508
+Altitude : 691,985437343606
 Code postal : 6780
