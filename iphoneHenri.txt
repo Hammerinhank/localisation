@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 23 juil. 2026 à 05:00
+Date : 23 juil. 2026 à 06:00
 Localisation : Gantschierstraße 6
 6780 Schruns
 Autriche
-Latitude :47.08209114404205
-Longitude : 9.901689360903083
-Altitude : 661,303397821273
+Latitude :47.08210166281798
+Longitude : 9.901702287434048
+Altitude : 661,302366326064
 Code postal : 6780
