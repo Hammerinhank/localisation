@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 juil. 2026 à 12:30
-Localisation : Tschagguns
+Date : 23 juil. 2026 à 13:37
+Localisation : Silvrettastraße 4
 6780 Schruns
 Autriche
-Latitude :47.07922620460528
-Longitude : 9.904099119349159
+Latitude :47.07990289469948
+Longitude : 9.920003508685989
 Altitude : 0
 Code postal : 6780
