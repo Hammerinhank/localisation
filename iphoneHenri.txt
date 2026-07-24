@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 juil. 2026 à 19:00
+Date : 24 juil. 2026 à 20:00
 Localisation : Pater-Nathanael-Weg 29
 6722 St. Gerold
 Autriche
-Latitude :47.2183901827736
-Longitude : 9.816939893498896
-Altitude : 843,712877736529
+Latitude :47.21847139723803
+Longitude : 9.816975438119533
+Altitude : 845,790223150664
 Code postal : 6722
