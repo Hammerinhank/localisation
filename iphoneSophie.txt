@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 11:30
-Localisation : A14
-6714 Bürs
+Date : 24 juil. 2026 à 12:30
+Localisation : Bahnhofstraße 18
+6845 Hohenems
 Autriche
-Latitude :47.16059299655925
-Longitude : 9.798355791726893
-Altitude : 556,907974243164
-Code postal : 6714
+Latitude :47.36293288483691
+Longitude : 9.683987336484506
+Altitude : 429,452789025381
+Code postal : 6845
