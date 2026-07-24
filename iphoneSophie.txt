@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 15:30
-Localisation : Brand 34
-6867 Schwarzenberg
+Date : 24 juil. 2026 à 17:30
+Localisation : L193
+6883 Au
 Autriche
-Latitude :47.41572105668582
-Longitude : 9.851224861661311
-Altitude : 718,902694702148
-Code postal : 6867
+Latitude :47.31840912026053
+Longitude : 9.959133657184887
+Altitude : 849,378168931231
+Code postal : 6883
