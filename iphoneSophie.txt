@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 18:30
-Localisation : Pater-Nathanael-Weg 29
-6722 St. Gerold
+Date : 24 juil. 2026 à 22:30
+Localisation : Gantschierstraße 6
+6780 Schruns
 Autriche
-Latitude :47.21899874691372
-Longitude : 9.817002701475005
-Altitude : 848,391133078374
-Code postal : 6722
+Latitude :47.08228924386515
+Longitude : 9.901937358122785
+Altitude : 655,367059844168
+Code postal : 6780
