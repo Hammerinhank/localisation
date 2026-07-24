@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 17:30
-Localisation : L193
-6883 Au
+Date : 24 juil. 2026 à 18:30
+Localisation : Pater-Nathanael-Weg 29
+6722 St. Gerold
 Autriche
-Latitude :47.31840912026053
-Longitude : 9.959133657184887
-Altitude : 849,378168931231
-Code postal : 6883
+Latitude :47.21899874691372
+Longitude : 9.817002701475005
+Altitude : 848,391133078374
+Code postal : 6722
