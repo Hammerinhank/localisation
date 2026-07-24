@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 juil. 2026 à 20:00
-Localisation : Pater-Nathanael-Weg 29
-6722 St. Gerold
+Date : 24 juil. 2026 à 21:00
+Localisation : Gantschierstraße 16
+6780 Schruns
 Autriche
-Latitude :47.21847139723803
-Longitude : 9.816975438119533
-Altitude : 845,790223150664
-Code postal : 6722
+Latitude :47.08271120885195
+Longitude : 9.902062745408589
+Altitude : 655,018293965616
+Code postal : 6780
