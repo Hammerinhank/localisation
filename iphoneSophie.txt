@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 12:30
-Localisation : Bahnhofstraße 18
-6845 Hohenems
+Date : 24 juil. 2026 à 13:30
+Localisation : Hof 14
+6867 Schwarzenberg
 Autriche
-Latitude :47.36293288483691
-Longitude : 9.683987336484506
-Altitude : 429,452789025381
-Code postal : 6845
+Latitude :47.41395038850437
+Longitude : 9.852218837435576
+Altitude : 695,759381465912
+Code postal : 6867
