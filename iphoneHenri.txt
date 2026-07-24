@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 juil. 2026 à 18:00
-Localisation : L193
-6733 Fontanella
+Date : 24 juil. 2026 à 19:00
+Localisation : Pater-Nathanael-Weg 29
+6722 St. Gerold
 Autriche
-Latitude :47.24829111666666
-Longitude : 9.911532783333332
-Altitude : 1147
-Code postal : 6733
+Latitude :47.2183901827736
+Longitude : 9.816939893498896
+Altitude : 843,712877736529
+Code postal : 6722
