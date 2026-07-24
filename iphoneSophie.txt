@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 14:30
-Localisation : Hof 14
+Date : 24 juil. 2026 à 15:30
+Localisation : Brand 34
 6867 Schwarzenberg
 Autriche
-Latitude :47.41387876650565
-Longitude : 9.852242519827881
-Altitude : 695,759381465912
+Latitude :47.41572105668582
+Longitude : 9.851224861661311
+Altitude : 718,902694702148
 Code postal : 6867
