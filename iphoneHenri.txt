@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 juil. 2026 à 11:00
-Localisation : Gantschierstraße 6
-6780 Schruns
+Date : 24 juil. 2026 à 12:00
+Localisation : Reutestraße 13–15
+6845 Hohenems
 Autriche
-Latitude :47.0821949481398
-Longitude : 9.901682406447671
-Altitude : 657,74
-Code postal : 6780
+Latitude :47.36576028333334
+Longitude : 9.705127499999998
+Altitude : 592
+Code postal : 6845
