@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 juil. 2026 à 10:30
-Localisation : Gantschierstraße 6
-6780 Schruns
+Date : 24 juil. 2026 à 11:30
+Localisation : A14
+6714 Bürs
 Autriche
-Latitude :47.08228518127166
-Longitude : 9.901924216175102
-Altitude : 655,325653238513
-Code postal : 6780
+Latitude :47.16059299655925
+Longitude : 9.798355791726893
+Altitude : 556,907974243164
+Code postal : 6714
