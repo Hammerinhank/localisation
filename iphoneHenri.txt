@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 juil. 2026 à 13:00
-Localisation : Bödele
-L48
+Date : 24 juil. 2026 à 14:00
+Localisation : Hof 14
 6867 Schwarzenberg
 Autriche
-Latitude :47.41310782937412
-Longitude : 9.838812237098161
-Altitude : 903
+Latitude :47.41399051452264
+Longitude : 9.852193216112161
+Altitude : 697,739526367187
 Code postal : 6867
