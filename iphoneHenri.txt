@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 juil. 2026 à 14:00
-Localisation : Hof 14
+Date : 24 juil. 2026 à 15:00
+Localisation : Brand 34
 6867 Schwarzenberg
 Autriche
-Latitude :47.41399051452264
-Longitude : 9.852193216112161
-Altitude : 697,739526367187
+Latitude :47.41578553878157
+Longitude : 9.851216553195068
+Altitude : 0
 Code postal : 6867
