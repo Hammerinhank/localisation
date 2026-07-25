@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 25 juil. 2026 à 11:34
-Localisation : Dorfstraße 33
-6773 Vandans
+Date : 25 juil. 2026 à 12:42
+Localisation : Silvrettastraße 21D
+6794 Gaschurn
 Autriche
-Latitude :47.09597124604559
-Longitude : 9.864978625196652
-Altitude : 709,0661277771
-Code postal : 6773
+Latitude :46.96733095002656
+Longitude : 10.06588269031508
+Altitude : 1065,86027314966
+Code postal : 6794
