@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 25 juil. 2026 à 17:30
-Localisation : Silvrettastraße 21D
-6794 Gaschurn
+Date : 25 juil. 2026 à 18:30
+Localisation : Gantschierstraße 6
+6780 Schruns
 Autriche
-Latitude :46.96735878598856
-Longitude : 10.06597795193306
-Altitude : 0
-Code postal : 6794
+Latitude :47.08208967864709
+Longitude : 9.90152482271087
+Altitude : 661,301720563864
+Code postal : 6780
