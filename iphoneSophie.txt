@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 25 juil. 2026 à 14:34
-Localisation : Silvrettastraße 21D
+Date : 25 juil. 2026 à 15:31
+Localisation : Innerbofa 44–52
 6794 Gaschurn
 Autriche
-Latitude :46.96733623691627
-Longitude : 10.06603662111994
-Altitude : 1065,9625342716
+Latitude :46.96833120663368
+Longitude : 10.05956657231791
+Altitude : 1038,39979553223
 Code postal : 6794
