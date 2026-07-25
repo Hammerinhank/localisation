@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 25 juil. 2026 à 14:00
+Date : 25 juil. 2026 à 15:00
 Localisation : Silvrettastraße 21D
 6794 Gaschurn
 Autriche
-Latitude :46.96743408910267
-Longitude : 10.06568000317622
-Altitude : 1060,65276561119
+Latitude :46.96740997790405
+Longitude : 10.06593435431197
+Altitude : 1058,8284500885
 Code postal : 6794
