@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 25 juil. 2026 à 18:00
-Localisation : Montafonerstraße 73
-6791 Sankt Gallenkirch
+Date : 25 juil. 2026 à 19:00
+Localisation : Gantschierstraße 6
+6780 Schruns
 Autriche
-Latitude :47.03426695
-Longitude : 9.952032783333335
-Altitude : 775
-Code postal : 6791
+Latitude :47.08207033355529
+Longitude : 9.901404686192738
+Altitude : 671,00211939782
+Code postal : 6780
