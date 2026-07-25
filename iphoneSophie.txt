@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 25 juil. 2026 à 16:37
+Date : 25 juil. 2026 à 17:30
 Localisation : Silvrettastraße 21D
 6794 Gaschurn
 Autriche
-Latitude :46.96735668696525
-Longitude : 10.06596866803741
-Altitude : 1065,38035067972
+Latitude :46.96735878598856
+Longitude : 10.06597795193306
+Altitude : 0
 Code postal : 6794
