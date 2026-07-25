@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 25 juil. 2026 à 10:30
-Localisation : Gantschierstraße 6
-6780 Schruns
+Date : 25 juil. 2026 à 11:34
+Localisation : Dorfstraße 33
+6773 Vandans
 Autriche
-Latitude :47.08229414304343
-Longitude : 9.901934922804426
-Altitude : 655,322467159284
-Code postal : 6780
+Latitude :47.09597124604559
+Longitude : 9.864978625196652
+Altitude : 709,0661277771
+Code postal : 6773
