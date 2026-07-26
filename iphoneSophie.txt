@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 juil. 2026 à 13:42
-Localisation : Kreuzgasse 5A
+Date : 26 juil. 2026 à 14:30
+Localisation : Kreuzgasse 4
 6774 Tschagguns
 Autriche
-Latitude :47.07775518599269
-Longitude : 9.902698382528989
-Altitude : 691,455333709717
+Latitude :47.07781745028003
+Longitude : 9.902763898780695
+Altitude : 671,918752668993
 Code postal : 6774
