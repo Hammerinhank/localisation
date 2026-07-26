@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 juil. 2026 à 14:30
-Localisation : Kreuzgasse 4
-6774 Tschagguns
+Date : 26 juil. 2026 à 15:37
+Localisation : Bahnhofstraße 4
+6780 Schruns
 Autriche
-Latitude :47.07781745028003
-Longitude : 9.902763898780695
-Altitude : 671,918752668993
-Code postal : 6774
+Latitude :47.07998434941818
+Longitude : 9.919697165501715
+Altitude : 685,269138336182
+Code postal : 6780
