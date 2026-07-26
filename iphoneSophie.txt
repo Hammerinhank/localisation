@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 juil. 2026 à 15:37
-Localisation : Bahnhofstraße 4
+Date : 26 juil. 2026 à 16:30
+Localisation : Gerichtsweg 3
 6780 Schruns
 Autriche
-Latitude :47.07998434941818
-Longitude : 9.919697165501715
-Altitude : 685,269138336182
+Latitude :47.08043472292467
+Longitude : 9.920919043998651
+Altitude : 0
 Code postal : 6780
