@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 27 juil. 2026 à 20:32
-Localisation : Quadrätschweg
-6774 Tschagguns
+Date : 27 juil. 2026 à 22:30
+Localisation : Gantschierstraße 16
+6780 Schruns
 Autriche
-Latitude :47.07490488220463
-Longitude : 9.898968140558896
-Altitude : 0
-Code postal : 6774
+Latitude :47.08256925556456
+Longitude : 9.902142318761426
+Altitude : 685,953220367432
+Code postal : 6780
