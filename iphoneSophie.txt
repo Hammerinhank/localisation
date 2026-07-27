@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 27 juil. 2026 à 17:30
-Localisation : Tschagguns
-Tschagguns
+Date : 27 juil. 2026 à 18:31
+Localisation : Flanufweg
+6774 Tschagguns
 Autriche
-Latitude :47.07887481131608
-Longitude : 9.900673142040397
+Latitude :47.07475230369698
+Longitude : 9.898957712624748
 Altitude : 0
-Code postal : 
+Code postal : 6774
