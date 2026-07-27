@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juil. 2026 à 20:00
-Localisation : Quadrätschweg 6
-6774 Tschagguns
+Date : 27 juil. 2026 à 21:00
+Localisation : Gantschierstraße 16
+6780 Schruns
 Autriche
-Latitude :47.07467623854382
-Longitude : 9.898504467354011
-Altitude : 714,564695739746
-Code postal : 6774
+Latitude :47.08266437864184
+Longitude : 9.902140498651816
+Altitude : 654,694648167213
+Code postal : 6780
