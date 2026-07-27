@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juil. 2026 à 16:00
-Localisation : Gantschierstraße 6
-6780 Schruns
+Date : 27 juil. 2026 à 17:00
+Localisation : Unterziegerbergstraße 3
+6774 Tschagguns
 Autriche
-Latitude :47.08207440601577
-Longitude : 9.901671651432864
-Altitude : 661,304044619359
-Code postal : 6780
+Latitude :47.07451786034201
+Longitude : 9.898291793471587
+Altitude : 703,089002744354
+Code postal : 6774
