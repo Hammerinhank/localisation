@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 27 juil. 2026 à 19:00
-Localisation : Latschaustraße 15A
+Date : 27 juil. 2026 à 20:00
+Localisation : Quadrätschweg 6
 6774 Tschagguns
 Autriche
-Latitude :47.0747016925535
-Longitude : 9.898198931383746
-Altitude : 714,564699554443
+Latitude :47.07467623854382
+Longitude : 9.898504467354011
+Altitude : 714,564695739746
 Code postal : 6774
