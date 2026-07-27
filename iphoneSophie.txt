@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 27 juil. 2026 à 10:30
+Date : 27 juil. 2026 à 11:30
 Localisation : Gantschierstraße 6
 6780 Schruns
 Autriche
-Latitude :47.08230368892194
-Longitude : 9.901945891517366
-Altitude : 654,652992405943
+Latitude :47.08225191214666
+Longitude : 9.901878200155975
+Altitude : 655,985319366455
 Code postal : 6780
