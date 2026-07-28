@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 10:30
-Localisation : A14
-6714 Nüziders
-Autriche
-Latitude :47.17064055000001
-Longitude : 9.783100283333333
-Altitude : 540
-Code postal : 6714
+Date : 28 juil. 2026 à 11:30
+Localisation : A1
+9523 Züberwangen
+Suisse
+Latitude :47.45816888333334
+Longitude : 9.080408616666666
+Altitude : 510
+Code postal : 9523
