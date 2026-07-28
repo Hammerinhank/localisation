@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 28 juil. 2026 à 15:00
-Localisation : Kantonsschulstrasse 2
-8001 Zurich
+Date : 28 juil. 2026 à 18:00
+Localisation : A1
+1372 Bavois
 Suisse
-Latitude :47.37096057221331
-Longitude : 8.548685620078995
-Altitude : 423,769282878529
-Code postal : 8001
+Latitude :46.67902110800247
+Longitude : 6.571855944914009
+Altitude : 531,937348415144
+Code postal : 1372
