@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 17:30
+Date : 28 juil. 2026 à 18:30
 Localisation : A1
-1796 Courgevaux
+1298 Céligny
 Suisse
-Latitude :46.90618
-Longitude : 7.094607500000001
-Altitude : 450
-Code postal : 1796
+Latitude :46.35481221666667
+Longitude : 6.176241666666666
+Altitude : 467
+Code postal : 1298
