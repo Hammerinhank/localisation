@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 28 juil. 2026 à 13:00
-Localisation : Heimplatz 1
+Date : 28 juil. 2026 à 14:00
+Localisation : Rämistrasse 49
 8001 Zurich
 Suisse
-Latitude :47.37006544131376
-Longitude : 8.548569649440392
-Altitude : 426,339102518782
+Latitude :47.37120022655079
+Longitude : 8.549515395424422
+Altitude : 426,652008157968
 Code postal : 8001
