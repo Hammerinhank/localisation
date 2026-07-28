@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 18:30
-Localisation : A1
-1298 Céligny
-Suisse
-Latitude :46.35481221666667
-Longitude : 6.176241666666666
-Altitude : 467
-Code postal : 1298
+Date : 28 juil. 2026 à 20:30
+Localisation : 771 Route de Conjocle
+01410 Champfromier
+France
+Latitude :46.20576772700769
+Longitude : 5.814343176223051
+Altitude : 0
+Code postal : 01410
