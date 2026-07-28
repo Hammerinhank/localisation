@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 11:30
-Localisation : A1
-9523 Züberwangen
+Date : 28 juil. 2026 à 12:30
+Localisation : Zürichbergstrasse 8
+8032 Zurich
 Suisse
-Latitude :47.45816888333334
-Longitude : 9.080408616666666
-Altitude : 510
-Code postal : 9523
+Latitude :47.37291245049703
+Longitude : 8.551482998754729
+Altitude : 445,096029910345
+Code postal : 8032
