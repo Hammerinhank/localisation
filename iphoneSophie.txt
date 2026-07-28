@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 15:32
-Localisation : Zürichbergstrasse 12
-8032 Zurich
+Date : 28 juil. 2026 à 16:30
+Localisation : Bahnhöfliweg
+5746 Walterswil SO
 Suisse
-Latitude :47.37292896883949
-Longitude : 8.551647068999879
-Altitude : 450,256029910345
-Code postal : 8032
+Latitude :47.32138028333334
+Longitude : 7.963608616666666
+Altitude : 460
+Code postal : 5746
