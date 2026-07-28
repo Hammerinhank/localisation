@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 12:30
-Localisation : Zürichbergstrasse 8
-8032 Zurich
+Date : 28 juil. 2026 à 13:30
+Localisation : Heimplatz 1
+8001 Zurich
 Suisse
-Latitude :47.37291245049703
-Longitude : 8.551482998754729
-Altitude : 445,096029910345
-Code postal : 8032
+Latitude :47.37025647797667
+Longitude : 8.548537839001412
+Altitude : 431,066029910345
+Code postal : 8001
