@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 13:30
-Localisation : Heimplatz 1
+Date : 28 juil. 2026 à 14:30
+Localisation : Rämistrasse 49
 8001 Zurich
 Suisse
-Latitude :47.37025647797667
-Longitude : 8.548537839001412
-Altitude : 431,066029910345
+Latitude :47.37072964475043
+Longitude : 8.549388182209285
+Altitude : 443,846029910345
 Code postal : 8001
