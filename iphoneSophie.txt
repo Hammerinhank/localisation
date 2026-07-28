@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 28 juil. 2026 à 16:30
-Localisation : Bahnhöfliweg
-5746 Walterswil SO
+Date : 28 juil. 2026 à 17:30
+Localisation : A1
+1796 Courgevaux
 Suisse
-Latitude :47.32138028333334
-Longitude : 7.963608616666666
-Altitude : 460
-Code postal : 5746
+Latitude :46.90618
+Longitude : 7.094607500000001
+Altitude : 450
+Code postal : 1796
