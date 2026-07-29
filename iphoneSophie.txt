@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 29 juil. 2026 à 13:30
-Localisation : Route de Conjocle
-01410 Champfromier
+Date : 29 juil. 2026 à 14:30
+Localisation : Champfromier
+Champfromier
 France
-Latitude :46.2061698792788
-Longitude : 5.81421170109664
+Latitude :46.19826872213408
+Longitude : 5.819427459131904
 Altitude : 0
-Code postal : 01410
+Code postal : 
