@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juil. 2026 à 20:00
-Localisation : Crêts du Haut-Jura
+Date : 29 juil. 2026 à 21:00
+Localisation : Forêt Communale de Champfromier
+Route des Avalanches
 01410 Champfromier
 France
-Latitude :46.21014146558199
-Longitude : 5.79770263574328
-Altitude : 1159,40784070175
+Latitude :46.21544810384863
+Longitude : 5.810403440734228
+Altitude : 1110,18451048484
 Code postal : 01410
