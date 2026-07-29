@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juil. 2026 à 23:00
+Date : 30 juil. 2026 à 00:00
 Localisation : Champfromier
 Champfromier
 France
-Latitude :46.19621953275027
-Longitude : 5.817461420175186
+Latitude :46.19352832646962
+Longitude : 5.815398303830536
 Altitude : 0
 Code postal : 
