@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 29 juil. 2026 à 18:30
-Localisation : Champfromier
-Champfromier
+Date : 29 juil. 2026 à 20:30
+Localisation : Forêt Communale de Champfromier
+01410 Champfromier
 France
-Latitude :46.1881549232964
-Longitude : 5.819975137414279
-Altitude : 0
-Code postal : 
+Latitude :46.21517605193593
+Longitude : 5.802025984804322
+Altitude : 1204,13582992554
+Code postal : 01410
