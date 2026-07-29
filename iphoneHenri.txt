@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 29 juil. 2026 à 22:00
-Localisation : 771 Route de Conjocle
-01410 Champfromier
+Date : 29 juil. 2026 à 23:00
+Localisation : Champfromier
+Champfromier
 France
-Latitude :46.20591893750929
-Longitude : 5.814136844021228
-Altitude : 727,568044407647
-Code postal : 01410
+Latitude :46.19621953275027
+Longitude : 5.817461420175186
+Altitude : 0
+Code postal : 
