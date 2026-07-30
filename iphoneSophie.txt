@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 11:30
-Localisation : D 14
+Date : 30 juil. 2026 à 12:30
+Localisation : 222 Route des Burgondes
 01410 Champfromier
 France
-Latitude :46.20127301264221
-Longitude : 5.849670877948335
-Altitude : 604,595184081234
+Latitude :46.19544134188364
+Longitude : 5.819479364950338
+Altitude : 647,540068486705
 Code postal : 01410
