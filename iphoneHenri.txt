@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 30 juil. 2026 à 12:00
-Localisation : D 14
-01410 Champfromier
+Date : 30 juil. 2026 à 13:00
+Localisation : A 40
+01430 Ceignes
 France
-Latitude :46.20261384290267
-Longitude : 5.851946099483358
-Altitude : 594,659450109276
-Code postal : 01410
+Latitude :46.12285213753294
+Longitude : 5.497093226488598
+Altitude : 638,696436629688
+Code postal : 01430
