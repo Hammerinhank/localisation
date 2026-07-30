@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 13:36
-Localisation : 600–640 Allée Bresse Revermont
-01250 Jasseron
+Date : 30 juil. 2026 à 14:30
+Localisation : Autoroute du Soleil
+71240 Varennes-le-Grand
 France
-Latitude :46.20400752021379
-Longitude : 5.297483268113037
-Altitude : 259,430019378662
-Code postal : 01250
+Latitude :46.69927898798762
+Longitude : 4.842698369179706
+Altitude : 183,252040863037
+Code postal : 71240
