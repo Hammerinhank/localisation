@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 09:30
+Date : 30 juil. 2026 à 10:30
 Localisation : Champfromier
 Champfromier
 France
-Latitude :46.20316980695343
-Longitude : 5.812121227232288
+Latitude :46.19537094342889
+Longitude : 5.810135033573939
 Altitude : 0
 Code postal : 
