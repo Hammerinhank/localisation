@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 12:30
-Localisation : 222 Route des Burgondes
-01410 Champfromier
+Date : 30 juil. 2026 à 13:36
+Localisation : 600–640 Allée Bresse Revermont
+01250 Jasseron
 France
-Latitude :46.19544134188364
-Longitude : 5.819479364950338
-Altitude : 647,540068486705
-Code postal : 01410
+Latitude :46.20400752021379
+Longitude : 5.297483268113037
+Altitude : 259,430019378662
+Code postal : 01250
