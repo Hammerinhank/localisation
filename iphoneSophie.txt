@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 15:30
-Localisation : A 6
-21360 Bligny-sur-Ouche
+Date : 30 juil. 2026 à 16:31
+Localisation : Chitry
+Chitry
 France
-Latitude :47.11166636091388
-Longitude : 4.711738005284882
-Altitude : 509,542324066162
-Code postal : 21360
+Latitude :47.77556247484674
+Longitude : 3.707298451490105
+Altitude : 0
+Code postal : 
