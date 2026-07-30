@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 16:31
-Localisation : Chitry
-Chitry
+Date : 30 juil. 2026 à 17:33
+Localisation : Autoroute du Soleil
+77167 Nemours
 France
-Latitude :47.77556247484674
-Longitude : 3.707298451490105
-Altitude : 0
-Code postal : 
+Latitude :48.24655455075973
+Longitude : 2.742244983094504
+Altitude : 117,5710105896
+Code postal : 77167
