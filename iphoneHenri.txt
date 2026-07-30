@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 30 juil. 2026 à 13:00
+Date : 30 juil. 2026 à 14:00
 Localisation : A 40
-01430 Ceignes
+01310 Confrançon
 France
-Latitude :46.12285213753294
-Longitude : 5.497093226488598
-Altitude : 638,696436629688
-Code postal : 01430
+Latitude :46.27036721666667
+Longitude : 5.04080945
+Altitude : 212
+Code postal : 01310
