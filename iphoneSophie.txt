@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 17:33
-Localisation : Autoroute du Soleil
-77167 Nemours
+Date : 30 juil. 2026 à 18:30
+Localisation : 16 Rue Jules Dupré
+75015 Paris
 France
-Latitude :48.24655455075973
-Longitude : 2.742244983094504
-Altitude : 117,5710105896
-Code postal : 77167
+Latitude :48.83011635397452
+Longitude : 2.29590176604902
+Altitude : 63,5844383239746
+Code postal : 75015
