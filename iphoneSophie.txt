@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 30 juil. 2026 à 14:30
-Localisation : Autoroute du Soleil
-71240 Varennes-le-Grand
+Date : 30 juil. 2026 à 15:30
+Localisation : A 6
+21360 Bligny-sur-Ouche
 France
-Latitude :46.69927898798762
-Longitude : 4.842698369179706
-Altitude : 183,252040863037
-Code postal : 71240
+Latitude :47.11166636091388
+Longitude : 4.711738005284882
+Altitude : 509,542324066162
+Code postal : 21360
