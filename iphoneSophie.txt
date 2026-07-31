@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 31 juil. 2026 à 10:30
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
+Date : 31 juil. 2026 à 11:30
+Localisation : 338 Rue de Vaugirard
 75015 Paris
 France
-Latitude :48.83382747096044
-Longitude : 2.295261570096663
-Altitude : 53,6608001599518
+Latitude :48.83668764168489
+Longitude : 2.294954326966017
+Altitude : 39,9054866502257
 Code postal : 75015
