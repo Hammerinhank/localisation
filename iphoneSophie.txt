@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 2 août 2026 à 13:30
-Localisation : 50 Rue des Écoles
-75005 Paris
+Date : 2 août 2026 à 14:30
+Localisation : Musée Marmottan Monet
+2 Rue Louis Boilly
+75016 Paris
 France
-Latitude :48.84963299258305
-Longitude : 2.345168326397367
-Altitude : 44,0262718200684
-Code postal : 75005
+Latitude :48.85920958804377
+Longitude : 2.267103126960406
+Altitude : 52,0849204705231
+Code postal : 75016
