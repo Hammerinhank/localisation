@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 2 août 2026 à 12:38
-Localisation : Jardin des Plantes
-45 Rue Cuvier
+Date : 2 août 2026 à 13:30
+Localisation : 50 Rue des Écoles
 75005 Paris
 France
-Latitude :48.84455264838326
-Longitude : 2.357231456013918
-Altitude : 0
+Latitude :48.84963299258305
+Longitude : 2.345168326397367
+Altitude : 44,0262718200684
 Code postal : 75005
