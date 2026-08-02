@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 2 août 2026 à 14:00
+Date : 2 août 2026 à 15:00
 Localisation : Musée Marmottan Monet
 2 Rue Louis Boilly
 75016 Paris
 France
-Latitude :48.85916484585471
-Longitude : 2.267330890041948
-Altitude : 52,5977887938726
+Latitude :48.85922989529912
+Longitude : 2.26713148056005
+Altitude : 52,0351073897084
 Code postal : 75016
