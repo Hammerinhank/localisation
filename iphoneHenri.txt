@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 2 août 2026 à 16:00
-Localisation : Parc des Pelouses d'Auteuil
-Boulevard Suchet
-Paris
+Date : 2 août 2026 à 17:00
+Localisation : 1 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.84824166666667
-Longitude : 2.25893305
-Altitude : 41
-Code postal : 
+Latitude :48.83390259202593
+Longitude : 2.295344564793328
+Altitude : 68,1822828038191
+Code postal : 75015
