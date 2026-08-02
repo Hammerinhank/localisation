@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 2 août 2026 à 09:30
-Localisation : 1 Rue Robert Lindet
+Date : 2 août 2026 à 10:30
+Localisation : 12 Rue Olivier de Serres
 75015 Paris
 France
-Latitude :48.83383203238461
-Longitude : 2.295335536178336
-Altitude : 56,0661888122559
+Latitude :48.83670578046699
+Longitude : 2.297917351871853
+Altitude : 41,7777456665039
 Code postal : 75015
