@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 2 août 2026 à 12:00
+Date : 2 août 2026 à 13:00
 Localisation : Jardin des Plantes
 45 Rue Cuvier
 75005 Paris
 France
-Latitude :48.84463724330372
-Longitude : 2.357194286002533
-Altitude : 36,0468174149903
+Latitude :48.8446286555045
+Longitude : 2.35717124401878
+Altitude : 38,4513259974434
 Code postal : 75005
