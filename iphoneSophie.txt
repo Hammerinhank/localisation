@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 2 août 2026 à 14:30
+Date : 2 août 2026 à 15:32
 Localisation : Musée Marmottan Monet
 2 Rue Louis Boilly
 75016 Paris
 France
-Latitude :48.85920958804377
-Longitude : 2.267103126960406
-Altitude : 52,0849204705231
+Latitude :48.85943233650548
+Longitude : 2.267348919435127
+Altitude : 52,9958412263351
 Code postal : 75016
