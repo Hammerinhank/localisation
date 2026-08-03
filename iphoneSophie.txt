@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 3 août 2026 à 16:32
-Localisation : Hôpital privé de l'Ouest Parisien
-14 Rue Castiglione del Lago
-78190 Trappes
+Date : 3 août 2026 à 17:30
+Localisation : 20 Rue Louis Armand
+75015 Paris
 France
-Latitude :48.77869889806685
-Longitude : 1.98981849986348
-Altitude : 170,696099068075
-Code postal : 78190
+Latitude :48.83253323384452
+Longitude : 2.279360583054162
+Altitude : 35,7056541442871
+Code postal : 75015
