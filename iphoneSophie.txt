@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 3 août 2026 à 10:30
-Localisation : Square Du Tchad
-8 Avenue du Général Sarrail
-75016 Paris
+Date : 3 août 2026 à 11:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+4 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.8466117673762
-Longitude : 2.255188819405409
-Altitude : 0
-Code postal : 75016
+Latitude :48.83381021138343
+Longitude : 2.29532328046946
+Altitude : 53,2560333394594
+Code postal : 75015
