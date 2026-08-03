@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 3 août 2026 à 09:30
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 3 août 2026 à 10:30
+Localisation : Square Du Tchad
+8 Avenue du Général Sarrail
+75016 Paris
 France
-Latitude :48.83392238733743
-Longitude : 2.295501154922809
-Altitude : 58,5536854292167
-Code postal : 75015
+Latitude :48.8466117673762
+Longitude : 2.255188819405409
+Altitude : 0
+Code postal : 75016
