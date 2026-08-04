@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 4 août 2026 à 23:00
+Date : 5 août 2026 à 00:00
 Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83387263989679
-Longitude : 2.295458245249223
+Latitude :48.83387143805292
+Longitude : 2.295461290596513
 Altitude : 53,111245736033
 Code postal : 75015
