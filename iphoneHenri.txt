@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 4 août 2026 à 08:00
-Localisation : École nationale supérieure des arts appliqués et des métiers d'art
-2 Rue Robert Lindet
+Date : 4 août 2026 à 09:00
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83381607784654
-Longitude : 2.295280729732359
+Latitude :48.83386574234474
+Longitude : 2.295448067831968
 Altitude : 57,1543201213304
 Code postal : 75015
