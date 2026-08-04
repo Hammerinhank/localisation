@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 4 août 2026 à 16:31
-Localisation : 2 Rue Victor Duruy
+Date : 4 août 2026 à 17:30
+Localisation : 47 Rue Olivier de Serres
 75015 Paris
 France
-Latitude :48.83789322120438
-Longitude : 2.297768719380654
-Altitude : 41,6850593580351
+Latitude :48.83435371397536
+Longitude : 2.295624099385177
+Altitude : 50,6186790466309
 Code postal : 75015
