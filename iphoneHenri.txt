@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 5 août 2026 à 16:00
-Localisation : Hôpital privé de l'Ouest Parisien
-14 Rue Castiglione del Lago
+Date : 5 août 2026 à 17:00
+Localisation : Trappes
+35 Rue Gabriel Péri
 78190 Trappes
 France
-Latitude :48.77833004420044
-Longitude : 1.989693979685027
-Altitude : 170,791469409716
+Latitude :48.77490636014876
+Longitude : 2.006416692079473
+Altitude : 168,720288391115
 Code postal : 78190
