@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 5 août 2026 à 11:30
-Localisation : Gare Montparnasse
-22 Place Raoul Dautry
-75015 Paris
+Date : 5 août 2026 à 12:30
+Localisation : D 23
+78190 Trappes
 France
-Latitude :48.84124081676806
-Longitude : 2.320586856951875
-Altitude : 61,3069877624512
-Code postal : 75015
+Latitude :48.77881065448042
+Longitude : 2.008835798302499
+Altitude : 170,852008285847
+Code postal : 78190
