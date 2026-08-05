@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 5 août 2026 à 18:30
-Localisation : Place Geneviève de Gaulle Anthonioz
+Date : 5 août 2026 à 20:30
+Localisation : 1 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83738752924729
-Longitude : 2.296280879529469
-Altitude : 37,7308616638184
+Latitude :48.83383253931093
+Longitude : 2.295331412411536
+Altitude : 67,7074380683899
 Code postal : 75015
