@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 5 août 2026 à 10:30
-Localisation : 1 Rue Robert Lindet
+Date : 5 août 2026 à 11:30
+Localisation : Gare Montparnasse
+22 Place Raoul Dautry
 75015 Paris
 France
-Latitude :48.83383202162367
-Longitude : 2.295329251873131
-Altitude : 56,4372699246137
+Latitude :48.84124081676806
+Longitude : 2.320586856951875
+Altitude : 61,3069877624512
 Code postal : 75015
