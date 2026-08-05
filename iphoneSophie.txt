@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 5 août 2026 à 17:30
-Localisation : Montigny-le-Bretonneux
-Montigny-le-Bretonneux
+Date : 5 août 2026 à 18:30
+Localisation : Place Geneviève de Gaulle Anthonioz
+75015 Paris
 France
-Latitude :48.79340813639326
-Longitude : 2.052197609780516
-Altitude : 161,57743806839
-Code postal : 
+Latitude :48.83738752924729
+Longitude : 2.296280879529469
+Altitude : 37,7308616638184
+Code postal : 75015
