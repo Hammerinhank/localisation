@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 5 août 2026 à 13:30
+Date : 5 août 2026 à 14:30
 Localisation : Hôpital privé de l'Ouest Parisien
 14 Rue Castiglione del Lago
 78190 Trappes
 France
-Latitude :48.77830198517086
-Longitude : 1.990150580078082
-Altitude : 172,01743806839
+Latitude :48.77823928894893
+Longitude : 1.989587317092878
+Altitude : 168,33743806839
 Code postal : 78190
