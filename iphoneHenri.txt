@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 5 août 2026 à 11:00
-Localisation : 1 Rue Robert Lindet
-75015 Paris
+Date : 5 août 2026 à 12:00
+Localisation : 11–13 Rue de la Patte d'Oie
+78000 Versailles
 France
-Latitude :48.83384432943917
-Longitude : 2.295357700597748
-Altitude : 53,8920965156835
-Code postal : 75015
+Latitude :48.79584208241714
+Longitude : 2.142746448819058
+Altitude : 138,987415313721
+Code postal : 78000
