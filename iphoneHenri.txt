@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 août 2026 à 21:00
-Localisation : 23 Rue Eugène Gibez
+Date : 6 août 2026 à 22:00
+Localisation : 1 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83503622375747
-Longitude : 2.296011617800721
-Altitude : 47,8428865553946
+Latitude :48.8339008837016
+Longitude : 2.295342467652788
+Altitude : 56,1316095348315
 Code postal : 75015
