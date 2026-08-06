@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 6 août 2026 à 11:30
-Localisation : 137 Rue du Château
-92100 Boulogne-Billancourt
+Date : 6 août 2026 à 12:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+5 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.84169557933578
-Longitude : 2.237410180508555
-Altitude : 38,1632641765559
-Code postal : 92100
+Latitude :48.83383086241308
+Longitude : 2.295324975032215
+Altitude : 56,6063110276774
+Code postal : 75015
