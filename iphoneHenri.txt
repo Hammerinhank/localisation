@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 août 2026 à 10:00
-Localisation : Paris
-Paris
+Date : 6 août 2026 à 11:00
+Localisation : 14 Rue de Verdun
+92100 Boulogne-Billancourt
 France
-Latitude :48.84043427434878
-Longitude : 2.313793488034244
-Altitude : 0
-Code postal : 
+Latitude :48.84233689554778
+Longitude : 2.235142416645644
+Altitude : 36,3495232607345
+Code postal : 92100
