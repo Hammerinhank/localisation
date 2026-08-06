@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 août 2026 à 18:00
-Localisation : Montparnasse–Bienvenüe
-Boulevard du Montparnasse
-75006 Paris
+Date : 6 août 2026 à 20:00
+Localisation : 23 Rue Eugène Gibez
+75015 Paris
 France
-Latitude :48.84381593257145
-Longitude : 2.324077461617226
-Altitude : 48,8561473083496
-Code postal : 75006
+Latitude :48.83505850187208
+Longitude : 2.296010399295345
+Altitude : 47,7049312463344
+Code postal : 75015
