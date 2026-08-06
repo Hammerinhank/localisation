@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 6 août 2026 à 16:00
-Localisation : 23 Rue Leriche
-75015 Paris
+Date : 6 août 2026 à 17:00
+Localisation : Paris
+Paris
 France
-Latitude :48.83491067695361
-Longitude : 2.295421340230747
-Altitude : 47,6559828737108
-Code postal : 75015
+Latitude :48.84703211774142
+Longitude : 2.295248852424153
+Altitude : 0
+Code postal : 
