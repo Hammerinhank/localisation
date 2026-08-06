@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 août 2026 à 09:30
-Localisation : 1 Rue Robert Lindet
-75015 Paris
+Date : 6 août 2026 à 10:30
+Localisation : Boulogne-Billancourt
+Boulogne-Billancourt
 France
-Latitude :48.83383238804114
-Longitude : 2.295330837997021
-Altitude : 52,5175315782145
-Code postal : 75015
+Latitude :48.84208176576894
+Longitude : 2.23918405252408
+Altitude : 0
+Code postal : 
