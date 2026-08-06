@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 août 2026 à 17:32
-Localisation : 79 Rue de Rennes
-75006 Paris
+Date : 6 août 2026 à 18:30
+Localisation : 1 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.85045503307892
-Longitude : 2.33012170365943
-Altitude : 38,0838462372683
-Code postal : 75006
+Latitude :48.8338331059907
+Longitude : 2.295326656956977
+Altitude : 56,7342546779167
+Code postal : 75015
