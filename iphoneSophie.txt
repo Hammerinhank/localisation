@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 août 2026 à 16:32
-Localisation : 120 Rue du Théâtre
-75015 Paris
+Date : 6 août 2026 à 17:32
+Localisation : 79 Rue de Rennes
+75006 Paris
 France
-Latitude :48.84617146609959
-Longitude : 2.295213502502565
-Altitude : 55,3215041751603
-Code postal : 75015
+Latitude :48.85045503307892
+Longitude : 2.33012170365943
+Altitude : 38,0838462372683
+Code postal : 75006
