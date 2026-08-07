@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 6 août 2026 à 22:30
-Localisation : Rue Olivier de Serres
-75015 Paris
+Date : 7 août 2026 à 09:30
+Localisation : Paris
+Paris
 France
-Latitude :48.83411618094856
-Longitude : 2.295534678923794
-Altitude : 54,9975818276614
-Code postal : 75015
+Latitude :48.8326648987845
+Longitude : 2.296111734538773
+Altitude : 0
+Code postal : 
