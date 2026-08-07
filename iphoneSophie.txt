@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 7 août 2026 à 12:30
-Localisation : N 7
-03000 Avermes
+Date : 7 août 2026 à 13:30
+Localisation : 16 Route de Moulins
+03230 Thiel-sur-Acolin
 France
-Latitude :46.6121449135678
-Longitude : 3.291131565350379
-Altitude : 212,864589691162
-Code postal : 03000
+Latitude :46.52529462381313
+Longitude : 3.576358640153566
+Altitude : 0
+Code postal : 03230
