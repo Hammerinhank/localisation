@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 7 août 2026 à 11:30
-Localisation : Autoroute de l'Arbre
-58200 Myennes
+Date : 7 août 2026 à 12:30
+Localisation : N 7
+03000 Avermes
 France
-Latitude :47.43392597888357
-Longitude : 2.938967915254588
-Altitude : 188,768032073975
-Code postal : 58200
+Latitude :46.6121449135678
+Longitude : 3.291131565350379
+Altitude : 212,864589691162
+Code postal : 03000
