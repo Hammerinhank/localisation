@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 7 août 2026 à 10:30
-Localisation : Autoroute du Soleil
-77140 Nemours
+Date : 7 août 2026 à 11:30
+Localisation : Autoroute de l'Arbre
+58200 Myennes
 France
-Latitude :48.27075305675548
-Longitude : 2.715593568938704
-Altitude : 76,1506584007293
-Code postal : 77140
+Latitude :47.43392597888357
+Longitude : 2.938967915254588
+Altitude : 188,768032073975
+Code postal : 58200
