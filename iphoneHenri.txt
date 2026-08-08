@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 août 2026 à 16:00
-Localisation : 16 Route de Moulins
-03230 Thiel-sur-Acolin
+Date : 8 août 2026 à 17:00
+Localisation : N 79
+71600 Champlecy
 France
-Latitude :46.5254831894293
-Longitude : 3.575893662154189
-Altitude : 242,216183924812
-Code postal : 03230
+Latitude :46.44598221666667
+Longitude : 4.19734
+Altitude : 305
+Code postal : 71600
