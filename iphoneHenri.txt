@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 8 août 2026 à 19:00
-Localisation : Autoroute du Soleil
-26240 Saint-Barthélemy-de-Vals
+Date : 8 août 2026 à 20:00
+Localisation : 315 Chemin des Bastets
+26450 Roynac
 France
-Latitude :45.15499028333333
-Longitude : 4.888389166666667
-Altitude : 219
-Code postal : 26240
+Latitude :44.64831833333332
+Longitude : 4.931401666666666
+Altitude : 200
+Code postal : 26450
