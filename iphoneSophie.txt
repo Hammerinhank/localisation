@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 août 2026 à 17:30
-Localisation : N 79
-71960 Sologny
+Date : 8 août 2026 à 18:30
+Localisation : Autoroute du Soleil
+69360 Ternay
 France
-Latitude :46.37710277488856
-Longitude : 4.671184874677738
-Altitude : 379,741095731035
-Code postal : 71960
+Latitude :45.61357346328869
+Longitude : 4.80865631085593
+Altitude : 160,035999914631
+Code postal : 69360
