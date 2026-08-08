@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 août 2026 à 15:30
-Localisation : 16 Route de Moulins
-03230 Thiel-sur-Acolin
+Date : 8 août 2026 à 16:32
+Localisation : A 79
+03470 Coulanges
 France
-Latitude :46.52548044718681
-Longitude : 3.57590131211842
-Altitude : 244,77375179729
-Code postal : 03230
+Latitude :46.48092862891026
+Longitude : 3.829543772683099
+Altitude : 250,019130706787
+Code postal : 03470
