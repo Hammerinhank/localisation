@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 8 août 2026 à 10:30
+Date : 8 août 2026 à 11:30
 Localisation : École Élémentaire Publique Le Péage
 14 Route de Moulins
 03230 Thiel-sur-Acolin
 France
-Latitude :46.52520510014213
-Longitude : 3.576573830170221
+Latitude :46.52517182074958
+Longitude : 3.576679495311901
 Altitude : 240,61366317749
 Code postal : 03230
