@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 8 août 2026 à 18:30
-Localisation : Autoroute du Soleil
-69360 Ternay
+Date : 8 août 2026 à 20:30
+Localisation : 315 Chemin des Bastets
+26450 Roynac
 France
-Latitude :45.61357346328869
-Longitude : 4.80865631085593
-Altitude : 160,035999914631
-Code postal : 69360
+Latitude :44.64816252480669
+Longitude : 4.931228617558101
+Altitude : 194,344367980957
+Code postal : 26450
