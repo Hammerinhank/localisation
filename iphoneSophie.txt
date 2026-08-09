@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 9 août 2026 à 09:30
-Localisation : 265B Chemin des Bastets
-26450 Roynac
+Date : 9 août 2026 à 10:31
+Localisation : 300–372 Route de Cléon d'Andran
+26450 Puy-Saint-Martin
 France
-Latitude :44.64832596832056
-Longitude : 4.931431832321869
-Altitude : 194,549999237061
+Latitude :44.62608683435456
+Longitude : 4.967180019473651
+Altitude : 194,727749938965
 Code postal : 26450
