@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 11 août 2026 à 09:00
-Localisation : 265B Chemin des Bastets
-26450 Roynac
+Date : 11 août 2026 à 10:00
+Localisation : 370–408 Boulevard de Provence
+26450 Cléon-d'Andran
 France
-Latitude :44.64828376596358
-Longitude : 4.931509040124619
-Altitude : 0
+Latitude :44.61125009445518
+Longitude : 4.936842566595479
+Altitude : 185,772730592036
 Code postal : 26450
