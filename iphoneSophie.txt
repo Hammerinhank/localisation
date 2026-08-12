@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 12 août 2026 à 18:30
-Localisation : 3001–3301 Route de la Bégude de Mazene
-26770 Aleyrac
+Date : 12 août 2026 à 20:30
+Localisation : Châteaux de la Drôme
+4 Place du Tranchat
+26230 Grignan
 France
-Latitude :44.50154351540329
-Longitude : 4.94179920293851
-Altitude : 428,271350860596
-Code postal : 26770
+Latitude :44.41910871196762
+Longitude : 4.908516479637819
+Altitude : 226,533058642298
+Code postal : 26230
