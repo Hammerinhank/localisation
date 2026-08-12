@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 12 août 2026 à 00:00
-Localisation : 10 Rue Béla Bartók
-26200 Montélimar
+Date : 12 août 2026 à 02:00
+Localisation : 265B Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.56613885838452
-Longitude : 4.754028769801002
-Altitude : 77,0082149124146
-Code postal : 26200
+Latitude :44.64832610754667
+Longitude : 4.931507293227961
+Altitude : 0
+Code postal : 26450
