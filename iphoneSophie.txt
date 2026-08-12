@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 12 août 2026 à 17:30
-Localisation : 315 Chemin des Bastets
-26450 Roynac
+Date : 12 août 2026 à 18:30
+Localisation : 3001–3301 Route de la Bégude de Mazene
+26770 Aleyrac
 France
-Latitude :44.6485702274783
-Longitude : 4.931101799015822
-Altitude : 210,30005645752
-Code postal : 26450
+Latitude :44.50154351540329
+Longitude : 4.94179920293851
+Altitude : 428,271350860596
+Code postal : 26770
