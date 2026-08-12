@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 11 août 2026 à 22:33
-Localisation : 14 Rue Béla Bartók
-26200 Montélimar
+Date : 12 août 2026 à 09:35
+Localisation : 265B Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.56638771431896
-Longitude : 4.754105478141807
-Altitude : 78,1988455200195
-Code postal : 26200
+Latitude :44.64844579600847
+Longitude : 4.931625301917137
+Altitude : 195,673835754395
+Code postal : 26450
