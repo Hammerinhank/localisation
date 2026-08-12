@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 12 août 2026 à 23:00
-Localisation : Châteaux de la Drôme
-26230 Grignan
+Date : 13 août 2026 à 00:00
+Localisation : 315 Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.41850337682656
-Longitude : 4.90938764766373
-Altitude : 195,086109266405
-Code postal : 26230
+Latitude :44.64837046171733
+Longitude : 4.931215064917962
+Altitude : 194,57278324316
+Code postal : 26450
