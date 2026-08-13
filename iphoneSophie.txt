@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 12 août 2026 à 22:30
-Localisation : Châteaux de la Drôme
-2 Rue Saint-Sauveur
-26230 Grignan
+Date : 13 août 2026 à 10:30
+Localisation : Roynac
+Roynac
 France
-Latitude :44.41837072968315
-Longitude : 4.909239654347365
-Altitude : 223,100997924805
-Code postal : 26230
+Latitude :44.6299117662352
+Longitude : 4.938459044553425
+Altitude : 0
+Code postal : 
