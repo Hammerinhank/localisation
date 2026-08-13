@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 août 2026 à 17:30
-Localisation : 60A Chemin de Chagnac
-26450 Charols
+Date : 13 août 2026 à 20:30
+Localisation : 265B Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.59831941390605
-Longitude : 4.950218775337178
-Altitude : 199,107410430908
+Latitude :44.64820984757777
+Longitude : 4.931428959219399
+Altitude : 200,149848937988
 Code postal : 26450
