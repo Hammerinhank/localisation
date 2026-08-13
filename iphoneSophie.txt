@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 août 2026 à 20:30
+Date : 13 août 2026 à 22:30
 Localisation : 265B Chemin des Bastets
 26450 Roynac
 France
-Latitude :44.64820984757777
-Longitude : 4.931428959219399
-Altitude : 200,149848937988
+Latitude :44.64832573452865
+Longitude : 4.931517335243073
+Altitude : 0
 Code postal : 26450
