@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 août 2026 à 10:00
-Localisation : 315 Chemin des Bastets
+Date : 13 août 2026 à 11:00
+Localisation : 265B Chemin des Bastets
 26450 Roynac
 France
-Latitude :44.64835127466174
-Longitude : 4.931420384449394
-Altitude : 0
+Latitude :44.64830448949382
+Longitude : 4.931425961317514
+Altitude : 193,602474212646
 Code postal : 26450
