@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 15 août 2026 à 11:00
-Localisation : 265B Chemin des Bastets
+Date : 15 août 2026 à 12:00
+Localisation : Chemin de la Condamine
 26450 Roynac
 France
-Latitude :44.64830110817579
-Longitude : 4.931506149217791
-Altitude : 198,4136810489
+Latitude :44.64675538852421
+Longitude : 4.932423317176089
+Altitude : 0
 Code postal : 26450
