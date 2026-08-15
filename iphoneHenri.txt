@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 15 août 2026 à 21:00
-Localisation : 26450
-26450 Roynac
+Date : 15 août 2026 à 22:00
+Localisation : Roynac
+Roynac
 France
-Latitude :44.64008719508612
-Longitude : 4.926194576509399
+Latitude :44.64075960493957
+Longitude : 4.92303412160189
 Altitude : 0
-Code postal : 26450
+Code postal : 
