@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 août 2026 à 18:30
-Localisation : 315 Chemin des Bastets
-26450 Roynac
+Date : 17 août 2026 à 20:30
+Localisation : 1210 Arduc
+26160 Pont-de-Barret
 France
-Latitude :44.64828984779395
-Longitude : 4.931344231256471
-Altitude : 194,358772277832
-Code postal : 26450
+Latitude :44.61339941898167
+Longitude : 5.00997734179286
+Altitude : 255,721922330878
+Code postal : 26160
