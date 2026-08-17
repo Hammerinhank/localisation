@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 août 2026 à 20:30
-Localisation : 1210 Arduc
-26160 Pont-de-Barret
+Date : 17 août 2026 à 22:30
+Localisation : 1293–1491 Route de Cléon d'Andran
+26450 Roynac
 France
-Latitude :44.61339941898167
-Longitude : 5.00997734179286
-Altitude : 255,721922330878
-Code postal : 26160
+Latitude :44.62923305113299
+Longitude : 4.938751459126303
+Altitude : 180,725166320801
+Code postal : 26450
