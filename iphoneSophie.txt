@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 18 août 2026 à 13:32
-Localisation : Centre Commercial Leclerc
-10 Avenue des Catalins
-26200 Montélimar
+Date : 18 août 2026 à 14:30
+Localisation : 265B Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.5670053108399
-Longitude : 4.756967506174533
-Altitude : 86,9400759334707
-Code postal : 26200
+Latitude :44.64828630271215
+Longitude : 4.931490777524423
+Altitude : 239,744636535645
+Code postal : 26450
