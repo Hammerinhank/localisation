@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 18 août 2026 à 12:31
-Localisation : 14 Rue Ste-Croix
+Date : 18 août 2026 à 13:32
+Localisation : Centre Commercial Leclerc
+10 Avenue des Catalins
 26200 Montélimar
 France
-Latitude :44.5585136780605
-Longitude : 4.750315796123204
-Altitude : 87,4296406862266
+Latitude :44.5670053108399
+Longitude : 4.756967506174533
+Altitude : 86,9400759334707
 Code postal : 26200
