@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 août 2026 à 22:30
-Localisation : 1293–1491 Route de Cléon d'Andran
-26450 Roynac
+Date : 18 août 2026 à 09:30
+Localisation : Roynac
+Roynac
 France
-Latitude :44.62923305113299
-Longitude : 4.938751459126303
-Altitude : 180,725166320801
-Code postal : 26450
+Latitude :44.64779073514418
+Longitude : 4.933347381413084
+Altitude : 0
+Code postal : 
