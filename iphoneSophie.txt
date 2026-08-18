@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 18 août 2026 à 11:30
-Localisation : 6 Avenue du Général de Gaulle
+Date : 18 août 2026 à 12:31
+Localisation : 14 Rue Ste-Croix
 26200 Montélimar
 France
-Latitude :44.55583801448783
-Longitude : 4.749004110820874
-Altitude : 89,6305770874023
+Latitude :44.5585136780605
+Longitude : 4.750315796123204
+Altitude : 87,4296406862266
 Code postal : 26200
