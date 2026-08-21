@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 août 2026 à 15:00
-Localisation : 315 Chemin des Bastets
+Date : 21 août 2026 à 16:00
+Localisation : Route de Marsanne
 26450 Roynac
 France
-Latitude :44.64825517850006
-Longitude : 4.931346465495248
-Altitude : 194,677775588084
+Latitude :44.64714605654522
+Longitude : 4.932092950574252
+Altitude : 0
 Code postal : 26450
