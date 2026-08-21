@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 21 août 2026 à 20:00
-Localisation : 315 Chemin des Bastets
-26450 Roynac
+Date : 21 août 2026 à 21:01
+Localisation : 2 Place Auguste Canon
+26740 Marsanne
 France
-Latitude :44.64836888333333
-Longitude : 4.931257500000001
-Altitude : 200
-Code postal : 26450
+Latitude :44.64322727193775
+Longitude : 4.872875915664505
+Altitude : 261,622754090888
+Code postal : 26740
