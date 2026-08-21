@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 août 2026 à 16:30
+Date : 21 août 2026 à 17:30
 Localisation : Roynac
 Roynac
 France
-Latitude :44.64513880040771
-Longitude : 4.93317810289718
+Latitude :44.64288481938573
+Longitude : 4.934559070557659
 Altitude : 0
 Code postal : 
