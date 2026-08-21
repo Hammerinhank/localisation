@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 21 août 2026 à 18:30
-Localisation : Roynac
-Roynac
+Date : 21 août 2026 à 20:30
+Localisation : 2 Place Auguste Canon
+26740 Marsanne
 France
-Latitude :44.63950736935447
-Longitude : 4.936628364496951
-Altitude : 0
-Code postal : 
+Latitude :44.64325684185258
+Longitude : 4.872913872224387
+Altitude : 263,81849516703
+Code postal : 26740
