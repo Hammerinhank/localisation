@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 22 août 2026 à 09:30
-Localisation : 265B Chemin des Bastets
-26450 Roynac
+Date : 22 août 2026 à 10:30
+Localisation : 298 Boulevard de Provence
+26450 Cléon-d'Andran
 France
-Latitude :44.64833851516266
-Longitude : 4.931581977033568
-Altitude : 194,239387512207
+Latitude :44.61193411324727
+Longitude : 4.936318094034003
+Altitude : 184,275886535645
 Code postal : 26450
