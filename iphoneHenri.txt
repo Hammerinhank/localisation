@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 22 août 2026 à 11:00
-Localisation : Ecole Publique Puy St Martin
-Rue du 11 Novembre 1918
-26450 Puy-Saint-Martin
+Date : 22 août 2026 à 12:00
+Localisation : 265B Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.62708102414775
-Longitude : 4.97112301419183
-Altitude : 200,359291311126
+Latitude :44.64827614183024
+Longitude : 4.931520478390025
+Altitude : 193,489307951943
 Code postal : 26450
