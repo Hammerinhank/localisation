@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 15:30
-Localisation : 2 Rue du Four
+Date : 23 août 2026 à 16:30
+Localisation : 1–3 Rue de l'Église
 04200 Peipin
 France
-Latitude :44.13680257443021
-Longitude : 5.956866661332136
-Altitude : 0
+Latitude :44.13767740423039
+Longitude : 5.957686944389319
+Altitude : 499,714199066162
 Code postal : 04200
