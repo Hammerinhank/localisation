@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 11:31
-Localisation : Route du Col des Tourettes
-05150 Ribeyret
+Date : 23 août 2026 à 12:30
+Localisation : Route de Château-Arnoux
+Peipin
 France
-Latitude :44.42800002642388
-Longitude : 5.579343521972726
-Altitude : 1004,20965194702
-Code postal : 05150
+Latitude :44.13821621802089
+Longitude : 5.96090627834756
+Altitude : 479,476650238037
+Code postal : 
