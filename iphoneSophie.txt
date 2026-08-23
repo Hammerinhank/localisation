@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 20:32
+Date : 23 août 2026 à 22:31
 Localisation : 1016 Rue Principale
 04200 Noyers-sur-Jabron
 France
-Latitude :44.16950761537581
-Longitude : 5.825906128635306
-Altitude : 563,502773284912
+Latitude :44.16945612034305
+Longitude : 5.825985920215087
+Altitude : 554,925380706787
 Code postal : 04200
