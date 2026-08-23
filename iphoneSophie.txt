@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 18:30
-Localisation : 34 Grand'Rue
-04200 Peipin
+Date : 23 août 2026 à 20:32
+Localisation : 1016 Rue Principale
+04200 Noyers-sur-Jabron
 France
-Latitude :44.13679577100604
-Longitude : 5.956862487206493
-Altitude : 496,229435886408
+Latitude :44.16950761537581
+Longitude : 5.825906128635306
+Altitude : 563,502773284912
 Code postal : 04200
