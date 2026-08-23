@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 16:30
-Localisation : 1–3 Rue de l'Église
+Date : 23 août 2026 à 17:32
+Localisation : 1 Route Châteauneuf Val St-Donat
 04200 Peipin
 France
-Latitude :44.13767740423039
-Longitude : 5.957686944389319
-Altitude : 499,714199066162
+Latitude :44.13304182034419
+Longitude : 5.954117196376066
+Altitude : 495,13204574585
 Code postal : 04200
