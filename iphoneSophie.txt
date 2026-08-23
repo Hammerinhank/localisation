@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 09:30
-Localisation : 265B Chemin des Bastets
-26450 Roynac
+Date : 23 août 2026 à 10:30
+Localisation : 1001–1881 Route de Bouvières
+26470 Gumiane
 France
-Latitude :44.6483005795529
-Longitude : 4.931542743624753
-Altitude : 196,016120910645
-Code postal : 26450
+Latitude :44.50622397013428
+Longitude : 5.252934442837958
+Altitude : 829,647304534912
+Code postal : 26470
