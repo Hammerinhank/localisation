@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 23 août 2026 à 10:30
-Localisation : 1001–1881 Route de Bouvières
-26470 Gumiane
+Date : 23 août 2026 à 11:31
+Localisation : Route du Col des Tourettes
+05150 Ribeyret
 France
-Latitude :44.50622397013428
-Longitude : 5.252934442837958
-Altitude : 829,647304534912
-Code postal : 26470
+Latitude :44.42800002642388
+Longitude : 5.579343521972726
+Altitude : 1004,20965194702
+Code postal : 05150
