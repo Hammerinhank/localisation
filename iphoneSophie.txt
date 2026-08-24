@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 17:31
+Date : 24 août 2026 à 18:30
 Localisation : 3 Rue Joseph Cabassol
 13100 Aix-en-Provence
 France
-Latitude :43.52604467663395
-Longitude : 5.449048397992393
-Altitude : 199,269674220758
+Latitude :43.52594157143906
+Longitude : 5.449072201565064
+Altitude : 199,899674220758
 Code postal : 13100
