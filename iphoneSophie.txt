@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 13:30
+Date : 24 août 2026 à 14:30
 Localisation : 904 Chemin de Repentance
 13100 Aix-en-Provence
 France
-Latitude :43.54016276001975
-Longitude : 5.479346012951051
+Latitude :43.54013787970208
+Longitude : 5.479337305736744
 Altitude : 0
 Code postal : 13100
