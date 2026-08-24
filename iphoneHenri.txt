@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 août 2026 à 13:00
+Date : 24 août 2026 à 14:00
 Localisation : 904 Chemin de Repentance
 13100 Aix-en-Provence
 France
-Latitude :43.54013071885327
-Longitude : 5.479338946382305
-Altitude : 285,662321456241
+Latitude :43.54012557826416
+Longitude : 5.479281498193641
+Altitude : 285,570860450242
 Code postal : 13100
