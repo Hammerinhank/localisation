@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 18:30
-Localisation : 3 Rue Joseph Cabassol
-13100 Aix-en-Provence
+Date : 24 août 2026 à 20:30
+Localisation : Autoroute du Soleil
+26700 Les Granges-Gontardes
 France
-Latitude :43.52594157143906
-Longitude : 5.449072201565064
-Altitude : 199,899674220758
-Code postal : 13100
+Latitude :44.41546497404986
+Longitude : 4.731617951770063
+Altitude : 73,0725364685059
+Code postal : 26700
