@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 août 2026 à 15:00
-Localisation : 904 Chemin de Repentance
+Date : 24 août 2026 à 16:00
+Localisation : 19 Boulevard du Roi René
 13100 Aix-en-Provence
 France
-Latitude :43.5401555543673
-Longitude : 5.479347409338965
-Altitude : 285,471102130965
+Latitude :43.52415780445487
+Longitude : 5.451075159976408
+Altitude : 187,052033632062
 Code postal : 13100
