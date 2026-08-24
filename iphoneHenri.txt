@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 août 2026 à 17:00
-Localisation : 3 Rue Joseph Cabassol
+Date : 24 août 2026 à 18:00
+Localisation : 19 Boulevard du Roi René
 13100 Aix-en-Provence
 France
-Latitude :43.52595134213331
-Longitude : 5.449050095347627
-Altitude : 186,989500920922
+Latitude :43.52414887858769
+Longitude : 5.451107910760835
+Altitude : 183,46943787977
 Code postal : 13100
