@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 16:38
-Localisation : 10 Rue Goyrand
+Date : 24 août 2026 à 17:31
+Localisation : 3 Rue Joseph Cabassol
 13100 Aix-en-Provence
 France
-Latitude :43.52581338532317
-Longitude : 5.44890207939283
-Altitude : 186,709674220758
+Latitude :43.52604467663395
+Longitude : 5.449048397992393
+Altitude : 199,269674220758
 Code postal : 13100
