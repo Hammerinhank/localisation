@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 20:30
-Localisation : Autoroute du Soleil
-26700 Les Granges-Gontardes
+Date : 24 août 2026 à 22:30
+Localisation : 265B Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.41546497404986
-Longitude : 4.731617951770063
-Altitude : 73,0725364685059
-Code postal : 26700
+Latitude :44.64824058334471
+Longitude : 4.931447429552902
+Altitude : 189,699348449707
+Code postal : 26450
