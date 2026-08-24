@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 10:30
-Localisation : 34 Grand'Rue
-04200 Peipin
+Date : 24 août 2026 à 11:30
+Localisation : Autoroute du Val de Durance
+04800 Sainte-Tulle
 France
-Latitude :44.13676994142934
-Longitude : 5.956811649982519
-Altitude : 495,881565997601
-Code postal : 04200
+Latitude :43.7710014798253
+Longitude : 5.792775048862384
+Altitude : 280,602989626207
+Code postal : 04800
