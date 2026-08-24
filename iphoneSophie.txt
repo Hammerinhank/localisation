@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 24 août 2026 à 11:30
-Localisation : Autoroute du Val de Durance
-04800 Sainte-Tulle
+Date : 24 août 2026 à 12:30
+Localisation : 904 Chemin de Repentance
+13100 Aix-en-Provence
 France
-Latitude :43.7710014798253
-Longitude : 5.792775048862384
-Altitude : 280,602989626207
-Code postal : 04800
+Latitude :43.54014788359635
+Longitude : 5.479333975027768
+Altitude : 284,903316358336
+Code postal : 13100
