@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 24 août 2026 à 06:00
+Date : 24 août 2026 à 07:00
 Localisation : 2 Rue du Four
 04200 Peipin
 France
-Latitude :44.13682477559003
-Longitude : 5.956910784395987
-Altitude : 496,639756938648
+Latitude :44.13680947018367
+Longitude : 5.956909322950851
+Altitude : 497,446090744958
 Code postal : 04200
