@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 25 août 2026 à 13:00
-Localisation : 265B Chemin des Bastets
-26450 Roynac
+Date : 25 août 2026 à 14:00
+Localisation : Marsanne
+Marsanne
 France
-Latitude :44.6482994488164
-Longitude : 4.931462132099216
-Altitude : 198,355361824322
-Code postal : 26450
+Latitude :44.62583688527329
+Longitude : 4.90997994471579
+Altitude : 0
+Code postal : 
