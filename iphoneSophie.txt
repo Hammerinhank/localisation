@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 25 août 2026 à 17:30
-Localisation : Chemin les Baux
+Date : 25 août 2026 à 18:30
+Localisation : 315 Chemin des Bastets
 26450 Roynac
 France
-Latitude :44.64780543505032
-Longitude : 4.933155924868196
-Altitude : 0
+Latitude :44.64852706876495
+Longitude : 4.930968460651513
+Altitude : 211,174995422363
 Code postal : 26450
