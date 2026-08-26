@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 août 2026 à 14:30
-Localisation : 28 Avenue René Chartron
-26740 Marsanne
+Date : 26 août 2026 à 15:30
+Localisation : Autoroute du Soleil
+26000 Valence
 France
-Latitude :44.64167639096942
-Longitude : 4.872144220841469
-Altitude : 261,786891937256
-Code postal : 26740
+Latitude :44.91967099831195
+Longitude : 4.877182436607483
+Altitude : 111,112256869674
+Code postal : 26000
