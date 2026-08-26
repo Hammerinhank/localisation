@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 août 2026 à 15:30
+Date : 26 août 2026 à 16:30
 Localisation : Autoroute du Soleil
-26000 Valence
+69320 Solaize
 France
-Latitude :44.91967099831195
-Longitude : 4.877182436607483
-Altitude : 111,112256869674
-Code postal : 26000
+Latitude :45.66039546854574
+Longitude : 4.841853961588559
+Altitude : 166,328554805368
+Code postal : 69320
