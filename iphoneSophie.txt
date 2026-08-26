@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 août 2026 à 17:30
-Localisation : Autoroute du Soleil
-69380 Lissieu
+Date : 26 août 2026 à 18:37
+Localisation : 651 Route d'Azé
+71960 Igé
 France
-Latitude :45.85432124740205
-Longitude : 4.743146141344451
-Altitude : 258,433613182046
-Code postal : 69380
+Latitude :46.40582037067998
+Longitude : 4.744008292663341
+Altitude : 260,455935523799
+Code postal : 71960
