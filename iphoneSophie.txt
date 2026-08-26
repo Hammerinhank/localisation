@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 août 2026 à 16:30
+Date : 26 août 2026 à 17:30
 Localisation : Autoroute du Soleil
-69320 Solaize
+69380 Lissieu
 France
-Latitude :45.66039546854574
-Longitude : 4.841853961588559
-Altitude : 166,328554805368
-Code postal : 69320
+Latitude :45.85432124740205
+Longitude : 4.743146141344451
+Altitude : 258,433613182046
+Code postal : 69380
