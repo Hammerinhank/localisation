@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 août 2026 à 18:37
-Localisation : 651 Route d'Azé
-71960 Igé
+Date : 26 août 2026 à 20:30
+Localisation : 16 Route de Moulins
+03230 Thiel-sur-Acolin
 France
-Latitude :46.40582037067998
-Longitude : 4.744008292663341
-Altitude : 260,455935523799
-Code postal : 71960
+Latitude :46.52529159268306
+Longitude : 3.57581060460242
+Altitude : 263,365935523799
+Code postal : 03230
