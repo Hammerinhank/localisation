@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 26 août 2026 à 11:30
-Localisation : 40 Chemin de Riosset
-26450 Cléon-d'Andran
+Date : 26 août 2026 à 12:30
+Localisation : 315 Chemin des Bastets
+26450 Roynac
 France
-Latitude :44.61006668209256
-Longitude : 4.928852354635556
-Altitude : 181,629280090332
+Latitude :44.64845291782119
+Longitude : 4.931512200704623
+Altitude : 194,640266418457
 Code postal : 26450
