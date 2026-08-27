@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 27 août 2026 à 13:30
+Date : 27 août 2026 à 14:30
 Localisation : 16 Route de Moulins
 03230 Thiel-sur-Acolin
 France
-Latitude :46.52530811143839
-Longitude : 3.575825033699483
+Latitude :46.52530811151697
+Longitude : 3.57582503608652
 Altitude : 262,008067900275
 Code postal : 03230
