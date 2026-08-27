@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 27 août 2026 à 10:00
+Date : 27 août 2026 à 11:00
 Localisation : 16 Route de Moulins
 03230 Thiel-sur-Acolin
 France
-Latitude :46.52546587303098
-Longitude : 3.575862163020204
-Altitude : 241,468170340681
+Latitude :46.52546466581932
+Longitude : 3.57586589972695
+Altitude : 240,334273529053
 Code postal : 03230
