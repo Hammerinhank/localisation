@@ -1,10 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 28 août 2026 à 12:00
-Localisation : Hôpital privé de l'Ouest Parisien
-Rue de Koprivnice
-78190 Trappes
+Date : 28 août 2026 à 13:00
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
+75015 Paris
 France
-Latitude :48.77839481624655
-Longitude : 1.988549340469834
-Altitude : 174,235125679457
-Code postal : 78190
+Latitude :48.83379253043729
+Longitude : 2.295185904332229
+Altitude : 67,8448872853154
+Code postal : 75015
