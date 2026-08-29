@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 29 août 2026 à 20:30
+Date : 29 août 2026 à 22:30
 Localisation : École nationale supérieure des arts appliqués et des métiers d'art
 2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83377191012421
-Longitude : 2.295207058441138
-Altitude : 58,6564698494913
+Latitude :48.83377179573198
+Longitude : 2.295207084842587
+Altitude : 58,6570000924112
 Code postal : 75015
