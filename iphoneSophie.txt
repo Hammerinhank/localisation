@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 31 août 2026 à 20:30
+Date : 31 août 2026 à 22:31
 Localisation : 29 Rue Alain Chartier
 75015 Paris
 France
-Latitude :48.83767003097121
-Longitude : 2.296326912058811
+Latitude :48.83766957679146
+Longitude : 2.296328220488884
 Altitude : 38,5675646166901
 Code postal : 75015
