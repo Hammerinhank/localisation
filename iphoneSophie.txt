@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 31 août 2026 à 22:31
-Localisation : 29 Rue Alain Chartier
+Date : 10 sept. 2026 à 09:23
+Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83766957679146
-Longitude : 2.296328220488884
-Altitude : 38,5675646166901
+Latitude :48.83394680278793
+Longitude : 2.295436007180035
+Altitude : 59,7484375986804
 Code postal : 75015
