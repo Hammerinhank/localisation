@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 10 sept. 2026 à 14:00
-Localisation : 53 Rue Olivier de Serres
-75015 Paris
+Date : 10 sept. 2026 à 15:00
+Localisation : Rue de Vaugirard
+75006 Paris
 France
-Latitude :48.83413971610369
-Longitude : 2.295524099401777
-Altitude : 0
-Code postal : 75015
+Latitude :48.84523797707379
+Longitude : 2.320187080255943
+Altitude : 43,6055819044809
+Code postal : 75006
