@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 11 sept. 2026 à 21:00
+Date : 11 sept. 2026 à 22:00
 Localisation : 51 Rue Olivier de Serres
 75015 Paris
 France
-Latitude :48.8342006381105
-Longitude : 2.295601348365033
-Altitude : 51,4389034669336
+Latitude :48.8342205693755
+Longitude : 2.295586512532342
+Altitude : 51,8063227025658
 Code postal : 75015
