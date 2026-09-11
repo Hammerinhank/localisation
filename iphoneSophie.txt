@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 11 sept. 2026 à 11:30
-Localisation : 371 quater Rue de Vaugirard
+Date : 11 sept. 2026 à 12:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83643767721986
-Longitude : 2.295114138731158
-Altitude : 45,057771552772
+Latitude :48.83383999123586
+Longitude : 2.295276685495713
+Altitude : 60,0741764713294
 Code postal : 75015
