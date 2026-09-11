@@ -1,10 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 11 sept. 2026 à 18:30
-Localisation : Paris Expo Porte de Versailles
-15 Rue d'Oradour-sur-Glane
+Date : 11 sept. 2026 à 20:30
+Localisation : École nationale supérieure des arts appliqués et des métiers d'art
+2 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83138742768097
-Longitude : 2.282680403443317
-Altitude : 37,5511131286621
+Latitude :48.83384559204192
+Longitude : 2.295287297280655
+Altitude : 50,585351309009
 Code postal : 75015
