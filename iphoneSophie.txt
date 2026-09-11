@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 11 sept. 2026 à 10:37
-Localisation : 235 Rue de la Convention
+Date : 11 sept. 2026 à 11:30
+Localisation : 371 quater Rue de Vaugirard
 75015 Paris
 France
-Latitude :48.8358449237876
-Longitude : 2.30180220678663
-Altitude : 49,1773338317871
+Latitude :48.83643767721986
+Longitude : 2.295114138731158
+Altitude : 45,057771552772
 Code postal : 75015
