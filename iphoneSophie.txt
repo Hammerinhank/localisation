@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 12 sept. 2026 à 09:30
+Date : 12 sept. 2026 à 10:30
 Localisation : 5 Rue Robert Lindet
 75015 Paris
 France
-Latitude :48.83392305867145
-Longitude : 2.295461887307369
-Altitude : 51,4802513122559
+Latitude :48.83394256046895
+Longitude : 2.295456526622098
+Altitude : 51,8373680114746
 Code postal : 75015
