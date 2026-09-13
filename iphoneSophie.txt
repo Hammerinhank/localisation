@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 sept. 2026 à 12:31
-Localisation : Sanary-sur-Mer
-Sanary-sur-Mer
+Date : 13 sept. 2026 à 13:30
+Localisation : Saint-Raphaël
+Saint-Raphaël
 France
-Latitude :43.14148629571697
-Longitude : 5.773068679587557
+Latitude :43.42165756882781
+Longitude : 6.772366030426444
 Altitude : 0
 Code postal : 
