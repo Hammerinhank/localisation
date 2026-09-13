@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 sept. 2026 à 13:30
-Localisation : Saint-Raphaël
-Saint-Raphaël
+Date : 13 sept. 2026 à 14:30
+Localisation : Boulevard Général Vautrin
+06600 Antibes
 France
-Latitude :43.42165756882781
-Longitude : 6.772366030426444
-Altitude : 0
-Code postal : 
+Latitude :43.58659125622258
+Longitude : 7.119136886834485
+Altitude : 15,2468989603221
+Code postal : 06600
