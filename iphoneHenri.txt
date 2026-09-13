@@ -1,9 +1,10 @@
 NomFichier : iphoneHenri.txt
-Date : 13 sept. 2026 à 07:00
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 13 sept. 2026 à 08:00
+Localisation : Gare de Lyon
+38 Rue de Châlon
+75012 Paris
 France
-Latitude :48.83385912407819
-Longitude : 2.295444719028904
-Altitude : 55,1465172719305
-Code postal : 75015
+Latitude :48.84485597704212
+Longitude : 2.376206651684928
+Altitude : 38,7304393155313
+Code postal : 75012
