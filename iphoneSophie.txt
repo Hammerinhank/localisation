@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 sept. 2026 à 17:30
-Localisation : 7 Avenue Vilmorin
+Date : 13 sept. 2026 à 18:30
+Localisation : 15 Chemin de la Pinède
 06160 Antibes
 France
-Latitude :43.57229341714562
-Longitude : 7.109011120268216
-Altitude : 19,818286895752
+Latitude :43.57492536980803
+Longitude : 7.111320745569799
+Altitude : 27,5270389075645
 Code postal : 06160
