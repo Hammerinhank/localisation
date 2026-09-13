@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 sept. 2026 à 18:00
-Localisation : Résidence Éden Park, 37 Chemin de la Colle
+Date : 13 sept. 2026 à 19:00
+Localisation : 15 Chemin de la Pinède
 06160 Antibes
 France
-Latitude :43.57516449698102
-Longitude : 7.110724444536352
-Altitude : 22,3198966211152
+Latitude :43.57493224664629
+Longitude : 7.111201356310163
+Altitude : 32,6824933421095
 Code postal : 06160
