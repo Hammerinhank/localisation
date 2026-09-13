@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 13 sept. 2026 à 09:30
-Localisation : Les Écrennes
-Les Écrennes
+Date : 13 sept. 2026 à 12:31
+Localisation : Sanary-sur-Mer
+Sanary-sur-Mer
 France
-Latitude :48.50371028416104
-Longitude : 2.84416485417761
+Latitude :43.14148629571697
+Longitude : 5.773068679587557
 Altitude : 0
 Code postal : 
