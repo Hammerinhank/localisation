@@ -1,10 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 13 sept. 2026 à 08:00
-Localisation : Gare de Lyon
-38 Rue de Châlon
-75012 Paris
+Date : 13 sept. 2026 à 09:00
+Localisation : Servon
+Servon
 France
-Latitude :48.84485597704212
-Longitude : 2.376206651684928
-Altitude : 38,7304393155313
-Code postal : 75012
+Latitude :48.70785478350938
+Longitude : 2.579851206772377
+Altitude : 117,044998061773
+Code postal : 
