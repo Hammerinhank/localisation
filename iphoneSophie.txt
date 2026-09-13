@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 12 sept. 2026 à 22:30
-Localisation : 5 Rue Robert Lindet
-75015 Paris
+Date : 13 sept. 2026 à 09:30
+Localisation : Les Écrennes
+Les Écrennes
 France
-Latitude :48.83392251964106
-Longitude : 2.295487514812554
-Altitude : 59,299078811866
-Code postal : 75015
+Latitude :48.50371028416104
+Longitude : 2.84416485417761
+Altitude : 0
+Code postal : 
