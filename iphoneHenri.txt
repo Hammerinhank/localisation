@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 sept. 2026 à 11:00
-Localisation : 7 bis Chemin de la Pinède
+Date : 14 sept. 2026 à 12:00
+Localisation : 15 Avenue Nicolas Aussel
 06160 Antibes
 France
-Latitude :43.57495226381489
-Longitude : 7.111017803961877
-Altitude : 29,7477184377876
+Latitude :43.57734936795802
+Longitude : 7.106642447851367
+Altitude : 30,690181698883
 Code postal : 06160
