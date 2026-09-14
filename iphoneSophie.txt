@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 14 sept. 2026 à 18:30
-Localisation : 15 Chemin de la Pinède
+Date : 14 sept. 2026 à 20:30
+Localisation : 1 Rue des Îles
 06160 Antibes
 France
-Latitude :43.57486214012055
-Longitude : 7.111384745407969
-Altitude : 36,6031349822131
+Latitude :43.57084653144482
+Longitude : 7.103972947938732
+Altitude : 6,1931349822131
 Code postal : 06160
