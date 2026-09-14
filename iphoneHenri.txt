@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 14 sept. 2026 à 21:00
-Localisation : 33–37 Boulevard Charles Guillaumont
+Date : 14 sept. 2026 à 22:00
+Localisation : 7 bis Chemin de la Pinède
 06160 Antibes
 France
-Latitude :43.56988988323061
-Longitude : 7.1060788462344
-Altitude : 0,950257880319725
+Latitude :43.57495482615828
+Longitude : 7.110938914941197
+Altitude : 28,6901621183085
 Code postal : 06160
