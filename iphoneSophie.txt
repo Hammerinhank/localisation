@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 15 sept. 2026 à 16:30
-Localisation : 1166–1194 Route du Parc
-06560 Valbonne
+Date : 15 sept. 2026 à 17:30
+Localisation : Chemin du Fuguière
+06220 Vallauris
 France
-Latitude :43.60645139146553
-Longitude : 7.057661291857204
-Altitude : 131,039940790273
-Code postal : 06560
+Latitude :43.60265800490457
+Longitude : 7.059225368625525
+Altitude : 129,964763641357
+Code postal : 06220
