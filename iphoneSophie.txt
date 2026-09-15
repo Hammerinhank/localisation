@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 15 sept. 2026 à 17:30
-Localisation : Chemin du Fuguière
-06220 Vallauris
+Date : 15 sept. 2026 à 18:30
+Localisation : 15 Chemin de la Pinède
+06160 Antibes
 France
-Latitude :43.60265800490457
-Longitude : 7.059225368625525
-Altitude : 129,964763641357
-Code postal : 06220
+Latitude :43.57488372358793
+Longitude : 7.111356105830475
+Altitude : 36,9929764183236
+Code postal : 06160
