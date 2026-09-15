@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 15 sept. 2026 à 14:32
-Localisation : 15 Chemin de la Pinède
-06160 Antibes
+Date : 15 sept. 2026 à 16:30
+Localisation : 1166–1194 Route du Parc
+06560 Valbonne
 France
-Latitude :43.57489726278832
-Longitude : 7.111320954219822
-Altitude : 29,6450272587448
-Code postal : 06160
+Latitude :43.60645139146553
+Longitude : 7.057661291857204
+Altitude : 131,039940790273
+Code postal : 06560
