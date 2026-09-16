@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 16 sept. 2026 à 13:30
+Date : 16 sept. 2026 à 14:30
 Localisation : 1 Chemin des Princes
 06650 Le Rouret
 France
-Latitude :43.67323227150434
-Longitude : 7.005177749243228
-Altitude : 310,74475356205
+Latitude :43.67315554266837
+Longitude : 7.005177529471054
+Altitude : 315,235820770264
 Code postal : 06650
