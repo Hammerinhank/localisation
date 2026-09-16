@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 16 sept. 2026 à 12:30
-Localisation : Rond-point de la Croix-Rouge
-06600 Antibes
+Date : 16 sept. 2026 à 13:30
+Localisation : 1 Chemin des Princes
+06650 Le Rouret
 France
-Latitude :43.59616415579207
-Longitude : 7.090352140373634
-Altitude : 87,429069519043
-Code postal : 06600
+Latitude :43.67323227150434
+Longitude : 7.005177749243228
+Altitude : 310,74475356205
+Code postal : 06650
