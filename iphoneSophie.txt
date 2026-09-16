@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 16 sept. 2026 à 10:30
-Localisation : 15 Chemin de la Pinède
+Date : 16 sept. 2026 à 11:31
+Localisation : Résidence Éden Park, 37 Chemin de la Colle
 06160 Antibes
 France
-Latitude :43.57489889222114
-Longitude : 7.111346094557178
-Altitude : 29,5378779156034
+Latitude :43.5751955177712
+Longitude : 7.110569937488946
+Altitude : 26,8203183217708
 Code postal : 06160
