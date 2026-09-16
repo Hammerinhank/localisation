@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 16 sept. 2026 à 14:30
-Localisation : 1 Chemin des Princes
-06650 Le Rouret
+Date : 16 sept. 2026 à 15:32
+Localisation : D 35BIS
+06600 Antibes
 France
-Latitude :43.67315554266837
-Longitude : 7.005177529471054
-Altitude : 315,235820770264
-Code postal : 06650
+Latitude :43.5878316220302
+Longitude : 7.091563828296113
+Altitude : 42,2388229370117
+Code postal : 06600
