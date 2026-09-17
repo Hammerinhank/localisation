@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 sept. 2026 à 14:30
-Localisation : 2–8 Place Centrale
+Date : 17 sept. 2026 à 15:30
+Localisation : Rue Cassini
 06300 Nice
 France
-Latitude :43.69818784396971
-Longitude : 7.276898380737747
-Altitude : 21,3333053588867
+Latitude :43.69861649944108
+Longitude : 7.283984190384851
+Altitude : 10,0454025268555
 Code postal : 06300
