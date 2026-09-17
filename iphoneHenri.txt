@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 16:00
+Date : 17 sept. 2026 à 17:00
 Localisation : Nice
 Nice
 France
-Latitude :43.70624016774073
-Longitude : 7.195106122957588
-Altitude : 23,5659592528718
+Latitude :43.70625305175779
+Longitude : 7.195022583007811
+Altitude : 27,1559592528718
 Code postal : 
