@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 11:00
-Localisation : 15 Chemin de la Pinède
-06160 Antibes
+Date : 17 sept. 2026 à 12:00
+Localisation : Promenade des Anglais
+06000 Nice
 France
-Latitude :43.57487020829757
-Longitude : 7.111451755907105
-Altitude : 31,9895605985405
-Code postal : 06160
+Latitude :43.69029123188836
+Longitude : 7.244790743722745
+Altitude : 9,20906348992139
+Code postal : 06000
