@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 sept. 2026 à 16:30
-Localisation : 10 Rue Jules Bianchi
+Date : 17 sept. 2026 à 17:33
+Localisation : 20 Rue Jules Bianchi
 06200 Nice
 France
-Latitude :43.70584940698084
-Longitude : 7.194931864591502
-Altitude : 39,0038508261207
+Latitude :43.7061438114333
+Longitude : 7.195306714699066
+Altitude : 33,8538508261208
 Code postal : 06200
