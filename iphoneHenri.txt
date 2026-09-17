@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 12:00
-Localisation : Promenade des Anglais
-06000 Nice
+Date : 17 sept. 2026 à 13:00
+Localisation : 1 Rue François Zanin
+06300 Nice
 France
-Latitude :43.69029123188836
-Longitude : 7.244790743722745
-Altitude : 9,20906348992139
-Code postal : 06000
+Latitude :43.69950758664918
+Longitude : 7.278991789119886
+Altitude : 22,9756720969453
+Code postal : 06300
