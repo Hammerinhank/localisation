@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 13:00
-Localisation : 1 Rue François Zanin
+Date : 17 sept. 2026 à 14:00
+Localisation : Rue François Zanin
 06300 Nice
 France
-Latitude :43.69950758664918
-Longitude : 7.278991789119886
-Altitude : 22,9756720969453
+Latitude :43.69950924277914
+Longitude : 7.279006074160173
+Altitude : 0
 Code postal : 06300
