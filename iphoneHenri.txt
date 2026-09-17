@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 10:00
+Date : 17 sept. 2026 à 11:00
 Localisation : 15 Chemin de la Pinède
 06160 Antibes
 France
-Latitude :43.57488994951741
-Longitude : 7.111784717543172
-Altitude : 34,8114304719493
+Latitude :43.57487020829757
+Longitude : 7.111451755907105
+Altitude : 31,9895605985405
 Code postal : 06160
