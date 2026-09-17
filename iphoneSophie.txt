@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 sept. 2026 à 13:36
-Localisation : 1 Rue François Zanin
+Date : 17 sept. 2026 à 14:30
+Localisation : 2–8 Place Centrale
 06300 Nice
 France
-Latitude :43.69953572579618
-Longitude : 7.278970947655102
-Altitude : 16,8067074240211
+Latitude :43.69818784396971
+Longitude : 7.276898380737747
+Altitude : 21,3333053588867
 Code postal : 06300
