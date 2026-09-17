@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 15:00
-Localisation : Quai des Etats Unis
-06300 Nice
+Date : 17 sept. 2026 à 16:00
+Localisation : Nice
+Nice
 France
-Latitude :43.69482305204664
-Longitude : 7.276816583519553
-Altitude : 6,54320975672454
-Code postal : 06300
+Latitude :43.70624016774073
+Longitude : 7.195106122957588
+Altitude : 23,5659592528718
+Code postal : 
