@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 17 sept. 2026 à 14:00
-Localisation : Rue François Zanin
+Date : 17 sept. 2026 à 15:00
+Localisation : Quai des Etats Unis
 06300 Nice
 France
-Latitude :43.69950924277914
-Longitude : 7.279006074160173
-Altitude : 0
+Latitude :43.69482305204664
+Longitude : 7.276816583519553
+Altitude : 6,54320975672454
 Code postal : 06300
