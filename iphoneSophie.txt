@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 17 sept. 2026 à 11:30
-Localisation : D 6007
-06600 Antibes
+Date : 17 sept. 2026 à 12:34
+Localisation : 1 Rue François Zanin
+06300 Nice
 France
-Latitude :43.60035159771178
-Longitude : 7.121798393250811
-Altitude : 8,70885813143104
-Code postal : 06600
+Latitude :43.69946953567129
+Longitude : 7.278966666833072
+Altitude : 16,8067074240211
+Code postal : 06300
