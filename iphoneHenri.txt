@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 18 sept. 2026 à 16:00
+Date : 18 sept. 2026 à 17:00
 Localisation : Antibes
 Antibes
 France
-Latitude :43.57444092726931
-Longitude : 7.107605117856879
+Latitude :43.57301586293252
+Longitude : 7.109521829015438
 Altitude : 0
 Code postal : 
