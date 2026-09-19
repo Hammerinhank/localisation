@@ -1,10 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 sept. 2026 à 12:30
-Localisation : Jardin de la Pinede
-20 Boulevard Édouard Baudoin
+Date : 19 sept. 2026 à 13:32
+Localisation : 115 Boulevard du Président Wilson
 06160 Antibes
 France
-Latitude :43.56731756567958
-Longitude : 7.114574183128717
-Altitude : 19,321949005127
+Latitude :43.56892888531516
+Longitude : 7.113598769114005
+Altitude : 8,47807693481445
 Code postal : 06160
