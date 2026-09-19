@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 18 sept. 2026 à 22:30
-Localisation : 29 Boulevard Gustave Chancel
-06600 Antibes
+Date : 19 sept. 2026 à 09:30
+Localisation : 15 Chemin de la Pinède
+06160 Antibes
 France
-Latitude :43.57821771197349
-Longitude : 7.117581947416624
-Altitude : 16,6050300598145
-Code postal : 06600
+Latitude :43.5749496034646
+Longitude : 7.111531844153781
+Altitude : 0
+Code postal : 06160
