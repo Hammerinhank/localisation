@@ -1,9 +1,9 @@
 NomFichier : iphoneHenri.txt
-Date : 19 sept. 2026 à 13:00
-Localisation : 24 Avenue du Docteur Hochet
+Date : 19 sept. 2026 à 14:00
+Localisation : 15 Chemin de la Pinède
 06160 Antibes
 France
-Latitude :43.56894162799269
-Longitude : 7.111169501453168
-Altitude : 10,455010517119
+Latitude :43.57487360488239
+Longitude : 7.11143967408083
+Altitude : 30,1138598978036
 Code postal : 06160
