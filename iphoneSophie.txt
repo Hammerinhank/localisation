@@ -1,9 +1,10 @@
 NomFichier : iphoneSophie.txt
-Date : 19 sept. 2026 à 11:30
-Localisation : 56 Chemin des Sables
+Date : 19 sept. 2026 à 12:30
+Localisation : Jardin de la Pinede
+20 Boulevard Édouard Baudoin
 06160 Antibes
 France
-Latitude :43.56825927174037
-Longitude : 7.116189252481696
-Altitude : 12,8168487619237
+Latitude :43.56731756567958
+Longitude : 7.114574183128717
+Altitude : 19,321949005127
 Code postal : 06160
