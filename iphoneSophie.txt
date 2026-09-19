@@ -1,9 +1,9 @@
 NomFichier : iphoneSophie.txt
-Date : 19 sept. 2026 à 13:32
-Localisation : 115 Boulevard du Président Wilson
+Date : 19 sept. 2026 à 14:44
+Localisation : 15 Chemin de la Pinède
 06160 Antibes
 France
-Latitude :43.56892888531516
-Longitude : 7.113598769114005
-Altitude : 8,47807693481445
+Latitude :43.57489135475103
+Longitude : 7.111455490462386
+Altitude : 28,7424201965332
 Code postal : 06160
